@@ -129,21 +129,6 @@
                 "Estrategia Pasiva: Mantener la Humedad Relativa por debajo del 60%. El moho no puede crecer en ambientes secos.",
                 "Estrategia Activa (Germicida): Instalar lámparas UV-C de onda corta (254 nm) bañando el serpentín. La radiación ultravioleta penetra la pared celular de bacterias y moho, destruyendo su ADN e impidiendo que se reproduzcan. Mantiene el serpentín estéril y brillante sin usar químicos corrosivos."
             ]
-        },
-        {
-            "type": "heading",
-            "level": 2,
-            "text": "Resumen Ejecutivo para el Examen"
-        },
-        {
-            "type": "list",
-            "style": "ordered",
-            "items": [
-                "MERV 8 es el estándar mínimo decente para vivienda, pero vigile la caída de presión.",
-                "La Ventilación (aire fresco) es obligatoria por norma (ASHRAE 62.1) para diluir el CO2.",
-                "La Humedad controlada (<60%) es el mejor fungicida natural.",
-                "Usted no vende \"aire frío\", vende Salud Ambiental, Productividad y Confort."
-            ]
         }
     ]
 }
