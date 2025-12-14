@@ -1,0 +1,141 @@
+{
+    "blocks": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Lección 2.2: Soldadura Fuerte (Brazing) y Procedimientos de Unión de Tuberías"
+        },
+        {
+            "type": "paragraph",
+            "text": "La soldadura en refrigeración no tiene nada que ver con la plomería de agua. Aquí no usamos estaño ni pasta. Usamos aleaciones de Plata y Fósforo que funden a más de 700°C. Si hay una fuga en una soldadura, perderemos cientos de dólares en gas refrigerante R410A y dañaremos el medio ambiente."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "1. Soldadura Blanda vs. Soldadura Fuerte (Brazing)"
+        },
+        {
+            "type": "paragraph",
+            "text": "Es fundamental entender la diferencia química y térmica:"
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Soldadura Blanda (Plomería): Usa Estaño/Plomo. Funde a bajo calor (300°C). NO SOPORTA las presiones de 500 PSI del R410A ni la vibración del compresor. Prohibida en HVAC.",
+                "Soldadura Fuerte (Brazing): Usa aleaciones BCuP (Cobre-Fósforo) con Plata (0%, 5%, 15%, 45%). Funde por encima de los 700°C. Al enfriarse, la unión es más fuerte que el tubo de cobre original."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "La Aleación Correcta (Varilla de Plata)"
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "0% Plata: Barata. Agarre débil. Se usa poco en alta presión.",
+                "5% - 6% Plata: El estándar industrial (Harris 0). Buena fluidez y resistencia.",
+                "15% Plata: Excelente ductilidad. Obligatoria para resistir la vibración extrema en la descarga del compresor.",
+                "45% Plata (con fundente): Obligatoria para unir metales diferentes (Cobre con Bronce/Latón, o Cobre con Acero en compresores)."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "2. El Enemigo Oculto: Óxido de Cobre (Tizne)"
+        },
+        {
+            "type": "paragraph",
+            "text": "Cuando calientas el cobre al rojo vivo en presencia de aire (Oxígeno), se forma una costra negra llamada Óxido de Cobre (CuO). En el exterior del tubo no importa, se limpia."
+        },
+        {
+            "type": "paragraph",
+            "text": "EL PROBLEMA: Esa misma costra se forma DENTRO del tubo."
+        },
+        {
+            "type": "paragraph",
+            "text": "Consecuencia: Cuando el equipo arranca, el refrigerante arranca esas escamas negras y las empuja directo a:"
+        },
+        {
+            "type": "list",
+            "style": "ordered",
+            "items": [
+                "El filtro de aceite del compresor (Tapándolo).",
+                "El dispositivo de expansión TXV (Obstruyendo el micro-orificio).",
+                "Resultado: Muerte prematura del compresor en menos de 1 año."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "3. Procedimiento Crítico: Barrido con Nitrógeno (Nitrogen Purge)"
+        },
+        {
+            "type": "paragraph",
+            "text": "Para evitar la oxidación interna, debemos eliminar el oxígeno MIENTRAS soldamos. Esto solo se logra haciendo circular un flujo suave de Nitrógeno Gaseoso."
+        },
+        {
+            "type": "paragraph",
+            "text": "Paso a Paso del Procedimiento Profesional:"
+        },
+        {
+            "type": "list",
+            "style": "ordered",
+            "items": [
+                "Conexión: Conecta el tanque de Nitrógeno a través de un regulador y manifols a la tubería.",
+                "Regulación: Ajusta el regulador para que salga solo un \"susurro\" de gas (2 a 4 PSI). No queremos presión, solo flujo.",
+                "Salida: Asegúrate de que el otro extremo de la tubería esté abierto para que el nitrógeno salga y arrastre el oxígeno.",
+                "Soldadura: Procede a calentar y soldar con el nitrógeno fluyendo.",
+                "Resultado: El interior del tubo quedará brillante, color cobre espejo, sin una sola partícula de tizne."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Gases de Protección Prohibidos"
+        },
+        {
+            "type": "paragraph",
+            "text": "NUNCA uses Oxígeno para barrer (Explosión inminente con aceite). NUNCA uses Refrigerante (Crea gas Fosgeno tóxico al quemarse). Solo Nitrógeno (Inerte)."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "4. La Técnica de Capilaridad"
+        },
+        {
+            "type": "paragraph",
+            "text": "No se trata de \"pintar\" el tubo con plata derretida. La soldadura debe penetrar DENTRO de la copa (socket)."
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Limpieza: Lija macho y hembra hasta que brillen. Cero grasa.",
+                "Calentamiento: Calienta el TUBO primero (para que expanda contra la copa), luego la COPA. Mueve la antorcha constantemente.",
+                "Temperatura Base: El cobre debe estar color \"cereza opaco\". Si brilla demasiado o se funde, te pasaste de calor.",
+                "Aporte: Toca con la varilla. Si se funde al contacto con el cobre (sin tocar la llama), la temperatura es correcta. La plata fluirá hacia adentro por atracción capilar, llenando el espacio y sellando la fuga."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "5. Seguridad con Gases a Alta Presión"
+        },
+        {
+            "type": "paragraph",
+            "text": "Trabajamos con Acetileno (Inestable) y Oxígeno (Acelerante)."
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Regla del 1/4 de vuelta: Nunca abras la válvula del tanque de Acetileno más de media vuelta. En emergencia, debes poder cerrarla en 1 segundo.",
+                "Presión Máxima de Acetileno: NUNCA pases de 15 PSI de presión de trabajo. A más de 15 PSI, el acetileno se vuelve inestable y puede explotar espontáneamente sin chispa.",
+                "Transporte: Los cilindros siempre verticales y encadenados. Si un cilindro de Oxígeno cae y se rompe la válvula, se convierte en un misil torpedo capaz de atravesar paredes de concreto."
+            ]
+        }
+    ]
+}
