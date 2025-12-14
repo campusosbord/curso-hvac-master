@@ -1,0 +1,902 @@
+{
+    "modules": [
+        {
+            "title": "Módulo 1: Termodinámica y Psicrometría (La Ciencia del Aire)",
+            "description": "Fundamentos de física térmica y comportamiento del aire húmedo.",
+            "lessons": [
+                {
+                    "title": "1.1. Termodinámica avanzada: Entalpía y Entropía",
+                    "description": "Estudio profundo de la naturaleza del calor y las leyes de la termodinámica.",
+                    "type": "text",
+                    "content": "<h1>Lección 1.1: Fundamentos de Termodinámica</h1><p>(Contenido completo disponible en el archivo 1.1_Termodinamica_Avanzada.md)</p>",
+                    "duration": "180 min",
+                    "video_url": "",
+                    "image_url": "modos_transferencia_calor_1765732720849.png"
+                },
+                {
+                    "title": "1.2. El Ciclo de Refrigeración detallado (Diagrama de Mollier)",
+                    "description": "Análisis de presiones, temperaturas y cambios de estado.",
+                    "type": "text",
+                    "content": "<h1>Lección 1.2: El Ciclo de Refrigeración</h1><p>(Contenido completo disponible en el archivo 1.2_El_Ciclo_de_Refrigeracion.md)</p>",
+                    "duration": "120 min",
+                    "video_url": "",
+                    "image_url": "ciclo_refrigeracion_espanol_1765730783228.png"
+                },
+                {
+                    "title": "1.3. Psicrometría: Estudio del aire húmedo",
+                    "description": "Punto de rocío, humedad relativa y confort.",
+                    "type": "text",
+                    "content": "<h1>Lección 1.3: Psicrometría</h1><p>(Contenido completo disponible en el archivo 1.3_Psicrometria_Basica.md)</p>",
+                    "duration": "90 min",
+                    "video_url": "",
+                    "image_url": "psicrometria_confort_1765732448556.png"
+                },
+                {
+                    "title": "1.4. Confort térmico y Calidad de Aire Interior (IAQ)",
+                    "description": "Filtración MERV y normativas de ventilación.",
+                    "type": "text",
+                    "content": "<h1>Lección 1.4: IAQ</h1><p>(Contenido completo disponible en el archivo 1.4_Calidad_Aire_Interior.md)</p>",
+                    "duration": "60 min",
+                    "video_url": "",
+                    "image_url": "calidad_aire_iaq_1765732481131.png"
+                }
+            ],
+            "liveClasses": [],
+            "exams": [
+                {
+                    "title": "Examen Módulo 1",
+                    "description": "Evaluación de conocimientos teóricos.",
+                    "duration": "30 min",
+                    "max_attempts": 3,
+                    "exam_questions": [
+                        {
+                            "question": "¿Cuál de las siguientes afirmaciones describe mejor el concepto de 'frío' en termodinámica?",
+                            "type": "multiple_choice",
+                            "options": [
+                                "Es una energía opuesta al calor.",
+                                "Es una sustancia física.",
+                                "El frío no existe; es la ausencia de calor.",
+                                "Es la temperatura generado por el compresor."
+                            ],
+                            "correct_answer": "El frío no existe; es la ausencia de calor.",
+                            "points": 10
+                        },
+                        {
+                            "question": "¿Qué cambio de estado ocurre en el Condensador?",
+                            "type": "multiple_choice",
+                            "options": [
+                                "Evaporación (absorber calor).",
+                                "Condensación (gas a líquido, rechazando calor).",
+                                "Expansión (bajar presión).",
+                                "Compresión (subir presión)."
+                            ],
+                            "correct_answer": "Condensación (gas a líquido, rechazando calor).",
+                            "points": 10
+                        },
+                        {
+                            "question": "Si el aire enfría pero se siente 'pegajoso', ¿cuál es la causa probable?",
+                            "type": "multiple_choice",
+                            "options": [
+                                "Humedad relativa muy baja.",
+                                "Temperatura de retorno alta.",
+                                "Equipo no elimina suficiente calor latente (falta de deshumidificación).",
+                                "Filtro demasiado eficiente."
+                            ],
+                            "correct_answer": "Equipo no elimina suficiente calor latente (falta de deshumidificación).",
+                            "points": 10
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Módulo 2: Herramientas Profesionales y Seguridad",
+            "description": "Uso de manómetros, bombas de vacío y soldadura.",
+            "lessons": [
+                {
+                    "title": "2.1. Herramientas de precisión",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                },
+                {
+                    "title": "2.2. Soldadura fuerte (Brazing)",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                },
+                {
+                    "title": "2.3. Seguridad en alturas",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                },
+                {
+                    "title": "2.4. Protocolos LOTO",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                }
+            ],
+            "liveClasses": [],
+            "exams": [
+                {
+                    "title": "Examen Módulo 2",
+                    "description": "Herramientas y Seguridad",
+                    "duration": "30 min",
+                    "max_attempts": 3,
+                    "exam_questions": [
+                        {
+                            "question": "¿A cuántos micrones se debe llegar para considerar un vacío profundo adecuado en R410A?",
+                            "type": "multiple_choice",
+                            "options": [
+                                "1000 micrones",
+                                "500 micrones o menos",
+                                "0 micrones (imposible)",
+                                "-30 psi"
+                            ],
+                            "correct_answer": "500 micrones o menos",
+                            "points": 10
+                        },
+                        {
+                            "question": "¿Por qué se debe circular Nitrógeno mientras se suelda tubería de refrigeración?",
+                            "type": "multiple_choice",
+                            "options": [
+                                "Para enfriar el tubo.",
+                                "Para evitar la oxidación interna (tizne) que tapa filtros.",
+                                "Para ahorrar soldadura.",
+                                "Para aumentar la presión."
+                            ],
+                            "correct_answer": "Para evitar la oxidación interna (tizne) que tapa filtros.",
+                            "points": 10
+                        },
+                        {
+                            "question": "¿Qué significa LOTO en seguridad eléctrica?",
+                            "type": "multiple_choice",
+                            "options": [
+                                "Low Voltage Only",
+                                "Lock Out / Tag Out (Bloqueo y Etiquetado)",
+                                "Live Operations Test Order",
+                                "Lista de Operaciones Técnicas"
+                            ],
+                            "correct_answer": "Lock Out / Tag Out (Bloqueo y Etiquetado)",
+                            "points": 10
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Módulo 3: Electricidad y Electrónica de Control",
+            "description": "Circuitos trifásicos y lectura de diagramas.",
+            "lessons": [
+                {
+                    "title": "3.1. Electricidad avanzada",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                },
+                {
+                    "title": "3.2. Diagramas eléctricos",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                },
+                {
+                    "title": "3.3. Controles de 24V",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                },
+                {
+                    "title": "3.4. Automatización básica",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                }
+            ],
+            "liveClasses": [],
+            "exams": [
+                {
+                    "title": "Examen Módulo 3",
+                    "description": "Electricidad HVAC",
+                    "duration": "30 min",
+                    "max_attempts": 3,
+                    "exam_questions": [
+                        {
+                            "question": "¿Cuál es la función principal de un capacitor de marcha en un motor?",
+                            "type": "multiple_choice",
+                            "options": [
+                                "Aumentar el voltaje.",
+                                "Crear un desfase para dar torque y eficiencia continua.",
+                                "Proteger contra sobrecargas.",
+                                "Enfriar el motor."
+                            ],
+                            "correct_answer": "Crear un desfase para dar torque y eficiencia continua.",
+                            "points": 10
+                        },
+                        {
+                            "question": "¿Qué voltaje controlan típicamente los termostatos residenciales?",
+                            "type": "multiple_choice",
+                            "options": [
+                                "220V AC",
+                                "110V AC",
+                                "24V AC",
+                                "12V DC"
+                            ],
+                            "correct_answer": "24V AC",
+                            "points": 10
+                        },
+                        {
+                            "question": "En un circuito en serie, si una resistencia se quema (se abre), ¿qué pasa con la corriente?",
+                            "type": "multiple_choice",
+                            "options": [
+                                "Aumenta.",
+                                "Se detiene completamente.",
+                                "Sigue fluyendo por los otros componentes.",
+                                "Se invierte."
+                            ],
+                            "correct_answer": "Se detiene completamente.",
+                            "points": 10
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Módulo 4: Instalación Experta de Equipos Split",
+            "lessons": [
+                {
+                    "title": "4.1. Carga Térmica (Manual J)",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                },
+                {
+                    "title": "4.2. Instalaciones complejas",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                },
+                {
+                    "title": "4.3. Trampas de aceite",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                },
+                {
+                    "title": "4.4. Bombas de condensado",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                }
+            ],
+            "liveClasses": [],
+            "exams": [
+                {
+                    "title": "Examen Módulo 4",
+                    "description": "Instalación Split",
+                    "duration": "30 min",
+                    "max_attempts": 3,
+                    "exam_questions": [
+                        {
+                            "question": "¿Para qué sirve una trampa de aceite (sifón) en la línea de gas cuando la unidad exterior está ARRIBA?",
+                            "type": "multiple_choice",
+                            "options": [
+                                "Para atrapar suciedad.",
+                                "Para impulsar el aceite hacia arriba por velocidad y asegurar retorno al compresor.",
+                                "Para reducir el ruido.",
+                                "Para mejorar la estética."
+                            ],
+                            "correct_answer": "Para impulsar el aceite hacia arriba por velocidad y asegurar retorno al compresor.",
+                            "points": 10
+                        },
+                        {
+                            "question": "¿Cuál es la presión de prueba recomendada con Nitrógeno para buscar fugas en R410A?",
+                            "type": "multiple_choice",
+                            "options": [
+                                "50 psi",
+                                "150-200 psi",
+                                "350-500 psi (sin exceder diseño)",
+                                "1000 psi"
+                            ],
+                            "correct_answer": "350-500 psi (sin exceder diseño)",
+                            "points": 10
+                        },
+                        {
+                            "question": "¿Qué pendiente mínima debe tener la tubería de drenaje de condensado?",
+                            "type": "multiple_choice",
+                            "options": [
+                                "Totalmente horizontal.",
+                                "1% (1 cm por metro) hacia la descarga.",
+                                "Hacia arriba.",
+                                "No importa."
+                            ],
+                            "correct_answer": "1% (1 cm por metro) hacia la descarga.",
+                            "points": 10
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Módulo 5: Aire Central y Conductos",
+            "lessons": [
+                {
+                    "title": "5.1. Equipos Centrales",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                },
+                {
+                    "title": "5.2. Instalación AHU/Condensadora",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                },
+                {
+                    "title": "5.3. Diseño de conductos (Manual D)",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                },
+                {
+                    "title": "5.4. Presión estática",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                },
+                {
+                    "title": "5.5. Zonificación",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                },
+                {
+                    "title": "5.6. Termostatos inteligentes",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                }
+            ],
+            "liveClasses": [],
+            "exams": [
+                {
+                    "title": "Examen Módulo 5",
+                    "description": "Aire Central",
+                    "duration": "30 min",
+                    "max_attempts": 3,
+                    "exam_questions": [
+                        {
+                            "question": "¿Qué herramienta mide la Presión Estática Externa (ESP) en conductos?",
+                            "type": "multiple_choice",
+                            "options": [
+                                "Manómetro de refrigeración.",
+                                "Anemómetro de hilo.",
+                                "Manómetro diferencial.",
+                                "Multímetro."
+                            ],
+                            "correct_answer": "Manómetro diferencial.",
+                            "points": 10
+                        },
+                        {
+                            "question": "En un sistema bien diseñado, ¿el ducto de retorno debe ser más pequeño, igual o más grande que el de suministro?",
+                            "type": "multiple_choice",
+                            "options": [
+                                "Mucho más pequeño para aumentar velocidad.",
+                                "Igual o ligeramente mayor para evitar ruido y restricción.",
+                                "No se usan ductos de retorno.",
+                                "Lo más pequeño posible."
+                            ],
+                            "correct_answer": "Igual o ligeramente mayor para evitar ruido y restricción.",
+                            "points": 10
+                        },
+                        {
+                            "question": "¿Qué pasa si la presión estática es demasiado alta?",
+                            "type": "multiple_choice",
+                            "options": [
+                                "El equipo enfría más.",
+                                "El motor del soplador consume más amperaje o reduce el flujo de aire drásticamente.",
+                                "No pasa nada.",
+                                "Ahorra energía."
+                            ],
+                            "correct_answer": "El motor del soplador consume más amperaje o reduce el flujo de aire drásticamente.",
+                            "points": 10
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Módulo 6: Sistemas Comerciales",
+            "lessons": [
+                {
+                    "title": "6.1. Rooftops (RTU)",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                },
+                {
+                    "title": "6.2. Economizadores",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                },
+                {
+                    "title": "6.3. Instalación sobre Curb",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                },
+                {
+                    "title": "6.4. Mantenimiento comercial",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                }
+            ],
+            "liveClasses": [],
+            "exams": [
+                {
+                    "title": "Examen Módulo 6",
+                    "description": "Sistemas Comerciales",
+                    "duration": "30 min",
+                    "max_attempts": 3,
+                    "exam_questions": [
+                        {
+                            "question": "¿Cuál es la función principal de un Economizador en una unidad Rooftop?",
+                            "type": "multiple_choice",
+                            "options": [
+                                "Ahorrar gas refrigerante.",
+                                "Usar aire exterior fresco para enfriar cuando la temperatura externa es baja (Free Cooling).",
+                                "Reducir el ruido.",
+                                "Filtrar mejor el aire."
+                            ],
+                            "correct_answer": "Usar aire exterior fresco para enfriar cuando la temperatura externa es baja (Free Cooling).",
+                            "points": 10
+                        },
+                        {
+                            "question": "En un motor trifásico, ¿cómo se invierte el sentido de giro?",
+                            "type": "multiple_choice",
+                            "options": [
+                                "Cambiando el capacitor.",
+                                "Intercambiando dos de las tres fases de alimentación.",
+                                "Girándolo manualmente.",
+                                "No se puede invertir."
+                            ],
+                            "correct_answer": "Intercambiando dos de las tres fases de alimentación.",
+                            "points": 10
+                        },
+                        {
+                            "question": "¿Cómo se verifica la tensión correcta de una correa en poleas?",
+                            "type": "multiple_choice",
+                            "options": [
+                                "Debe estar rígida como una barra.",
+                                "Debe tener una deflexión de aprox 1/2 pulgada al presionar.",
+                                "Debe colgar libremente.",
+                                "Se usa aceite para que deslice."
+                            ],
+                            "correct_answer": "Debe tener una deflexión de aprox 1/2 pulgada al presionar.",
+                            "points": 10
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Módulo 7: Introducción a VRF y Chillers",
+            "lessons": [
+                {
+                    "title": "7.1. Fundamentos VRF",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                },
+                {
+                    "title": "7.2. Tuberías y Refnets",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                },
+                {
+                    "title": "7.3. Chillers y Torres",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                },
+                {
+                    "title": "7.4. Mantenimiento avanzado",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                }
+            ],
+            "liveClasses": [],
+            "exams": [
+                {
+                    "title": "Examen Módulo 7",
+                    "description": "VRF y Chillers",
+                    "duration": "30 min",
+                    "max_attempts": 3,
+                    "exam_questions": [
+                        {
+                            "question": "¿Qué es un Refnet en sistemas VRF?",
+                            "type": "multiple_choice",
+                            "options": [
+                                "Un filtro de red.",
+                                "Una derivación de tubería diseñada específicamente para distribuir refrigerante uniformemente.",
+                                "Una válvula de expansión.",
+                                "Un sensor de temperatura."
+                            ],
+                            "correct_answer": "Una derivación de tubería diseñada específicamente para distribuir refrigerante uniformemente.",
+                            "points": 10
+                        },
+                        {
+                            "question": "¿Qué fluido circula por los evaporadores (Fan Coils) de un sistema Chiller?",
+                            "type": "multiple_choice",
+                            "options": [
+                                "Gas Freón.",
+                                "Agua Helada (con glicol a veces).",
+                                "Aceite.",
+                                "Aire comprimido."
+                            ],
+                            "correct_answer": "Agua Helada (con glicol a veces).",
+                            "points": 10
+                        },
+                        {
+                            "question": "¿Cuál es la función de una Torre de Enfriamiento?",
+                            "type": "multiple_choice",
+                            "options": [
+                                "Enfriar el agua que viene del condensador del Chiller usando evaporación.",
+                                "Almacenar agua potable.",
+                                "Generar hielo.",
+                                "Calentar el edificio."
+                            ],
+                            "correct_answer": "Enfriar el agua que viene del condensador del Chiller usando evaporación.",
+                            "points": 10
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Módulo 8: Mantenimiento Integral PRO",
+            "lessons": [
+                {
+                    "title": "8.1. Mantenimiento Preventivo",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                },
+                {
+                    "title": "8.2. Limpieza química",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                },
+                {
+                    "title": "8.3. Mantenimiento Aire Central",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                },
+                {
+                    "title": "8.4. Medición de flujo",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                }
+            ],
+            "liveClasses": [],
+            "exams": [
+                {
+                    "title": "Examen Módulo 8",
+                    "description": "Mantenimiento",
+                    "duration": "30 min",
+                    "max_attempts": 3,
+                    "exam_questions": [
+                        {
+                            "question": "¿Qué tipo de químico se recomienda para serpentines de aluminio micro-channel?",
+                            "type": "multiple_choice",
+                            "options": [
+                                "Ácido fuerte espumoso.",
+                                "Limpiador pH neutro o agua a presión controlada.",
+                                "Soda cáustica.",
+                                "Cloro puro."
+                            ],
+                            "correct_answer": "Limpiador pH neutro o agua a presión controlada.",
+                            "points": 10
+                        },
+                        {
+                            "question": "¿Qué es el Delta T (ΔT) en el evaporador?",
+                            "type": "multiple_choice",
+                            "options": [
+                                "La diferencia de presión.",
+                                "La diferencia de temperatura entre el aire de retorno y el aire de suministro (ideal 10-12°C).",
+                                "La temperatura exterior.",
+                                "La corriente del motor."
+                            ],
+                            "correct_answer": "La diferencia de temperatura entre el aire de retorno y el aire de suministro (ideal 10-12°C).",
+                            "points": 10
+                        },
+                        {
+                            "question": "¿Qué indica si los platinos de un contactor están negros y picados?",
+                            "type": "multiple_choice",
+                            "options": [
+                                "Es normal.",
+                                "Deben lijaese.",
+                                "Deben reemplazarse el contactor para evitar caída de voltaje y daño al compresor.",
+                                "Están lubricados."
+                            ],
+                            "correct_answer": "Deben reemplazarse el contactor para evitar caída de voltaje y daño al compresor.",
+                            "points": 10
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Módulo 9: Diagnóstico y Resolución de Problemas",
+            "lessons": [
+                {
+                    "title": "9.1. Método sistemático",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                },
+                {
+                    "title": "9.2. Fallas de compresor",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                },
+                {
+                    "title": "9.3. Válvulas TXV",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                },
+                {
+                    "title": "9.4. Diagnóstico Inverter",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                }
+            ],
+            "liveClasses": [],
+            "exams": [
+                {
+                    "title": "Examen Módulo 9",
+                    "description": "Diagnóstico",
+                    "duration": "30 min",
+                    "max_attempts": 3,
+                    "exam_questions": [
+                        {
+                            "question": "Si tienes Subcooling 0°C y presión baja, ¿qué indica?",
+                            "type": "multiple_choice",
+                            "options": [
+                                "Falta de gas refrigerante (sistema vacío).",
+                                "Sobrecarga de gas.",
+                                "Compresor dañado.",
+                                "Condensador sucio."
+                            ],
+                            "correct_answer": "Falta de gas refrigerante (sistema vacío).",
+                            "points": 10
+                        },
+                        {
+                            "question": "Si el compresor arranca y se apaga a los 10 segundos (ciclo corto) y está muy caliente, ¿qué es probable?",
+                            "type": "multiple_choice",
+                            "options": [
+                                "Termostato dañado.",
+                                "Protector térmico interno abriéndose por sobrecalentamiento o capacitor malo.",
+                                "Falta de gas.",
+                                "Exceso de frío."
+                            ],
+                            "correct_answer": "Protector térmico interno abriéndose por sobrecalentamiento o capacitor malo.",
+                            "points": 10
+                        },
+                        {
+                            "question": "¿Qué síntoma da una Válvula de Expansión (TXV) trabada cerrada?",
+                            "type": "multiple_choice",
+                            "options": [
+                                "Presión de succión muy baja (vacío) y alta presión de condensación normal/baja.",
+                                "Presiones iguales.",
+                                "Compresor ruidoso.",
+                                "Evaporador inundado."
+                            ],
+                            "correct_answer": "Presión de succión muy baja (vacío) y alta presión de condensación normal/baja.",
+                            "points": 10
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Módulo 10: Gestión Ambiental",
+            "lessons": [
+                {
+                    "title": "10.1. Refrigerantes inflamables A2L",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                },
+                {
+                    "title": "10.2. Retrofit",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                },
+                {
+                    "title": "10.3. Normativas legales",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                }
+            ],
+            "liveClasses": [],
+            "exams": [
+                {
+                    "title": "Examen Módulo 10",
+                    "description": "Refrigerantes y Ambiente",
+                    "duration": "30 min",
+                    "max_attempts": 3,
+                    "exam_questions": [
+                        {
+                            "question": "¿Qué aceite usan obligatoriamente los refrigerantes HFC como el R410A?",
+                            "type": "multiple_choice",
+                            "options": [
+                                "Aceite Mineral.",
+                                "Aceite POE (Poliolester).",
+                                "Aceite de motor.",
+                                "Aceite vegetal."
+                            ],
+                            "correct_answer": "Aceite POE (Poliolester).",
+                            "points": 10
+                        },
+                        {
+                            "question": "¿Qué significa la clasificación A2L en refrigerantes como el R32?",
+                            "type": "multiple_choice",
+                            "options": [
+                                "No tóxico, ligeramente inflamable.",
+                                "Altamente explosivo.",
+                                "Tóxico y no inflamable.",
+                                "Agua pura."
+                            ],
+                            "correct_answer": "No tóxico, ligeramente inflamable.",
+                            "points": 10
+                        },
+                        {
+                            "question": "¿De qué color es típicamente el tanque de recuperación de refrigerante?",
+                            "type": "multiple_choice",
+                            "options": [
+                                "Rosa.",
+                                "Verde.",
+                                "Gris con tapa amarilla.",
+                                "Blanco."
+                            ],
+                            "correct_answer": "Gris con tapa amarilla.",
+                            "points": 10
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Módulo 11: Gestión del Negocio",
+            "lessons": [
+                {
+                    "title": "11.1. Cotización de trabajos",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                },
+                {
+                    "title": "11.2. Trato con el cliente",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                },
+                {
+                    "title": "11.3. Contratos de mantenimiento",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                },
+                {
+                    "title": "11.4. Organización y stock",
+                    "type": "text",
+                    "content": "",
+                    "duration": "30 min",
+                    "image_url": ""
+                }
+            ],
+            "liveClasses": [],
+            "exams": [
+                {
+                    "title": "Examen Módulo 11",
+                    "description": "Negocios",
+                    "duration": "30 min",
+                    "max_attempts": 3,
+                    "exam_questions": [
+                        {
+                            "question": "¿Qué se debe incluir en una cotización profesional además del precio?",
+                            "type": "multiple_choice",
+                            "options": [
+                                "Solo el precio final.",
+                                "Alcance del trabajo detalle de materiales garantías y condiciones de pago.",
+                                "Un dibujo.",
+                                "La firma del vecino."
+                            ],
+                            "correct_answer": "Alcance del trabajo detalle de materiales garantías y condiciones de pago.",
+                            "points": 10
+                        },
+                        {
+                            "question": "¿Por qué es importante ofrecer contratos de mantenimiento?",
+                            "type": "multiple_choice",
+                            "options": [
+                                "Para molestar al cliente.",
+                                "Genera flujo de caja constante y fideliza al cliente previendo fallas.",
+                                "Para trabajar menos.",
+                                "Es ilegal."
+                            ],
+                            "correct_answer": "Genera flujo de caja constante y fideliza al cliente previendo fallas.",
+                            "points": 10
+                        },
+                        {
+                            "question": "¿Cuál es la mejor publicidad para un técnico independiente?",
+                            "type": "multiple_choice",
+                            "options": [
+                                "Anuncios caros en TV.",
+                                "La recomendación boca a boca por un trabajo limpio y honesto.",
+                                "Pegar carteles en postes.",
+                                "Regalar el trabajo."
+                            ],
+                            "correct_answer": "La recomendación boca a boca por un trabajo limpio y honesto.",
+                            "points": 10
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

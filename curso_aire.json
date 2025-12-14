@@ -1,0 +1,431 @@
+{
+  "title": "Máster en Climatización, Instalación y Mantenimiento",
+  "category": "Oficios y Técnica",
+  "description": "Domina la instalación, reparación y mantenimiento de aires acondicionados residenciales y comerciales.",
+  "detailed_description": "Un programa exhaustivo que te lleva desde los principios de termodinámica hasta la gestión de un negocio de climatización, cubriendo sistemas Split, Centrales, Comerciales y nuevas tecnologías Inverter.",
+  "price": "$50.00",
+  "duration": "50 horas",
+  "students": 0,
+  "rating": 0.0,
+  "image": "./ciclo_refrigeracion_espanol_1765730783228.png",
+  "prerequisites": [
+    "No se requiere experiencia previa",
+    "Herramientas básicas (se detallan en el curso)",
+    "Ganas de aprender un oficio rentable"
+  ],
+  "modules": [
+    {
+      "title": "Módulo 1: Termodinámica y Psicrometría",
+      "description": "La Ciencia del Aire y fundamentos de refrigeración",
+      "duration": "2 horas",
+      "lessons": [
+        {
+          "title": "1.1. Termodinámica avanzada: Entalpía y Entropía",
+          "description": "Conceptos profundos de energía y calor",
+          "type": "leccion",
+          "duration": "20 min"
+        },
+        {
+          "title": "1.2. El Ciclo de Refrigeración detallado",
+          "description": "Análisis del Diagrama de Mollier y componentes",
+          "type": "leccion",
+          "duration": "25 min"
+        },
+        {
+          "title": "1.3. Psicrometría: Estudio del aire húmedo",
+          "description": "Punto de rocío, humedad relativa y confort",
+          "type": "leccion",
+          "duration": "20 min"
+        },
+        {
+          "title": "1.4. Confort térmico y Calidad de Aire Interior",
+          "description": "Importancia del IAQ en la climatización",
+          "type": "leccion",
+          "duration": "15 min"
+        },
+        {
+          "title": "Examen Módulo 1",
+          "description": "Evaluación de conocimientos teóricos",
+          "type": "examen",
+          "duration": "20 min"
+        }
+      ]
+    },
+    {
+      "title": "Módulo 2: Herramientas Profesionales y Seguridad",
+      "description": "Equipamiento necesario y protocolos de seguridad",
+      "duration": "2 horas",
+      "lessons": [
+        {
+          "title": "2.1. Herramientas de precisión",
+          "description": "Vacuómetros, balanzas y detectores",
+          "type": "leccion",
+          "duration": "20 min"
+        },
+        {
+          "title": "2.2. Soldadura fuerte (Brazing)",
+          "description": "Técnicas con Nitrógeno y Oxigas",
+          "type": "leccion",
+          "duration": "25 min"
+        },
+        {
+          "title": "2.3. Seguridad en alturas y espacios confinados",
+          "description": "Prevención de riesgos laborales",
+          "type": "leccion",
+          "duration": "15 min"
+        },
+        {
+          "title": "2.4. Protocolos de seguridad eléctrica LOTO",
+          "description": "Bloqueo y etiquetado para trabajos seguros",
+          "type": "leccion",
+          "duration": "20 min"
+        },
+        {
+          "title": "Examen Módulo 2",
+          "description": "Evaluación de herramientas y seguridad",
+          "type": "examen",
+          "duration": "20 min"
+        }
+      ]
+    },
+    {
+      "title": "Módulo 3: Electricidad y Electrónica de Control",
+      "description": "Fundamentos eléctricos para técnicos HVAC",
+      "duration": "2.5 horas",
+      "lessons": [
+        {
+          "title": "3.1. Electricidad avanzada",
+          "description": "Sistemas trifásicos y desbalance",
+          "type": "leccion",
+          "duration": "25 min"
+        },
+        {
+          "title": "3.2. Lectura de diagramas eléctricos",
+          "description": "Interpretación de planos complejos",
+          "type": "leccion",
+          "duration": "30 min"
+        },
+        {
+          "title": "3.3. Controles de bajo voltaje (24V)",
+          "description": "Transformadores, relés y termostatos",
+          "type": "leccion",
+          "duration": "20 min"
+        },
+        {
+          "title": "3.4. Introducción a la automatización básica",
+          "description": "Principios de control automático",
+          "type": "leccion",
+          "duration": "15 min"
+        },
+        {
+          "title": "Examen Módulo 3",
+          "description": "Evaluación de electricidad aplicada",
+          "type": "examen",
+          "duration": "20 min"
+        }
+      ]
+    },
+    {
+      "title": "Módulo 4: Instalación Experta de Equipos Split",
+      "description": "Instalación profesional paso a paso",
+      "duration": "2.5 horas",
+      "lessons": [
+        {
+          "title": "4.1. Cálculo de Carga Térmica Profesional",
+          "description": "Manual J simplificado",
+          "type": "leccion",
+          "duration": "25 min"
+        },
+        {
+          "title": "4.2. Instalación en situaciones complejas",
+          "description": "Grandes alturas y recorridos largos",
+          "type": "leccion",
+          "duration": "30 min"
+        },
+        {
+          "title": "4.3. Trampas de aceite y diseño de tuberías",
+          "description": "Buenas prácticas de instalación",
+          "type": "leccion",
+          "duration": "20 min"
+        },
+        {
+          "title": "4.4. Bombas de condensado",
+          "description": "Instalación y mantenimiento de bombas",
+          "type": "leccion",
+          "duration": "15 min"
+        },
+        {
+          "title": "Examen Módulo 4",
+          "description": "Evaluación de instalación Split",
+          "type": "examen",
+          "duration": "20 min"
+        }
+      ]
+    },
+    {
+      "title": "Módulo 5: Aire Central y Conductos",
+      "description": "Sistemas residenciales y comerciales ligeros",
+      "duration": "3.5 horas",
+      "lessons": [
+        {
+          "title": "5.1. Tipos de equipos centrales",
+          "description": "Diferencias entre Divididos y Paquetes",
+          "type": "leccion",
+          "duration": "20 min"
+        },
+        {
+          "title": "5.2. Instalación de Manejadora y Condensadora",
+          "description": "Montaje de unidades centrales",
+          "type": "leccion",
+          "duration": "30 min"
+        },
+        {
+          "title": "5.3. Fabricación y diseño de conductos",
+          "description": "Manual D, fibra de vidrio y lámina",
+          "type": "leccion",
+          "duration": "30 min"
+        },
+        {
+          "title": "5.4. Cálculo de caída de presión estática",
+          "description": "Diseño de flujo de aire eficiente",
+          "type": "leccion",
+          "duration": "25 min"
+        },
+        {
+          "title": "5.5. Instalación de Plenums y Zonificación",
+          "description": "Distribución de aire y dampers",
+          "type": "leccion",
+          "duration": "25 min"
+        },
+        {
+          "title": "5.6. Termostatos inteligentes y control",
+          "description": "Cableado de sistemas centrales",
+          "type": "leccion",
+          "duration": "20 min"
+        },
+        {
+          "title": "Examen Módulo 5",
+          "description": "Evaluación de aire central",
+          "type": "examen",
+          "duration": "20 min"
+        }
+      ]
+    },
+    {
+      "title": "Módulo 6: Sistemas Comerciales",
+      "description": "Rooftops y Unidades Paquete",
+      "duration": "2.5 horas",
+      "lessons": [
+        {
+          "title": "6.1. Unidades Tipo Paquete (RTU)",
+          "description": "Características y aplicaciones",
+          "type": "leccion",
+          "duration": "25 min"
+        },
+        {
+          "title": "6.2. Economizadores y aire exterior",
+          "description": "Eficiencia y ventilación",
+          "type": "leccion",
+          "duration": "20 min"
+        },
+        {
+          "title": "6.3. Instalación sobre base (Curb)",
+          "description": "Montaje en techos comerciales",
+          "type": "leccion",
+          "duration": "25 min"
+        },
+        {
+          "title": "6.4. Mantenimiento sistemas comerciales",
+          "description": "Correas, poleas y rodamientos",
+          "type": "leccion",
+          "duration": "20 min"
+        },
+        {
+          "title": "Examen Módulo 6",
+          "description": "Evaluación de sistemas comerciales",
+          "type": "examen",
+          "duration": "20 min"
+        }
+      ]
+    },
+    {
+      "title": "Módulo 7: Sistemas Avanzados (VRF y Chillers)",
+      "description": "Introducción a la climatización de gran escala",
+      "duration": "2 horas",
+      "lessons": [
+        {
+          "title": "7.1. Fundamentos de VRF/VRV",
+          "description": "Tecnología de flujo variable",
+          "type": "leccion",
+          "duration": "25 min"
+        },
+        {
+          "title": "7.2. Tuberías y Refnets en VRF",
+          "description": "Distribución de refrigerante",
+          "type": "leccion",
+          "duration": "20 min"
+        },
+        {
+          "title": "7.3. Conceptos básicos de Chillers",
+          "description": "Sistemas de agua helada",
+          "type": "leccion",
+          "duration": "20 min"
+        },
+        {
+          "title": "7.4. Mantenimiento básico avanzado",
+          "description": "Cuidados específicos para grandes equipos",
+          "type": "leccion",
+          "duration": "15 min"
+        },
+        {
+          "title": "Examen Módulo 7",
+          "description": "Evaluación de sistemas avanzados",
+          "type": "examen",
+          "duration": "20 min"
+        }
+      ]
+    },
+    {
+      "title": "Módulo 8: Mantenimiento Integral PRO",
+      "description": "Técnicas avanzadas de servicio",
+      "duration": "2 horas",
+      "lessons": [
+        {
+          "title": "8.1. Protocolos de mantenimiento",
+          "description": "Preventivo vs Predictivo",
+          "type": "leccion",
+          "duration": "20 min"
+        },
+        {
+          "title": "8.2. Limpieza química de serpentines",
+          "description": "Uso correcto de químicos",
+          "type": "leccion",
+          "duration": "20 min"
+        },
+        {
+          "title": "8.3. Mantenimiento de Aire Central",
+          "description": "Ajuste de partes móviles y correas",
+          "type": "leccion",
+          "duration": "25 min"
+        },
+        {
+          "title": "8.4. Medición de flujo de aire",
+          "description": "Uso de anemómetros",
+          "type": "leccion",
+          "duration": "20 min"
+        },
+        {
+          "title": "Examen Módulo 8",
+          "description": "Evaluación de mantenimiento",
+          "type": "examen",
+          "duration": "20 min"
+        }
+      ]
+    },
+    {
+      "title": "Módulo 9: Diagnóstico Avanzado",
+      "description": "Resolución experta de averías",
+      "duration": "2.5 horas",
+      "lessons": [
+        {
+          "title": "9.1. Método sistemático de diagnóstico",
+          "description": "Pasos lógicos para encontrar fallas",
+          "type": "leccion",
+          "duration": "20 min"
+        },
+        {
+          "title": "9.2. Análisis de fallas de compresor",
+          "description": "Diferenciar fallas eléctricas de mecánicas",
+          "type": "leccion",
+          "duration": "30 min"
+        },
+        {
+          "title": "9.3. Problemas de Válvuas de Expansión (TXV)",
+          "description": "Diagnóstico y ajuste",
+          "type": "leccion",
+          "duration": "25 min"
+        },
+        {
+          "title": "9.4. Diagnóstico de tarjetas Inverter",
+          "description": "Electrónica de potencia",
+          "type": "leccion",
+          "duration": "25 min"
+        },
+        {
+          "title": "Examen Módulo 9",
+          "description": "Evaluación de diagnóstico",
+          "type": "examen",
+          "duration": "20 min"
+        }
+      ]
+    },
+    {
+      "title": "Módulo 10: Gestión Ambiental",
+      "description": "Gases refrigerantes y normativas",
+      "duration": "1.5 horas",
+      "lessons": [
+        {
+          "title": "10.1. Manipulación de refrigerantes",
+          "description": "R410A, R32 y gases A2L",
+          "type": "leccion",
+          "duration": "25 min"
+        },
+        {
+          "title": "10.2. Retrofit en equipos antiguos",
+          "description": "Cambio de gas y aceite",
+          "type": "leccion",
+          "duration": "20 min"
+        },
+        {
+          "title": "10.3. Certificaciones y leyes",
+          "description": "Cumplimiento normativo",
+          "type": "leccion",
+          "duration": "15 min"
+        },
+        {
+          "title": "Examen Módulo 10",
+          "description": "Evaluación ambiental",
+          "type": "examen",
+          "duration": "20 min"
+        }
+      ]
+    },
+    {
+      "title": "Módulo 11: Gestión del Negocio",
+      "description": "Administración para técnicos independientes",
+      "duration": "2 horas",
+      "lessons": [
+        {
+          "title": "11.1. Cómo cotizar trabajos",
+          "description": "Cálculo de costos y precios",
+          "type": "leccion",
+          "duration": "25 min"
+        },
+        {
+          "title": "11.2. Trato con el cliente",
+          "description": "Ética y servicio profesional",
+          "type": "leccion",
+          "duration": "20 min"
+        },
+        {
+          "title": "11.3. Garantías y contratos",
+          "description": "Respaldo legal y acuerdos",
+          "type": "leccion",
+          "duration": "20 min"
+        },
+        {
+          "title": "11.4. Organización del vehículo y stock",
+          "description": "Logística del técnico",
+          "type": "leccion",
+          "duration": "15 min"
+        },
+        {
+          "title": "Examen Módulo 11",
+          "description": "Evaluación de gestión",
+          "type": "examen",
+          "duration": "20 min"
+        }
+      ]
+    }
+  ]
+}

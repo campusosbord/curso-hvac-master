@@ -1,0 +1,271 @@
+{
+    "blocks": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Lección 1.1: Fundamentos de Termodinámica para Ingeniería de Climatización"
+        },
+        {
+            "type": "paragraph",
+            "text": "Módulo: 1 - Termodinámica y Psicrometría\nNivel: Técnico Master / Ingeniería\nDuración Estimada: 3 Horas de Estudio\nPrerrequisitos: Matemáticas básicas y Física elemental"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "1. Introducción: El Rol del Técnico como Gestor de Energía"
+        },
+        {
+            "type": "paragraph",
+            "text": "Bienvenido a la élite de la climatización. La diferencia entre un \"instalador\" y un \"Técnico Master\" radica en su comprensión de lo invisible. Mientras otros ven tubos y cables, usted aprenderá a visualizar flujos de energía, cambios de estado y diferenciales de presión."
+        },
+        {
+            "type": "paragraph",
+            "text": "La Termodinámica no es teoría abstracta; es la herramienta diagnóstica más potente que existe. Si un compresor falla, es casi seguro que hubo un problema termodinámico (retorno de líquido, alta temperatura de descarga) que causó el fallo mecánico. Entender la causa raíz requiere entender la energía."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "2. La Naturaleza Molecular del Calor"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "¿Qué es el Calor?"
+        },
+        {
+            "type": "paragraph",
+            "text": "No es un fluido. No es una sustancia. El calor (Q) es energía en tránsito. A nivel atómico, es energía cinética."
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "En Sólidos (Cobre/Aluminio): Los átomos vibran en su sitio. Más vibración = Más temperatura.",
+                "En Gases (Refrigerante): Las moléculas viajan a alta velocidad y chocan contra las paredes de la tubería. Esos choques generan lo que medimos como \"Presión\"."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Temperatura vs. Calor"
+        },
+        {
+            "type": "paragraph",
+            "text": "Es vital distinguir estos dos conceptos:"
+        },
+        {
+            "type": "list",
+            "style": "ordered",
+            "items": [
+                "Temperatura (T): Es la medida de la intensidad de la energía. Nos dice \"hacia dónde\" fluirá el calor. (Se mide con termómetro).",
+                "Calor (Q): Es la cantidad total de energía. (Se mide en BTUs o Joules)."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Analogía Hidráulica:\n- La Temperatura es como la Altura del agua (Presión).\n- El Calor es como el Volumen de agua (Litros).\n- Ejemplo: Un fósforo encendido tiene una temperatura altísima (500°C) pero poca cantidad de calor. Una piscina a 30°C tiene baja temperatura, pero una cantidad masiva de calor almacenado."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "3. Leyes Fundamentales de la Termodinámica (Aplicadas)"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Primera Ley: Conservación de la Energía"
+        },
+        {
+            "type": "paragraph",
+            "text": "\"La energía no se crea ni se destruye, solo se transforma.\""
+        },
+        {
+            "type": "paragraph",
+            "text": "En el Aire Acondicionado: El equipo no genera frío. \"Frío\" es solo una palabra para describir la falta de calor. El sistema es una Bomba de Calor."
+        },
+        {
+            "type": "code",
+            "language": "latex",
+            "lines": [
+                "Q_Condensador = Q_Evaporador + W_Compresor"
+            ]
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Q_Evaporador: Calor absorbido de la habitación (Carga Térmica).",
+                "W_Compresor: Energía eléctrica convertida en calor por el trabajo del motor.",
+                "Q_Condensador: Calor total que debemos tirar a la calle."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Implicación Práctica: El condensador siempre debe ser más grande que el evaporador porque debe deshacerse del calor del cuarto Y ADEMÁS del calor del propio motor."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Segunda Ley: Dirección del Flujo"
+        },
+        {
+            "type": "paragraph",
+            "text": "\"El calor fluye espontáneamente de mayor a menor temperatura.\""
+        },
+        {
+            "type": "paragraph",
+            "text": "Para que exista transferencia, debe haber un Delta T (ΔT).\n- Si la habitación está a 24°C, el refrigerante DEBE estar a menos (ej. 5°C).\n- Si afuera hace 35°C, el condensador DEBE estar a más (ej. 50°C)."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "4. Modos de Transferencia de Calor"
+        },
+        {
+            "type": "image",
+            "src": "modos_transferencia_calor_1765732720849.png",
+            "alt": "Gráfico: Modos de Transferencia de Calor"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "A. Conducción (Sólido a Sólido)"
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Materiales: Usamos Cobre y Aluminio porque son excelentes conductores.",
+                "El Enemigo: El sarro, el óxido y el aceite son aislantes.",
+                "Diagnóstico: Si un tubo de condensador está \"tibio\" pero el gas adentro está \"hirviendo\", hay problema de transferencia."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "B. Convección (Fluido a Superficie)"
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Convección Forzada: Los ventiladores (turbinas) son el motor de la convección.",
+                "El Enemigo: Filtros sucios, aspas rotas, motores lentos.",
+                "Diagnóstico: Si el aire pasa muy lento por el evaporador, no barre suficiente calor."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "C. Radiación (Ondas Electromagnéticas)"
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "El Sol: La carga térmica solar es el mayor enemigo en verano.",
+                "Consejo: Instalar la unidad exterior a la sombra mejora la eficiencia."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "5. Calor Sensible vs. Calor Latente"
+        },
+        {
+            "type": "image",
+            "src": "calor_sensible_vs_latente_1765731987086.png",
+            "alt": "Gráfico: Calor Sensible vs Latente"
+        },
+        {
+            "type": "paragraph",
+            "text": "Aquí reside el secreto de la eficiencia de los sistemas de compresión de vapor."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Calor Sensible (Qs) - \"El que se siente\""
+        },
+        {
+            "type": "paragraph",
+            "text": "Es la energía que hace subir o bajar la temperatura del termómetro.\nFórmula: Q = m · cp · ΔT"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Calor Latente (Ql) - \"El oculto\""
+        },
+        {
+            "type": "paragraph",
+            "text": "Es la energía que hace cambiar el estado de la materia sin cambiar su temperatura."
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Para calentar 1 kg de agua 1°C necesitas 1 Kcal.",
+                "Para evaporar 1 kg de agua necesitas 540 Kcal.",
+                "Conclusión: El cambio de estado es 540 veces más potente para mover energía."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "6. Entropía y la \"Muerte Térmica\""
+        },
+        {
+            "type": "paragraph",
+            "text": "La Entropía (S) es la medida del desorden molecular. Cada vez que el gas pasa por una restricción o fricción, aumenta su entropía y perdemos capacidad útil."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "7. Cálculos Prácticos de Ingeniería"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Calor Específico (cp)"
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Agua: 1.0 BTU/lb·°F (Muy alto)",
+                "Aire: 0.24 BTU/lb·°F (Bajo)",
+                "Cobre: 0.09 BTU/lb·°F (Bajísimo)"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Cálculo de Carga Térmica (Simplificado)"
+        },
+        {
+            "type": "code",
+            "language": "latex",
+            "lines": [
+                "BTU/h = 4.5 * CFM * DeltaH"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Esto demuestra que para enfriar más, necesitas flujo de aire (CFM) y buena transferencia (Delta H)."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Resumen Ejecutivo"
+        },
+        {
+            "type": "list",
+            "style": "ordered",
+            "items": [
+                "Usted gestiona calor, no frío.",
+                "Sin flujo de aire (Convección), no hay aire acondicionado.",
+                "El Cambio de Estado (Latente) es donde ocurre la magia.",
+                "Si no hay diferencia de temperatura, no hay intercambio."
+            ]
+        }
+    ]
+}
