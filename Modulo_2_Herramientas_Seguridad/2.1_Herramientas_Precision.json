@@ -28,108 +28,104 @@
             ]
         },
         {
-            "type": "image",
-            "src": "https://raw.githubusercontent.com/campusosbord/curso-hvac-master/master/Modulo_2_Herramientas_Seguridad/herramientas_digitales_hvac_placeholder.png",
-            "alt": "Comparativa Manómetro Digital vs Analógico y Pinzas de Temperatura"
-        },
-        {
-            "type": "heading",
-            "level": 2,
-            "text": "2. El Vacuómetro Electrónico (Micron Gauge)"
-        },
-        {
-            "type": "paragraph",
-            "text": "Aquí es donde los aficionados fallan. Intentar medir vacío con un manómetro de agujas es imposible."
-        },
-        {
-            "type": "heading",
-            "level": 3,
-            "text": "¿Por qué no sirven las agujas para vacío?"
-        },
-        {
-            "type": "paragraph",
-            "text": "Un manómetro convencional marca \"-30 inHg\" (pulgadas de mercurio). Pero el vacío perfecto no existe. La diferencia entre un vacío bueno (500 micrones) y uno malo (20,000 micrones) es indetectable en la escala de pulgadas de mercurio. La aguja se ve igual en ambos casos."
-        },
-        {
-            "type": "heading",
-            "level": 3,
-            "text": "La Escala de Micrones"
-        },
-        {
-            "type": "paragraph",
-            "text": "Un micrón es la milésima parte de un milímetro de mercurio. Usamos esta escala ultra-fina para saber si realmente hemos sacado la humedad."
-        },
-        {
-            "type": "list",
-            "style": "unordered",
-            "items": [
-                "760,000 Micrones = Presión Atmosférica (Nivel del mar).",
-                "10,000 Micrones = Comienza a hervir el agua a temp ambiente.",
-                "1,000 Micrones = Vacío de limpieza básico.",
-                "500 Micrones = Estándar OBLIGATORIO para POE/R410A.",
-                "200 Micrones = Vacío de laboratorio/fábrica."
-            ]
-        },
-        {
-            "type": "paragraph",
-            "text": "Prueba de Decaimiento: Al llegar a 500 micrones, cierras la válvula y apagas la bomba. Si sube rápidamente a 2000 y se detiene, tienes agua hirviéndose (sigue evacuando). Si sube hasta la presión atmosférica, tienes una fuga."
-        },
-        {
-            "type": "heading",
-            "level": 2,
-            "text": "3. La Balanza de Refrigerante (Carga Crítica)"
-        },
-        {
-            "type": "paragraph",
-            "text": "En los equipos modernos con micro-canales y R410A, la carga debe ser exacta. \"Cargar por presiones\" o \"al tacto\" está PROHIBIDO."
-        },
-        {
-            "type": "paragraph",
-            "text": "Un equipo que lleva 1.50 kg de gas, con 1.40 kg pierde 15% de capacidad. Con 1.60 kg sube el amperaje y se dispara por alta. La única forma de garantizar la carga es pesándola."
-        },
-        {
-            "type": "list",
-            "style": "unordered",
-            "items": [
-                "Procedimiento: Coloca el tanque en la balanza. Resetea a cero (Tara). Abre la válvula. Mira la pantalla restar peso (-1.50 kg). Cierra.",
-                "Tip Pro: Siempre carga R410A (que es mezcla) en fase LÍQUIDA (tanque invertido) para no desbalancear la mezcla química."
-            ]
-        },
-        {
-            "type": "heading",
-            "level": 2,
-            "text": "4. Detectores de Fuga: Tecnología vs Jabón"
-        },
-        {
-            "type": "paragraph",
-            "text": "El agua jabonosa sirve para fugas grandes. Para micro-fugas (que vacían el equipo en 6 meses), necesitas tecnología."
-        },
-        {
-            "type": "list",
-            "style": "unordered",
-            "items": [
-                "Detector Electrónico (Nariz): Sensor calentado o infrarrojo. SUENA cuando detecta moléculas de halógenos. Sensibilidad: detecta fugas de 3 gramos al año.",
-                "Ultrasonido: Escucha el \"silbido\" inaudible del gas escapando a alta presión. Ideal para ambientes ruidosos o con viento.",
-                "Tinte Ultravioleta (UV): Se inyecta al sistema. Mancha de verde fluorescente el punto de fuga. Desventaja: Es invasivo y ensucia el aceite."
-            ]
-        },
-        {
-            "type": "heading",
-            "level": 2,
-            "text": "5. Herramientas de Flujo de Aire (El Lado Olvidado)"
-        },
-        {
-            "type": "paragraph",
-            "text": "No puedes arreglar lo que no mides. El flujo de aire (CFM) es tan importante como el gas."
-        },
-        {
-            "type": "list",
-            "style": "unordered",
-            "items": [
-                "Anemómetro de Hilo Caliente: Mide la velocidad del aire dentro del ducto con extrema precisión.",
-                "Balómetro (Flow Hood): Una campana grande que cubre todo el difusor y te dice exactamente cuántos CFM salen a la habitación.",
-                "Manómetro Diferencial: Mide la Presión Estática Externa (la \"presión arterial\" de los ductos). Si supera 0.5 inWC (pulgadas de columna de agua) en residencial, el sistema se está asfixiando."
-            ]
-        }
-    ]
-}
+            {
+                "type": "heading",
+                "level": 2,
+                "text": "2. El Vacuómetro Electrónico (Micron Gauge)"
+            },
+            {
+                "type": "paragraph",
+                "text": "Aquí es donde los aficionados fallan. Intentar medir vacío con un manómetro de agujas es imposible."
+            },
+            {
+                "type": "heading",
+                "level": 3,
+                "text": "¿Por qué no sirven las agujas para vacío?"
+            },
+            {
+                "type": "paragraph",
+                "text": "Un manómetro convencional marca \"-30 inHg\" (pulgadas de mercurio). Pero el vacío perfecto no existe. La diferencia entre un vacío bueno (500 micrones) y uno malo (20,000 micrones) es indetectable en la escala de pulgadas de mercurio. La aguja se ve igual en ambos casos."
+            },
+            {
+                "type": "heading",
+                "level": 3,
+                "text": "La Escala de Micrones"
+            },
+            {
+                "type": "paragraph",
+                "text": "Un micrón es la milésima parte de un milímetro de mercurio. Usamos esta escala ultra-fina para saber si realmente hemos sacado la humedad."
+            },
+            {
+                "type": "list",
+                "style": "unordered",
+                "items": [
+                    "760,000 Micrones = Presión Atmosférica (Nivel del mar).",
+                    "10,000 Micrones = Comienza a hervir el agua a temp ambiente.",
+                    "1,000 Micrones = Vacío de limpieza básico.",
+                    "500 Micrones = Estándar OBLIGATORIO para POE/R410A.",
+                    "200 Micrones = Vacío de laboratorio/fábrica."
+                ]
+            },
+            {
+                "type": "paragraph",
+                "text": "Prueba de Decaimiento: Al llegar a 500 micrones, cierras la válvula y apagas la bomba. Si sube rápidamente a 2000 y se detiene, tienes agua hirviéndose (sigue evacuando). Si sube hasta la presión atmosférica, tienes una fuga."
+            },
+            {
+                "type": "heading",
+                "level": 2,
+                "text": "3. La Balanza de Refrigerante (Carga Crítica)"
+            },
+            {
+                "type": "paragraph",
+                "text": "En los equipos modernos con micro-canales y R410A, la carga debe ser exacta. \"Cargar por presiones\" o \"al tacto\" está PROHIBIDO."
+            },
+            {
+                "type": "paragraph",
+                "text": "Un equipo que lleva 1.50 kg de gas, con 1.40 kg pierde 15% de capacidad. Con 1.60 kg sube el amperaje y se dispara por alta. La única forma de garantizar la carga es pesándola."
+            },
+            {
+                "type": "list",
+                "style": "unordered",
+                "items": [
+                    "Procedimiento: Coloca el tanque en la balanza. Resetea a cero (Tara). Abre la válvula. Mira la pantalla restar peso (-1.50 kg). Cierra.",
+                    "Tip Pro: Siempre carga R410A (que es mezcla) en fase LÍQUIDA (tanque invertido) para no desbalancear la mezcla química."
+                ]
+            },
+            {
+                "type": "heading",
+                "level": 2,
+                "text": "4. Detectores de Fuga: Tecnología vs Jabón"
+            },
+            {
+                "type": "paragraph",
+                "text": "El agua jabonosa sirve para fugas grandes. Para micro-fugas (que vacían el equipo en 6 meses), necesitas tecnología."
+            },
+            {
+                "type": "list",
+                "style": "unordered",
+                "items": [
+                    "Detector Electrónico (Nariz): Sensor calentado o infrarrojo. SUENA cuando detecta moléculas de halógenos. Sensibilidad: detecta fugas de 3 gramos al año.",
+                    "Ultrasonido: Escucha el \"silbido\" inaudible del gas escapando a alta presión. Ideal para ambientes ruidosos o con viento.",
+                    "Tinte Ultravioleta (UV): Se inyecta al sistema. Mancha de verde fluorescente el punto de fuga. Desventaja: Es invasivo y ensucia el aceite."
+                ]
+            },
+            {
+                "type": "heading",
+                "level": 2,
+                "text": "5. Herramientas de Flujo de Aire (El Lado Olvidado)"
+            },
+            {
+                "type": "paragraph",
+                "text": "No puedes arreglar lo que no mides. El flujo de aire (CFM) es tan importante como el gas."
+            },
+            {
+                "type": "list",
+                "style": "unordered",
+                "items": [
+                    "Anemómetro de Hilo Caliente: Mide la velocidad del aire dentro del ducto con extrema precisión.",
+                    "Balómetro (Flow Hood): Una campana grande que cubre todo el difusor y te dice exactamente cuántos CFM salen a la habitación.",
+                    "Manómetro Diferencial: Mide la Presión Estática Externa (la \"presión arterial\" de los ductos). Si supera 0.5 inWC (pulgadas de columna de agua) en residencial, el sistema se está asfixiando."
+                ]
+            }
+        ]
+    }
