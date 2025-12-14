@@ -123,7 +123,7 @@
         },
         {
             "type": "image",
-            "src": "modos_transferencia_calor_1765732720849.png",
+            "src": "https://raw.githubusercontent.com/campusosbord/curso-hvac-master/master/Modulo_1_Termodinamica/modos_transferencia_calor_1765732720849.png",
             "alt": "Gráfico: Modos de Transferencia de Calor"
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "type": "image",
-            "src": "calor_sensible_vs_latente_1765731987086.png",
+            "src": "https://raw.githubusercontent.com/campusosbord/curso-hvac-master/master/Modulo_1_Termodinamica/calor_sensible_vs_latente_1765731987086.png",
             "alt": "Gráfico: Calor Sensible vs Latente"
         },
         {

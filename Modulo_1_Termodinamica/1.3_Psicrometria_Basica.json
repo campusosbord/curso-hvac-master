@@ -1,0 +1,149 @@
+{
+    "blocks": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Lección 1.3: Psicrometría Aplicada y Diagnóstico de Humedad"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "1. La Física del Aire Húmedo"
+        },
+        {
+            "type": "paragraph",
+            "text": "Como técnicos HVAC, no movemos \"aire seco\"; movemos una mezcla compleja de gases (Nitrógeno, Oxígeno) y Vapor de Agua. Ignorar el vapor de agua es la causa #1 de las quejas de clientes tipo \"El equipo enfría pero siento calor\" o \"Hay olor a humedad\" y crecimiento microbiológico (moho)."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Variables Psicrométricas Fundamentales"
+        },
+        {
+            "type": "paragraph",
+            "text": "Para definir el estado del aire necesitamos conocer al menos dos de estas variables. Con dos, podemos calcular las demás usando la Carta Psicrométrica (o software, pero debemos entender la base)."
+        },
+        {
+            "type": "list",
+            "style": "ordered",
+            "items": [
+                "Temperatura de Bulbo Seco (TBS): La temperatura ambiente medida con un sensor estándar termistor o termopar. Es una medida directa de Calor Sensible. No nos dice nada sobre la humedad.",
+                "Temperatura de Bulbo Húmedo (TBH): La temperatura medida con un termómetro envuelto en un paño húmedo (o calculada electrónicamente). Es una medida de energía total (Entalpía) y capacidad de evaporación del aire.",
+                "Depresión de Bulbo Húmedo: Es la diferencia (TBS - TBH). Si la diferencia es grande, el aire tiene mucha capacidad de absorber agua (está seco). Si es cero, la humedad es 100% (Saturación).",
+                "Punto de Rocío (Dew Point): La temperatura EXACTA a la que el aire debe enfriarse para que el vapor invisible se convierta en agua líquida visible (condensación). Regla de Oro: Para deshumidificar, la temperatura de superficie del serpentín evaporador (ADP - Apparatus Dew Point) DEBE estar por debajo del Punto de Rocío del aire de retorno."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Otras variables críticas para ingeniería:"
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Humedad Relativa (%HR): Relación porcentual entre la presión de vapor actual y la capacidad máxima. Difiere mucho con la temperatura (el aire caliente puede sostener mas agua).",
+                "Humedad Específica (Granos/lb): La cantidad absoluta y real de agua en peso. Es fundamental para cálculos de carga térmica latente."
+            ]
+        },
+        {
+            "type": "image",
+            "src": "https://raw.githubusercontent.com/campusosbord/curso-hvac-master/master/Modulo_1_Termodinamica/psicrometria_confort_1765732448556.png",
+            "alt": "Carta Psicrométrica Simplificada y Zona de Confort"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "2. El Proceso de Deshumidificación en el A/C"
+        },
+        {
+            "type": "paragraph",
+            "text": "¿Por qué un aire acondicionado debe tener un drenaje? No es magia, es termodinámica aplicada. Analicemos el paso a paso."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "El Viaje del Aire por el Serpentín (Análisis Paso a Paso)"
+        },
+        {
+            "type": "list",
+            "style": "ordered",
+            "items": [
+                "Entrada (Retorno): Imagina aire entrando al equipo a 27°C con 60% HR (Punto de Rocío calculado: aprox 18.5°C).",
+                "Contacto Superficial: El aire golpea las aletas de aluminio del evaporador. Si el equipo funciona bien, estas aletas están a unos 4-5°C.",
+                "Choque Térmico (Deshumidificación): Como 5°C es drásticamente menor que 18.5°C (Punto de Rocío), el aire NO PUEDE sostener su vapor de agua. El vapor colapsa y se convierte en gotas de agua sobre el aluminio.",
+                "Salida (Suministro): El aire sale a unos 12°C-14°C, pero sale casi saturado (90% HR respecto a su nueva temperatura). Sin embargo, ha perdido una gran cantidad de PESO de agua (granos/lb)."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Problema de \"Calor Latente Insuficiente\" (Short Cycling)"
+        },
+        {
+            "type": "paragraph",
+            "text": "Este es el error de diseño más común y devastador en zonas húmedas."
+        },
+        {
+            "type": "paragraph",
+            "text": "Escenario: Un técnico instala un equipo de 24,000 BTU en una habitación pequeña que solo necesitaba 12,000 BTU (Sobredimensionamiento)."
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Ciclo Corto: El equipo enciende y baja la temperatura del aire de 28°C a 22°C en solo 5 minutos.",
+                "Corte de Termostato: El compresor se apaga porque alcanzó la temperatura de bulbo seco.",
+                "El Problema Oculto: En solo 5 minutos, el serpentín no tuvo tiempo suficiente para condensar agua. Apenas se humedeció.",
+                "Resultado: El cliente tiene una habitación a 22°C pero con 75% de Humedad Relativa. Sensación de \"cueva fría y pegajosa\". Crecimiento de moho asegurado."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Solución Maestra: NUNCA sobredimensiones. Es preferible un equipo ligeramente pequeño que corra ciclos largos (20-30 min) removiendo humedad constantemente, a uno grande que corte rápido."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "3. Zona Efectiva de Confort (ASHRAE 55)"
+        },
+        {
+            "type": "paragraph",
+            "text": "El confort no es solo temperatura. El cuerpo humano es una máquina térmica que se enfría por evaporación (sudor)."
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Humedad Alta (>65%): La presión de vapor del aire es alta. El sudor no se evapora de la piel. El cuerpo recalienta internamente. Sensación de sofoco aunque el termómetro marque 23°C.",
+                "Humedad Baja (<30%): Evaporación demasiado rápida. Resequedad de mucosas (nariz, garganta), ojos rojos, descargas eléstáticas dolorosas al tocar metal.",
+                "Zona Ideal ASHRAE: Verano (23°C - 26°C @ 50% HR) | Invierno (20°C - 23°C @ 40% HR)."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "4. Instrumentación Profesional para Psicrometría"
+        },
+        {
+            "type": "paragraph",
+            "text": "Un técnico Master no adivina tocando el aire con la mano. Usa instrumentos de precisión."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Herramientas Esenciales:"
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Psicrómetro Digital: La herramienta reina. Mide TBS y TBH instantáneamente y calcula 'en vivo' el Punto de Rocío y el %HR. Úsalo para medir el Retorno y el Suministro (Delta T y Delta H).",
+                "Anemómetro con función de Bulbo Húmedo: Para verificar el flujo de aire y sus propiedades térmicas simultáneamente."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Ejercicio de Diagnóstico en Campo: Si mides un retorno de 24°C y un suministro de 14°C, tienes un Delta T de 10°C. Es aceptable. Pero si mides un retorno de 24°C y suministro de 20°C (Delta T de 4°C), el equipo NO está intercambiando calor. Puede ser falta de refrigerante, compresor con válvulas abiertas, o exceso de flujo de aire."
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "blocks": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Lección 1.4: Calidad de Aire Interior (IAQ), Filtración y Normativas"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "1. El Nuevo Paradigma: \"Edificios que Respiran\""
+        },
+        {
+            "type": "paragraph",
+            "text": "Históricamente, el técnico de A/C solo se preocupaba por \"enfriar\". Hoy, pos-pandemia, el técnico es responsable de lo que la gente respira. El Síndrome del Edificio Enfermo (Sick Building Syndrome - SBS) le cuesta a las empresas millones en bajas laborales debido a alergias, fatiga crónica y contagios virales."
+        },
+        {
+            "type": "paragraph",
+            "text": "Usted es la primera línea de defensa. Un sistema mal mantenido no es solo ineficiente, es un riesgo biológico."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Los Contaminantes Invisibles"
+        },
+        {
+            "type": "paragraph",
+            "text": "No solo hablamos de polvo visible. En el aire interior luchamos contra tres enemigos:"
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Partículas Físicas (PM 2.5 y PM 10): Polvo, polen, esporas de moho, caspa de mascotas, fibras de asbesto. (Tamaño: 0.3 a 10 micras).",
+                "Gases y Vapores (VOCs): Compuestos Orgánicos Volátiles. Emitidos por la pintura nueva, pegamentos de alfombras, formaldehído en muebles de madera prensada y productos de limpieza potentes.",
+                "Biológicos (Bioaerosoles): Virus (Covid, Influenza), bacterias, y la mortal Legionella que vive en torres de enfriamiento y bandejas de condensado estancadas."
+            ]
+        },
+        {
+            "type": "image",
+            "src": "https://raw.githubusercontent.com/campusosbord/curso-hvac-master/master/Modulo_1_Termodinamica/calidad_aire_iaq_1765732481131.png",
+            "alt": "Esquema completo de IAQ y Filtración"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "2. Filtración Avanzada: La Escala MERV (ASHRAE 52.2)"
+        },
+        {
+            "type": "paragraph",
+            "text": "Tirar el filtro lavable de malla plástica y poner uno serio (plisado) es la mejora más barata y efectiva. La norma ASHRAE 52.2 define la escala MERV (Minimum Efficiency Reporting Value) del 1 al 16."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Guía de Selección Técnica de Filtros"
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "MERV 1-4 (Fibra de vidrio barata): Solo atrapa pelusa y objetos grandes (>10 µm). Protege al equipo para que no se tape, pero NO PROTEGE la salud de las personas. Deja pasar todo el polvo fino a los pulmones.",
+                "MERV 5-8 (Plisado Estándar): Estándar de oro residencial. Atrapa ácaros, esporas de moho y polen (3-10 µm). Es el equilibrio perfecto entre limpieza y flujo de aire.",
+                "MERV 9-12 (Alta Eficiencia): Para oficinas corporativas, residencias de lujo y alérgicos severos. Atrapa humo fino y polvo de plomo (1-3 µm).",
+                "MERV 13-16 (Grado Hospitalario): Quirófanos y salas limpias. Atrapa bacterias y gotículas portadoras de virus (<1 µm). Requiere bancos de filtros especiales."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "¡ADVERTENCIA CRÍTICA: La Caída de Presión!"
+        },
+        {
+            "type": "paragraph",
+            "text": "No puedes simplemente poner un filtro MERV 16 en un Split de casa. Los filtros de alta eficiencia son muy \"tupidos\" y oponen una resistencia masiva al paso del aire."
+        },
+        {
+            "type": "paragraph",
+            "text": "La Ley del Ventilador dice que si aumentas la restricción, el flujo (CFM) cae drásticamente. CONSECUENCIA: El evaporador se congela por falta de flujo, y el compresor muere por retorno de líquido. Siempre mide la Presión Estática Externa (ESP) antes de cambiar el tipo de filtro."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "3. Ventilación Mecánica y Dilución (Norma ASHRAE 62.1)"
+        },
+        {
+            "type": "paragraph",
+            "text": "Filtrar no es suficiente. Un filtro no elimina gases como el Dióxido de Carbono (CO2). Hay que DILUIR los contaminantes trayendo Aire Fresco (Exterior)."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "El Asesino Silencioso: CO2"
+        },
+        {
+            "type": "paragraph",
+            "text": "En un dormitorio cerrado herméticamente con dos personas, el CO2 sube de 400 ppm (normal) a 2500 ppm en una noche. Efectos: Sueño no reparador, dolor de cabeza al despertar, torpeza mental y baja productividad en oficinas."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Soluciones de Ingeniería: ERV y HRV"
+        },
+        {
+            "type": "paragraph",
+            "text": "El problema de abrir una ventana es que pierdes todo el frío que te costó dinero generar. La solución son los Recuperadores de Energía:"
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "HRV (Heat Recovery Ventilator): Usa un núcleo de aluminio para que el aire frío viciado que sale, \"enfríe\" al aire caliente fresco que entra, SIN MEZCLARSE. Recupera solo temperatura.",
+                "ERV (Energy Recovery Ventilator): Usa un núcleo de polímero/papel que transfiere temperatura Y HUMEDAD. Ideal para climas húmedos, ya que el aire seco que sale ayuda a secar el aire húmedo que entra."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "4. Control Activo de Patógenos: Luz UV-C"
+        },
+        {
+            "type": "paragraph",
+            "text": "El interior oscuro y húmedo de un equipo de aire acondicionado es el caldo de cultivo perfecto para hongos."
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Estrategia Pasiva: Mantener la Humedad Relativa por debajo del 60%. El moho no puede crecer en ambientes secos.",
+                "Estrategia Activa (Germicida): Instalar lámparas UV-C de onda corta (254 nm) bañando el serpentín. La radiación ultravioleta penetra la pared celular de bacterias y moho, destruyendo su ADN e impidiendo que se reproduzcan. Mantiene el serpentín estéril y brillante sin usar químicos corrosivos."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Resumen Ejecutivo para el Examen"
+        },
+        {
+            "type": "list",
+            "style": "ordered",
+            "items": [
+                "MERV 8 es el estándar mínimo decente para vivienda, pero vigile la caída de presión.",
+                "La Ventilación (aire fresco) es obligatoria por norma (ASHRAE 62.1) para diluir el CO2.",
+                "La Humedad controlada (<60%) es el mejor fungicida natural.",
+                "Usted no vende \"aire frío\", vende Salud Ambiental, Productividad y Confort."
+            ]
+        }
+    ]
+}

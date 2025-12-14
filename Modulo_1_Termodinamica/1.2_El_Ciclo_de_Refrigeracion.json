@@ -1,0 +1,140 @@
+{
+    "blocks": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Lección 1.2: Anatomía Profunda del Ciclo de Refrigeración (Análisis de Mollier)"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "1. El Ciclo Real vs. El Ciclo Ideal"
+        },
+        {
+            "type": "paragraph",
+            "text": "En la lección anterior vimos el concepto. Ahora veremos la realidad mecánica y termodinámica. Un técnico cambia partes; un especialista analiza presiones y temperaturas para visualizar lo que ocurre dentro de la tubería sellada."
+        },
+        {
+            "type": "paragraph",
+            "text": "Para esto, la herramienta definitiva no es el manómetro, sino su interpretación en el Diagrama de Mollier (Presión vs. Entalpía)."
+        },
+        {
+            "type": "image",
+            "src": "https://raw.githubusercontent.com/campusosbord/curso-hvac-master/master/ciclo_refrigeracion_espanol_1765730783228.png",
+            "alt": "Diagrama del Ciclo de Refrigeración detallado"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "2. Fase 1: Compresión (Trabajo Mecánico)"
+        },
+        {
+            "type": "paragraph",
+            "text": "El compresor es una bomba de vapor. Su función no es solo \"mover\" el gas, sino generar el diferencial de presión (Delta P) necesario para que el ciclo funcione."
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Entrada (Succión): El gas llega frío (aprox 4-10°C) y a baja presión. Es vital que sea 100% gas (Vapor Sobrecalentado).",
+                "Proceso: El pistón o scroll reduce el volumen del gas. Por la Ley de los Gases Ideales (PV=nRT), al bajar el volumen, la presión y la temperatura se disparan.",
+                "Salida (Descarga): El gas sale \"caliente como el infierno\" (80°C - 110°C) y a alta presión.",
+                "Concepto Clave: Relación de Compresión. Es la división entre la Presión Absoluta de Descarga y la Presión Absoluta de Succión. Si esta relación es demasiado alta, el compresor se sobrecalienta."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Alerta de Diagnóstico: Si la línea de descarga no está quemando al tacto, el compresor no está comprimiendo bien (válvulas rotas) o le está llegando líquido."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "3. Fase 2: Condensación (Rechazo de Calor)"
+        },
+        {
+            "type": "paragraph",
+            "text": "Aquí es donde pagamos la deuda energética. Debemos tirar al ambiente el calor absorbido en la habitación PLUS el calor generado por el motor del compresor."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Sub-etapas dentro del Condensador:"
+        },
+        {
+            "type": "list",
+            "style": "ordered",
+            "items": [
+                "Desobrecalentamiento (Desuperheating): Primeras vueltas del serpentín. El gas baja de 90°C a 50°C (temperatura de saturación) pero sigue siendo gas.",
+                "Condensación (Cambio de Estado): El grueso del serpentín. El gas se vuelve líquido a temperatura constante (Calor Latente).",
+                "Subenfriamiento (Subcooling): ¡CRÍTICO! Últimas vueltas. El líquido saturado se enfría unos grados más (ej. baja de 50°C a 45°C)."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "¿Por qué es vital el Subcooling? Asegura que a la válvula de expansión llegue 100% líquido puro. Si llega gas (burbujas), la válvula silba y el rendimiento cae un 40%."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "4. Fase 3: Expansión (El Salto de Presión)"
+        },
+        {
+            "type": "paragraph",
+            "text": "La Válvula de Expansión Termostática (TXV) o el dispositivo eléctronico (EEV) es el cerebro del sistema. Al forzar el líquido a pasar por un orificio minúsculo, la presión cae instantáneamente."
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Flash Gas: Al caer la presión, una parte del líquido (aprox 20%) se evapora instantáneamente \"robando\" calor del resto del líquido. Esto auto-enfría el refrigerante de 45°C a 4°C en una fracción de segundo.",
+                "Resultado: Entra al evaporador una mezcla spray: 80% líquido (listo para hervir) y 20% gas."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "5. Fase 4: Evaporación (Efecto Frigorífico)"
+        },
+        {
+            "type": "paragraph",
+            "text": "El objetivo final. El refrigerante líquido hierve a baja temperatura (ej. 4°C). Al hervir, absorbe calor del aire que pasa (que está a 24°C)."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "El Concepto de Superheat (Recalentamiento)"
+        },
+        {
+            "type": "paragraph",
+            "text": "Una vez que la última gota de líquido se ha evaporado, el gas sigue recorriendo el final del serpentín y se calienta unos grados más (ej. de 4°C a 10°C)."
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Definición: Temperatura de Salida - Temperatura de Saturación (Manómetro).",
+                "Función: Es el seguro de vida del compresor. Asegura que no retorne ni una gota de líquido.",
+                "Rango Normal: Entre 5°C y 8°C (10-15°F) para aire acondicionado."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Resumen de Variables Críticas (Tabla Maestra)"
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Succión: Gas (Vapor) | Presión Baja | Temp Baja | Mide: Superheat",
+                "Descarga: Gas | Presión Alta | Temp Alta | Mide: Ratio Compresión",
+                "Líquido: Líquido | Presión Alta | Temp Media | Mide: Subcooling",
+                "Expansión: Mezcla | Presión Baja | Temp Muy Baja | Mide: Delta T"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Dominar el Superheat y el Subcooling es lo que separa a un profesional de un empírico. En el Módulo 2 veremos con qué herramientas exactas se miden."
+        }
+    ]
+}
