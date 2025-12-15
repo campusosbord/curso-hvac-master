@@ -1,0 +1,127 @@
+{
+    "blocks": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Lección 6.1: Unidades Tipo Paquete (RTU)"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Introducción: el rol estratégico de las RTU en sistemas comerciales"
+        },
+        {
+            "type": "paragraph",
+            "text": "Las Unidades Tipo Paquete, conocidas como Rooftop Units (RTU), representan el estándar en climatización para aplicaciones comerciales ligeras y medianas, integrando en un solo gabinete todos los componentes necesarios para generar aire acondicionado, calefacción y ventilación. A nivel profesional-máster, su correcta selección, instalación y puesta en marcha es crítica, ya que estos equipos manejan caudales elevados de aire, cargas térmicas importantes y deben operar de manera confiable bajo condiciones variables de ocupación y clima."
+        },
+        {
+            "type": "paragraph",
+            "text": "El técnico avanzado entiende que una RTU no es simplemente un “equipo sobre techo”, sino un sistema complejo que requiere coordinación mecánica, eléctrica, de control, refrigerante y ductos, así como consideraciones de seguridad y accesibilidad para mantenimiento. Cada decisión desde la ubicación, anclaje, conexión de tuberías y cableado, hasta la integración con economizadores y control de zonas, impacta directamente en eficiencia energética, confort y durabilidad del sistema."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tipos y componentes de las RTU"
+        },
+        {
+            "type": "paragraph",
+            "text": "Las RTU pueden clasificarse según su función: aire acondicionado solamente (cooling only), calefacción y refrigeración combinadas (heat/cool), o con ventilación mecánica integrada. Internamente, cada unidad incluye ventilador centrífugo o axial, serpentines de enfriamiento y calefacción, compresor(es), economizador opcional, filtros, bandejas de condensado, controles de presión y temperatura, y componentes eléctricos de potencia y bajo voltaje."
+        },
+        {
+            "type": "paragraph",
+            "text": "A nivel profesional, el técnico identifica cuidadosamente cada componente y su función dentro del sistema: el ventilador garantiza caudal suficiente, los serpentines transfieren energía térmica de manera eficiente, el compresor regula la presión del refrigerante, y los controles coordinan la operación de manera que caudal, temperatura y humedad se mantengan dentro de parámetros de diseño. La correcta disposición interna reduce turbulencias, optimiza flujo de aire y minimiza ruido."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Selección y análisis previo a la instalación"
+        },
+        {
+            "type": "paragraph",
+            "text": "Antes de instalar una RTU, el técnico máster realiza un análisis exhaustivo que incluye carga térmica del edificio, eficiencia energética requerida, tamaño de ductos, ubicación de difusores, exposición solar del techo y condiciones ambientales extremas. Este análisis determina la capacidad de la unidad, tipo de compresor, potencia del ventilador y configuración de serpentines."
+        },
+        {
+            "type": "paragraph",
+            "text": "La selección adecuada evita ciclos cortos, sobrecarga de compresores y desbalance de presión en ductos. Además, se considera la facilidad de acceso para mantenimiento, disponibilidad de repuestos y compatibilidad con sistemas de control central o termostatos inteligentes."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Ubicación y soporte estructural"
+        },
+        {
+            "type": "paragraph",
+            "text": "La ubicación de la RTU sobre el techo requiere evaluación de peso, vibración, exposición a viento y estabilidad de la estructura. El técnico profesional define puntos de anclaje, bases antivibración y soporte estructural adecuado, asegurando que la unidad permanezca nivelada y segura frente a cargas dinámicas y estáticas."
+        },
+        {
+            "type": "paragraph",
+            "text": "Se utilizan bases tipo curb, aislantes antivibración y pads de goma o resorte según el peso de la unidad y frecuencia de operación. La correcta alineación evita transmisión de vibraciones a ductos y estructuras, reduciendo ruido y desgaste mecánico."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Instalación de ductos y conexiones de aire"
+        },
+        {
+            "type": "paragraph",
+            "text": "El flujo de aire generado por la RTU debe ser transferido a los ductos principales mediante plenums de entrada y salida. El técnico de nivel máster calcula las secciones de ducto, pérdidas de presión, velocidad del aire y balance de caudales para mantener eficiencia y confort."
+        },
+        {
+            "type": "paragraph",
+            "text": "Cada unión se sella cuidadosamente para evitar fugas, y los codos y transiciones se diseñan para reducir turbulencia y caída de presión. En sistemas con zonificación, los dampers se instalan y calibran para controlar caudal hacia cada área de manera precisa."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Conexiones de refrigerante y eléctricas"
+        },
+        {
+            "type": "paragraph",
+            "text": "Las RTU integran serpentines de enfriamiento conectados al compresor interno mediante líneas de refrigerante diseñadas para minimizar pérdidas y garantizar retorno de aceite. El técnico profesional verifica rutas de tuberías, aislamiento, pendientes y valvulería, aplicando técnicas de brazing controladas y carga exacta de refrigerante según especificaciones del fabricante."
+        },
+        {
+            "type": "paragraph",
+            "text": "El cableado eléctrico requiere planificación de alimentación principal, protecciones, puesta a tierra y conexión de control de bajo voltaje. Cada sensor, relé y actuador se conecta siguiendo códigos de color y protocolos de comunicación, asegurando que el sistema funcione de manera coordinada con termostatos y control central."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Integración con control y economizadores"
+        },
+        {
+            "type": "paragraph",
+            "text": "Las RTU modernas incluyen economizadores y opciones de ventilación mecánica que permiten aprovechar aire exterior para enfriamiento libre, optimizando eficiencia energética. El técnico de nivel máster configura estos sistemas para que operen dentro de parámetros de diseño, evitando sobrepresión, flujo insuficiente o ciclos erráticos."
+        },
+        {
+            "type": "paragraph",
+            "text": "Se programan controles de economizador, sensores de temperatura y CO2, y se integran con termostatos y controles de zona, permitiendo operación automática basada en condiciones externas e internas del edificio, con optimización de consumo y confort térmico."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Puesta en marcha y verificación"
+        },
+        {
+            "type": "paragraph",
+            "text": "La puesta en marcha incluye verificación de nivelación, anclaje, flujo de aire, presión estática, carga de refrigerante, tensión y corriente eléctrica, respuesta de economizadores y actuadores, y calibración de controles. El técnico profesional registra datos de operación, ajusta setpoints y corrige desviaciones antes de entregar el sistema en operación."
+        },
+        {
+            "type": "paragraph",
+            "text": "Se realizan pruebas de arranque, parada, respuesta a cambios de carga, operación en modos calefacción y refrigeración, y balance de presión y caudal hacia cada zona, asegurando que la RTU funcione de manera eficiente y confiable."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "🛑 FOTO REQUERIDA (BUSCAR O GENERAR): Vista profesional de una RTU instalada sobre un techo, mostrando ventilador, compresor, serpentines, ductos de entrada y salida, economizador y conexiones eléctricas y de refrigerante."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Conclusión técnica de la lección"
+        },
+        {
+            "type": "paragraph",
+            "text": "Las Unidades Tipo Paquete (RTU) son sistemas integrales que requieren planificación, instalación y puesta en marcha de alto nivel. La correcta selección, ubicación, soporte estructural, conexión de ductos y refrigerante, cableado y control determina eficiencia energética, confort, durabilidad y confiabilidad del sistema. El técnico de nivel máster aplica ingeniería avanzada en cada etapa, asegurando que la RTU funcione de manera óptima bajo todas las condiciones operativas y mantenga su rendimiento a largo plazo."
+        }
+    ]
+}
