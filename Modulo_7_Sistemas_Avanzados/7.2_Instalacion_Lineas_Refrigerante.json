@@ -1,0 +1,111 @@
+{
+    "blocks": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Lección 7.2: Instalación de líneas de refrigerante (Refnets)"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Introducción: la columna vertebral del sistema VRF"
+        },
+        {
+            "type": "paragraph",
+            "text": "En sistemas VRF/VRV, las tuberías y refnets constituyen la columna vertebral que conecta las unidades interiores con la unidad exterior, transportando refrigerante a distintas presiones y fases (gas y líquido) mientras aseguran retorno de aceite hacia el compresor. La correcta instalación de estas tuberías es crítica para el rendimiento, eficiencia energética y confiabilidad del sistema. Cualquier error en dimensionamiento, trazado, aislamiento o inclinación puede provocar pérdida de capacidad, sobrecalentamiento de compresores, acumulación de aceite en unidades interiores o fugas de refrigerante."
+        },
+        {
+            "type": "paragraph",
+            "text": "El técnico de nivel máster aborda estas instalaciones como un sistema integral, considerando no solo la longitud y diámetro de tubería, sino también pendientes, válvulas de servicio, soportes, vibraciones, expansión térmica y técnicas de soldadura de alta precisión."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dimensionamiento de tuberías"
+        },
+        {
+            "type": "paragraph",
+            "text": "El dimensionamiento de tuberías VRF depende de: Capacidad de la unidad exterior, Distancia entre unidades interiores y exteriores, Número de unidades interiores conectadas y Tipo de refrigerante."
+        },
+        {
+            "type": "paragraph",
+            "text": "El técnico profesional realiza cálculos detallados, utilizando tablas del fabricante y fórmulas de hidráulica de refrigerantes, asegurando que cada tramo tenga diámetro suficiente para minimizar caída de presión, evitar sobrecarga del compresor y garantizar retorno de aceite."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Materiales y preparación de tuberías"
+        },
+        {
+            "type": "paragraph",
+            "text": "Las tuberías utilizadas son generalmente de cobre tipo ACR (Air Conditioning & Refrigeration) certificado, con soldaduras de alta pureza y resistencia a presiones de operación. Las uniones se realizan mediante Brazing con nitrógeno y técnicas de soldadura limpia y precisa, asegurando uniformidad de calor y evitando deformaciones que puedan generar fugas."
+        },
+        {
+            "type": "paragraph",
+            "text": "Cada tramo se limpia internamente, se revisa con aire seco para eliminar partículas y humedad, y se verifica geometría antes de instalación. El técnico máster también planifica soporte mecánico para minimizar vibraciones, expansión térmica y contacto con superficies metálicas del edificio."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Trazado y pendiente de tuberías"
+        },
+        {
+            "type": "paragraph",
+            "text": "El trazado debe garantizar flujo óptimo de refrigerante, pendiente mínima para retorno de aceite (generalmente 1/100 a 1/200), separación de fases y evitar interferencias con otras instalaciones."
+        },
+        {
+            "type": "paragraph",
+            "text": "El técnico profesional también considera expansión térmica del cobre, usando soportes deslizantes y curvas de compensación para evitar tensiones en soldaduras y deformaciones de tubería."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Aislamiento térmico y protección"
+        },
+        {
+            "type": "paragraph",
+            "text": "Todas las tuberías deben estar aisladas para evitar pérdidas energéticas, condensación y corrosión. Los tubos de líquido requieren aislamiento delgado pero continuo, mientras que los tubos de gas necesitan aislamiento más grueso. Además, se aplica protección UV y mecánica en tuberías externas."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Válvulas y accesorios críticos"
+        },
+        {
+            "type": "paragraph",
+            "text": "Cada sistema VRF requiere válvulas de servicio, válvulas de balance y acumuladores de aceite. El técnico máster asegura que todas las válvulas estén correctamente instaladas, accesibles y selladas, verificando compatibilidad con el refrigerante y tolerancias de presión."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pruebas de estanqueidad y evacuación"
+        },
+        {
+            "type": "paragraph",
+            "text": "Antes de poner en marcha, se realizan pruebas críticas: prueba de hermeticidad con nitrógeno, evacuación y secado del sistema mediante bomba de vacío, y carga de refrigerante calculada según especificaciones del fabricante. Estas pruebas son esenciales para garantizar funcionamiento confiable y longevidad del sistema."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Integración con puesta en marcha y control"
+        },
+        {
+            "type": "paragraph",
+            "text": "Una vez instaladas las tuberías y accesorios, el técnico verifica comunicación con unidades interiores, válvulas de expansión electrónicas y compresores, asegurando correcto flujo de refrigerante, retorno de aceite y respuesta de cada unidad a la demanda."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "🛑 FOTO REQUERIDA (BUSCAR O GENERAR): Diagrama técnico de un sistema VRF/VRV mostrando unidad exterior, múltiples unidades interiores, tuberías de gas y líquido con pendientes correctas, válvulas de servicio y retorno de aceite."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Conclusión técnica de la lección"
+        },
+        {
+            "type": "paragraph",
+            "text": "Las tuberías y refnets en sistemas VRF/VRV son el elemento crítico que garantiza flujo de refrigerante, retorno de aceite, eficiencia energética y confiabilidad. La correcta selección de diámetros, materiales, trazado, pendientes, aislamiento, soldadura y pruebas de estanqueidad asegura funcionamiento óptimo. El técnico de nivel máster planifica, instala y verifica cada detalle, integrando control electrónico, balance de presión y retorno de aceite para maximizar rendimiento, durabilidad y confort de cada zona climatizada."
+        }
+    ]
+}
