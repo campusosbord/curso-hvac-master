@@ -3,84 +3,104 @@
         {
             "type": "heading",
             "level": 1,
-            "text": "Lección 2.3: Seguridad en Alturas y Espacios Confinados (La Diferencia entre la Vida y la Muerte)"
-        },
-        {
-            "type": "paragraph",
-            "text": "El técnico HVAC trabaja donde nadie más quiere entrar: techos, entretechos (attics) hirviendo, sótanos inundados y escaleras inestables. Las caídas son la causa #1 de muerte en la construcción. En esta lección, aprenderemos a volver a casa vivos."
+            "text": "Lección 2.3: Seguridad en alturas y espacios confinados"
         },
         {
             "type": "heading",
             "level": 2,
-            "text": "1. Escaleras: Tu Herramienta Más Peligrosa"
+            "text": "Introducción"
         },
         {
             "type": "paragraph",
-            "text": "No es solo 'subir y bajar'. Hay física involucrada."
-        },
-        {
-            "type": "list",
-            "style": "unordered",
-            "items": [
-                "Regla 4:1 (Escaleras de Extensión): Por cada 4 metros de altura, la base de la escalera debe alejarse 1 metro de la pared. Si está muy vertical, te vas de espaldas. Si está muy acostada, la base resbala.",
-                "Tres Puntos de Contacto: SIEMPRE mantén dos manos y un pie, o dos pies y una mano en la escalera. Nunca subas herramientas en la mano; usa una cuerda para izarlas.",
-                "Extensión Superior: La escalera debe sobresalir al menos 1 metro (3 pies) por encima del techo que vas a pisar, para tener de dónde agarrarte al transbordar."
-            ]
+            "text": "La práctica profesional del HVAC moderno expone al técnico a condiciones de trabajo que, sin una gestión rigurosa del riesgo, pueden derivar en accidentes graves o fatales. A diferencia de otras especialidades técnicas, el HVAC combina de forma recurrente intervenciones en altura, acceso a espacios de geometría limitada, manipulación de energía eléctrica, circulación de gases refrigerantes y trabajo físico prolongado en entornos térmicamente exigentes. En un programa de nivel máster, la seguridad no se aborda como un complemento operativo, sino como una competencia técnica fundamental que define la calidad profesional del instalador o mantenedor."
         },
         {
             "type": "heading",
             "level": 2,
-            "text": "2. Protección Contra Caídas (Arneses y Puntos de Anclaje)"
+            "text": "Seguridad en trabajos en altura aplicados al HVAC"
         },
         {
             "type": "paragraph",
-            "text": "A partir de 1.8 metros (6 pies) de altura, la normativa OSHA exige protección contra caídas."
+            "text": "En el contexto HVAC, el trabajo en altura no se limita a grandes elevaciones. La instalación de unidades condensadoras en azoteas, la fijación de evaporadores en zonas elevadas, el montaje de ductería aérea o el acceso a equipos mediante escaleras constituyen escenarios habituales de riesgo. La gravedad potencial de una caída, incluso desde alturas moderadas, se ve incrementada por la presencia de herramientas, superficies resbaladizas y la necesidad de adoptar posturas forzadas durante la intervención."
         },
         {
-            "type": "list",
-            "style": "unordered",
-            "items": [
-                "Arnés de Cuerpo Completo: El cinturón de seguridad está prohibido (te parte la columna al frenar). El arnés distribuye el impacto en muslos y hombros.",
-                "Línea de Vida con Amortiguador: NUNCA uses una cuerda estática. Necesitas el paquete amortiguador (shock absorber) que se desgarra controladamente para frenar la caída suavemente.",
-                "El Anclaje: De nada sirve el arnés si te amarras a un tubo de PVC o un conducto de ventilación. El punto de anclaje debe soportar 2200 kg (5000 libras) por persona."
-            ]
+            "type": "paragraph",
+            "text": "El profesional avanzado entiende que el riesgo no reside únicamente en la altura física, sino en la pérdida de control del cuerpo provocada por fatiga, desequilibrio o interferencias externas como viento, humedad o vibraciones estructurales. Por este motivo, cualquier intervención en altura debe partir de una evaluación previa de las condiciones del entorno y de la capacidad real del técnico para ejecutar la tarea sin comprometer su estabilidad."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Sistemas de protección contra caídas"
+        },
+        {
+            "type": "paragraph",
+            "text": "El uso de sistemas anticaídas en trabajos HVAC en altura responde a criterios técnicos y normativos, no a decisiones personales. El arnés de cuerpo completo distribuye las fuerzas generadas en una eventual caída, reduciendo el riesgo de lesiones internas severas. Sin embargo, su eficacia depende directamente de la calidad del punto de anclaje y del correcto ajuste del sistema al cuerpo del usuario."
+        },
+        {
+            "type": "paragraph",
+            "text": "En entornos HVAC es habitual encontrar estructuras auxiliares, tuberías o bandejas que no están diseñadas para absorber cargas dinámicas, por lo que su utilización como anclaje constituye una práctica peligrosa y técnicamente incorrecta. El técnico de nivel máster debe ser capaz de identificar elementos estructurales aptos para anclaje o, en su defecto, exigir la instalación de sistemas certificados antes de iniciar el trabajo."
         },
         {
             "type": "heading",
             "level": 3,
-            "text": "🛑 FOTO REQUERIDA (BUSCAR O GENERAR): Técnico HVAC equipado con Arnés de Seguridad de cuerpo completo, enganchado a una línea de vida retráctil en un techo comercial. Mostrando posición correcta de 3 puntos en escalera."
+            "text": "🛑 FOTO REQUERIDA (BUSCAR O GENERAR): Sistema de protección contra caídas en azotea: arnés de cuerpo completo correctamente anclado a estructura certificada junto a una unidad HVAC."
         },
         {
             "type": "heading",
             "level": 2,
-            "text": "3. Espacios Confinados (Crawlspaces y Attics)"
+            "text": "Limitaciones del uso de escaleras en HVAC"
         },
         {
             "type": "paragraph",
-            "text": "Un espacio confinado es aquel que: 1) Es lo suficientemente grande para entrar. 2) Tiene entrada/salida limitada. 3) NO está diseñado para ocupación humana continua."
+            "text": "Desde una perspectiva profesional avanzada, las escaleras deben considerarse exclusivamente como medios de acceso y no como plataformas de trabajo prolongado. El uso extendido de escaleras para tareas que requieren precisión, fuerza o manipulación de componentes pesados incrementa la fatiga muscular y reduce la capacidad de reacción del técnico, elevando significativamente el riesgo de caída."
         },
         {
-            "type": "heading",
-            "level": 3,
-            "text": "Peligros Invisibles"
-        },
-        {
-            "type": "list",
-            "style": "ordered",
-            "items": [
-                "Golpe de Calor (Heat Stroke): En un entretecho a 60°C, tu cuerpo deja de sudar en 20 minutos. Si dejas de sudar y tienes la piel seca/roja, es una emergencia médica mortal.",
-                "Asfixia (Deficiencia de Oxígeno): El Nitrógeno o el Refrigerante son más pesados que el aire. Si hubo una fuga en un sótano, el gas desplazó al oxígeno. Puedes morir en 2 respiraciones sin darte cuenta.",
-                "Electricidad y Agua: En crawlsapces húmedos, una extensión eléctrica pelada convierte todo el charco en una trampa mortal."
-            ]
+            "type": "paragraph",
+            "text": "El criterio técnico adecuado implica evaluar si la tarea puede ejecutarse de forma segura desde una escalera o si requiere el uso de plataformas elevadoras, andamios o sistemas de acceso alternativos. Esta decisión forma parte del juicio profesional del técnico y tiene implicaciones directas tanto en la seguridad como en la calidad final del trabajo."
         },
         {
             "type": "heading",
             "level": 2,
-            "text": "4. Protocolo de Trabajo Solitario"
+            "text": "Espacios confinados en instalaciones HVAC"
         },
         {
             "type": "paragraph",
-            "text": "Si entras a un ático solo, avisa a alguien. 'Entro al ático, si en 30 min no bajo, búscame'. Lleva siempre tu celular cargado y una linterna potente extra."
+            "text": "Los espacios confinados representan uno de los entornos más peligrosos dentro del ámbito HVAC. Cuartos de máquinas, falsos techos, ductos de retorno, cámaras técnicas y salas de equipos cerradas no están diseñados para la ocupación humana continua y presentan riesgos que no siempre son perceptibles a simple vista. La principal amenaza en estos espacios es la alteración de la atmósfera respirable, ya sea por deficiencia de oxígeno, acumulación de gases refrigerantes o presencia de contaminantes."
+        },
+        {
+            "type": "paragraph",
+            "text": "A diferencia de otros riesgos mecánicos o eléctricos, los peligros atmosféricos actúan de forma silenciosa. Un técnico puede perder la conciencia en cuestión de segundos sin señales de advertencia claras, lo que convierte al espacio confinado en un entorno de alto riesgo incluso para profesionales experimentados."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Gestión de la atmósfera y control del riesgo"
+        },
+        {
+            "type": "paragraph",
+            "text": "En un enfoque de nivel máster, el ingreso a un espacio confinado solo se considera aceptable tras la verificación objetiva de las condiciones atmosféricas. Esto implica ventilación previa adecuada y medición de oxígeno y gases mediante instrumentos calibrados. La experiencia personal o la “sensación” del ambiente no constituyen criterios técnicos válidos."
+        },
+        {
+            "type": "paragraph",
+            "text": "Además, toda intervención debe contemplar la presencia de un observador externo capacitado, cuya función es supervisar la operación y activar protocolos de emergencia en caso de incidente. La ausencia de este observador transforma cualquier trabajo en espacio confinado en una actividad técnicamente irresponsable."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Responsabilidad profesional y criterio técnico"
+        },
+        {
+            "type": "paragraph",
+            "text": "El técnico HVAC de nivel máster no mide su competencia únicamente por la capacidad de instalar o reparar equipos, sino por su habilidad para identificar límites operativos seguros y detener una intervención cuando las condiciones no son adecuadas. La negativa a ejecutar un trabajo inseguro no es una debilidad profesional, sino una manifestación de criterio técnico avanzado y responsabilidad ética."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Cierre de la lección"
+        },
+        {
+            "type": "paragraph",
+            "text": "La seguridad en trabajos en altura y espacios confinados constituye un pilar fundamental del ejercicio profesional avanzado en HVAC. La correcta evaluación del entorno, la selección adecuada de sistemas de protección y el respeto estricto de los procedimientos no solo preservan la integridad física del técnico, sino que garantizan la continuidad profesional y la calidad del servicio prestado."
         }
     ]
 }
