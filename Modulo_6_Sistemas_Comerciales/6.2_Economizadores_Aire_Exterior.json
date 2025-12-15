@@ -1,0 +1,137 @@
+{
+    "blocks": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Lección 6.2: Economizadores y aire exterior"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Introducción: La eficiencia energética mediante economizadores"
+        },
+        {
+            "type": "paragraph",
+            "text": "En sistemas comerciales tipo RTU, los economizadores representan una de las estrategias más avanzadas para optimizar eficiencia energética, reducir consumo de refrigerante y mejorar la calidad del aire interior. Su función principal es permitir el enfriamiento “libre” mediante la incorporación de aire exterior cuando las condiciones ambientales son favorables, reduciendo la necesidad de operar compresores y serpentines de enfriamiento."
+        },
+        {
+            "type": "paragraph",
+            "text": "A nivel profesional-máster, la instalación de economizadores no es simplemente colocar una compuerta de aire: requiere análisis detallado de carga térmica, ubicación de tomas de aire, rutas de ductos, balance de presión, control de humedad, prevención de sobrepresión y coordinación con todos los sistemas de ventilación y climatización. Un error de cálculo o instalación puede generar sobrepresión, fugas de aire, contaminación del sistema o funcionamiento errático, impactando directamente eficiencia y confort."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tipos de economizadores y selección"
+        },
+        {
+            "type": "paragraph",
+            "text": "Existen varios tipos de economizadores, cada uno con aplicaciones específicas:"
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Economizadores de aire de mezcla (Mixed Air): combinan aire exterior con retorno de aire interior, controlando proporción para mantener temperatura deseada.",
+                "Economizadores de aire libre (Free Cooling): utilizan directamente aire exterior cuando la temperatura y humedad son adecuadas, minimizando operación de compresores.",
+                "Economizadores con control entálpico: ajustan la mezcla de aire considerando no solo temperatura sino también contenido de humedad, evitando ingreso de aire demasiado húmedo que pueda generar condensación en serpentines.",
+                "Economizadores de presión diferencial: regulan la entrada de aire exterior según presión del sistema y caudal de ventilación requerido, manteniendo balance de presión constante."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "El técnico profesional selecciona el tipo de economizador considerando: ubicación geográfica, condiciones climáticas, carga térmica del edificio, tipo de sistema RTU, capacidad del ventilador y requisitos de ventilación según normas ASHRAE o locales."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Ubicación y dimensionamiento de tomas de aire exterior"
+        },
+        {
+            "type": "paragraph",
+            "text": "La ubicación de la toma de aire exterior es crítica para asegurar aire limpio, sin contaminantes, polvo, humo o gases industriales. Se deben evitar fuentes de contaminación como techos con acceso de vehículos, sistemas de extracción industrial o ventiladores de otras unidades."
+        },
+        {
+            "type": "paragraph",
+            "text": "El dimensionamiento incluye calcular sección de entrada según caudal necesario, considerando velocidad del aire, pérdida de presión, turbulencia y efectos de viento. A nivel máster, el técnico realiza simulaciones de flujo de aire y caída de presión para evitar zonas de recirculación o ingreso de aire con baja eficiencia. La correcta ubicación previene sobrepresión en ductos y garantiza que los filtros y serpentines reciban aire homogéneo."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Instalación mecánica y sellado"
+        },
+        {
+            "type": "paragraph",
+            "text": "El economizador se instala integrando compuertas motorizadas o manuales con actuadores precisos, conectados a control de temperatura y humedad. El técnico de nivel avanzado asegura que cada compuerta se mueva suavemente, sin fricción ni juego excesivo, y que las juntas estén perfectamente selladas para evitar fugas de aire que alteren el balance del sistema."
+        },
+        {
+            "type": "paragraph",
+            "text": "Se emplean selladores resistentes a la intemperie, cintas de estanqueidad de alta durabilidad y soportes antivibración para evitar transmisión de ruido y vibraciones hacia la estructura o ductos. Cada elemento se verifica mediante inspección visual, medición de presión y prueba de movimiento de compuertas antes de la integración al sistema eléctrico y de control."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Integración eléctrica y de control"
+        },
+        {
+            "type": "paragraph",
+            "text": "El economizador se conecta al sistema de control de la RTU y a termostatos o controladores centrales. Los actuadores reciben señales de apertura/cierre basadas en temperatura, humedad o demanda de ventilación. El técnico profesional programa los puntos de ajuste (setpoints) para maximizar eficiencia energética y prevenir ingreso de aire no deseado."
+        },
+        {
+            "type": "paragraph",
+            "text": "El cableado sigue criterios de ingeniería: separación de líneas de potencia y señal, protección contra interferencias electromagnéticas, identificación clara de conductores y fácil acceso para mantenimiento. Se instalan sensores de temperatura, humedad y presión, calibrados y verificados para garantizar operación confiable bajo todas las condiciones."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Balance de presión y flujo de aire"
+        },
+        {
+            "type": "paragraph",
+            "text": "Uno de los aspectos más críticos es mantener balance de presión entre aire exterior, retorno y ductos hacia el sistema. Una entrada de aire mal balanceada puede generar sobrepresión o succión excesiva, afectando ventiladores, plenums, dampers y diffusers, y provocando ruido o desgaste prematuro de componentes."
+        },
+        {
+            "type": "paragraph",
+            "text": "El técnico máster realiza cálculos de caída de presión en tramos de entrada y ductos, considerando caudales de retorno y suministro, resistencia de filtros y serpentines, y ajusta actuadores y compuertas para mantener estabilidad. Se utilizan manómetros, balómetros y anemómetros para medir caudales y presión, y se realizan ajustes finos de apertura de compuertas según la demanda real de ventilación y las condiciones climáticas."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Prevención de problemas y mantenimiento"
+        },
+        {
+            "type": "paragraph",
+            "text": "Los economizadores requieren atención especial para evitar problemas típicos: acumulación de polvo y suciedad, corrosión de compuertas, falla de actuadores, sensores descalibrados y filtración de aire no deseado. El técnico profesional implementa protocolos de mantenimiento preventivo, incluyendo inspección periódica de compuertas, limpieza de filtros y serpentines, lubricación de actuadores y verificación de comunicación con el sistema de control."
+        },
+        {
+            "type": "paragraph",
+            "text": "Además, se revisa la integración con sistemas de alarma y monitoreo central, permitiendo detectar fallas o desviaciones de operación antes de que impacten eficiencia o confort."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Optimización avanzada"
+        },
+        {
+            "type": "paragraph",
+            "text": "En instalaciones comerciales complejas, el economizador se coordina con estrategias de control avanzado: integración con sensores de CO2, ocupación, humedad relativa y demanda energética. Esto permite que el sistema ajuste dinámicamente la proporción de aire exterior, maximizando eficiencia sin comprometer confort o calidad del aire."
+        },
+        {
+            "type": "paragraph",
+            "text": "Se pueden implementar modos de operación basados en horarios, ocupación o condiciones climáticas externas, utilizando controladores programables o sistemas BAS (Building Automation System). La calibración precisa y la programación avanzada aseguran que la RTU opere de manera óptima bajo todas las condiciones, manteniendo caudales, presiones y temperatura dentro de los parámetros diseñados."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "🛑 FOTO REQUERIDA (BUSCAR O GENERAR): Diagrama profesional de una RTU con economizador integrado: mostrando compuertas de aire exterior y retorno, flujo de aire, sensores de temperatura y humedad, y rutas de control eléctrico."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Conclusión técnica de la lección"
+        },
+        {
+            "type": "paragraph",
+            "text": "La instalación de economizadores y tomas de aire exterior es una tarea estratégica que impacta directamente en eficiencia energética, confort, durabilidad y operación confiable de sistemas comerciales. El técnico de nivel máster planifica ubicación, selección de tipo, dimensionamiento, instalación mecánica, integración eléctrica y control, balance de presión y flujo de aire, mantenimiento preventivo y optimización avanzada. Cada detalle es crítico: un economizador correctamente instalado y ajustado permite reducir costos operativos, mejorar la calidad del aire interior y maximizar la vida útil de la RTU, garantizando operación profesional de alto nivel."
+        }
+    ]
+}
