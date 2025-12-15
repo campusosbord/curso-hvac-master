@@ -1,0 +1,96 @@
+{
+    "blocks": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Lección 5.1: Tipos de equipos centrales (Divididos vs. Paquete)"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Introducción: la base de la instalación de aire central"
+        },
+        {
+            "type": "paragraph",
+            "text": "En el contexto de sistemas de aire central para aplicaciones residenciales y comerciales ligeras, la selección del tipo de equipo constituye la decisión inicial más crítica de toda instalación. A nivel profesional-máster, no se trata de simplemente elegir entre un sistema dividido o un equipo paquete por conveniencia de espacio; esta decisión afecta el rendimiento, la eficiencia energética, la facilidad de mantenimiento, la distribución del aire, la integración con ductos y la confiabilidad a largo plazo."
+        },
+        {
+            "type": "paragraph",
+            "text": "Cada tipo de sistema responde a diferentes criterios de diseño, requisitos de carga térmica y condiciones arquitectónicas. La comprensión profunda de sus diferencias funcionales, operativas y constructivas permite al técnico avanzado anticipar problemas potenciales, optimizar recursos y garantizar una instalación eficiente desde el primer día."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Equipos Divididos (Split Systems Centralizados)"
+        },
+        {
+            "type": "paragraph",
+            "text": "Los sistemas divididos centrales están compuestos por dos unidades principales: la manejadora de aire (AHU, por sus siglas en inglés) ubicada en el interior del edificio, y la unidad condensadora, ubicada en el exterior. Esta separación permite una mayor flexibilidad de instalación, reducción de ruido interior y optimización de la distribución del aire a través de ductos bien diseñados."
+        },
+        {
+            "type": "paragraph",
+            "text": "Desde un enfoque profesional, la AHU no solo actúa como un ventilador y cámara de mezcla, sino como un nodo central de control de flujo, temperatura y humedad. En la instalación, el técnico de nivel máster evalúa cuidadosamente la ubicación de la AHU, considerando accesibilidad para mantenimiento, ventilación adecuada y la correcta integración con los ductos de retorno y suministro. La condensadora, por su parte, debe posicionarse optimizando la exposición al sol, la ventilación del condensador y la protección contra elementos externos, mientras se mantiene la distancia correcta de la AHU para minimizar pérdidas de carga y garantizar el retorno de aceite y refrigerante."
+        },
+        {
+            "type": "paragraph",
+            "text": "El técnico avanzado analiza también la longitud y caída de presión de las líneas de refrigerante, la correcta carga de refrigerante, la selección de compresores adecuados y la compatibilidad con sistemas de control de bajo voltaje, integrando todo esto en un diseño que maximiza eficiencia y confiabilidad. La separación física de las unidades permite además un control más preciso de la temperatura interior y facilita futuras expansiones del sistema."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Equipos Paquete (Rooftop Units o Unidades Empaquetadas)"
+        },
+        {
+            "type": "paragraph",
+            "text": "Los equipos paquete concentran todos los componentes de climatización en una sola unidad, generalmente instalada sobre el techo o en un área exterior accesible. Esta configuración permite una instalación más rápida y simplificada, especialmente en edificaciones donde no es práctico instalar una AHU interna. Sin embargo, requiere un análisis detallado de peso, soporte estructural, aislamiento acústico y rutas de ductos optimizadas para minimizar pérdidas de energía y ruido."
+        },
+        {
+            "type": "paragraph",
+            "text": "Desde la perspectiva de nivel máster, la unidad paquete debe seleccionarse considerando la carga térmica total, la eficiencia del compresor, la capacidad de ventiladores y la integración de controles. La posición en altura exige cálculo de anclajes, estabilidad frente a viento y vibraciones, y acceso seguro para mantenimiento. La interconexión con ductos de suministro y retorno debe minimizar caídas de presión, permitiendo un flujo uniforme de aire y evitando zonas de recirculación que puedan comprometer confort y eficiencia."
+        },
+        {
+            "type": "paragraph",
+            "text": "El técnico de nivel profesional también evalúa la estrategia de drenaje del condensado, la accesibilidad de filtros, bandejas y componentes eléctricos, así como la facilidad de mantenimiento preventivo y correctivo. A diferencia del sistema dividido, donde el control del flujo de aire se gestiona principalmente en la AHU, en los equipos paquete la regulación se concentra dentro del mismo gabinete, lo que requiere ajustes precisos de dampers, ventiladores y serpentines para lograr el confort deseado en todo el espacio atendido."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Comparativa profesional entre sistemas Divididos y Paquete"
+        },
+        {
+            "type": "paragraph",
+            "text": "La elección entre un sistema dividido o paquete depende de múltiples factores técnicos y arquitectónicos. Los sistemas divididos ofrecen flexibilidad, mayor control individual de zonas, menor ruido interior y mejor gestión del retorno de aceite en recorridos largos. Los sistemas paquete, por su parte, reducen tiempos de instalación, simplifican la coordinación de ductos y concentran mantenimiento en un solo punto, pero requieren análisis estructural y planificación de accesos más estrictos."
+        },
+        {
+            "type": "paragraph",
+            "text": "El técnico de nivel máster no se limita a criterios superficiales como “espacio disponible” o “facilidad de instalación”; evalúa la eficiencia energética, las cargas térmicas reales, la capacidad de integración con control central, la gestión del condensado, el ruido, las vibraciones y la facilidad de expansión futura. Cada proyecto es único, y la decisión final refleja un balance entre diseño, operación y mantenimiento a largo plazo."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Factores críticos para la instalación profesional"
+        },
+        {
+            "type": "paragraph",
+            "text": "Independientemente del tipo de equipo seleccionado, la instalación profesional considera factores como la planificación de rutas de ductos para minimizar caídas de presión, la correcta selección de materiales y aislamiento, la optimización del flujo de aire y la integración con sistemas de control de bajo voltaje. Además, se planifican rutas de acceso para mantenimiento, puntos de prueba de presión y temperatura, y estrategias de seguridad durante la instalación y operación."
+        },
+        {
+            "type": "paragraph",
+            "text": "El profesional avanzado también evalúa la interacción del sistema con el entorno, considerando factores como exposición solar, ventilación, vibración, ruido y condiciones climáticas. Cada detalle, desde la ubicación de la condensadora hasta la orientación de la AHU o del equipo paquete, se analiza para maximizar eficiencia, confort y durabilidad del sistema."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "🛑 FOTO REQUERIDA (BUSCAR O GENERAR): Diagrama comparativo mostrando un sistema dividido con AHU interior y condensadora exterior, y un equipo paquete sobre techo, con rutas de ductos y ubicación de condensado."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Conclusión técnica de la lección"
+        },
+        {
+            "type": "paragraph",
+            "text": "La comprensión profunda de los tipos de equipos centrales es la base de toda instalación de aire central profesional. La elección entre un sistema dividido o paquete debe basarse en análisis de carga térmica, eficiencia energética, rutas de ductos, control de condensado, accesibilidad para mantenimiento y seguridad, más que en criterios superficiales. El técnico de nivel máster planifica, dimensiona y ejecuta la instalación considerando la interacción de todos los componentes, asegurando eficiencia, confiabilidad y confort en cada proyecto, desde residencias hasta edificaciones comerciales ligeras."
+        }
+    ]
+}
