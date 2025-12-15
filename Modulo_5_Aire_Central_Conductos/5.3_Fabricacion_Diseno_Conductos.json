@@ -1,0 +1,114 @@
+{
+    "blocks": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Lección 5.3: Fabricación y diseño de conductos"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Introducción: la importancia del diseño de ductos"
+        },
+        {
+            "type": "paragraph",
+            "text": "En sistemas de aire central, los conductos son mucho más que simples tubos de transporte de aire. A nivel profesional-máster, se entienden como un sistema dinámico que controla flujo, presión, temperatura, humedad y ruido, asegurando que cada espacio reciba exactamente el aire necesario para mantener confort y eficiencia energética. El diseño adecuado de los conductos es tan crítico como la selección de la AHU o la condensadora, ya que cualquier pérdida de presión, fuga, turbulencia o acumulación de condensado impacta directamente en el rendimiento del sistema y la vida útil de los equipos."
+        },
+        {
+            "type": "paragraph",
+            "text": "El Manual D, desarrollado por la Air Conditioning Contractors of America (ACCA), proporciona los lineamientos para dimensionar correctamente los conductos, equilibrando caudal, velocidad y caída de presión. A nivel experto, el técnico no sigue estas tablas de manera mecánica, sino que las interpreta en conjunto con la geometría del edificio, las características del sistema, la ubicación de difusores y la resistencia estructural de los materiales."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Selección de materiales: Fibra de vidrio vs Lámina metálica"
+        },
+        {
+            "type": "paragraph",
+            "text": "La elección entre conductos de fibra de vidrio y lámina metálica requiere un análisis exhaustivo. Los conductos de fibra de vidrio ofrecen ventajas en aislamiento térmico y acústico, reduciendo pérdidas de energía y minimizando ruido generado por el flujo de aire. Sin embargo, requieren técnicas de ensamblaje precisas y protección contra humedad para evitar deformaciones, degradación del material y proliferación de microorganismos."
+        },
+        {
+            "type": "paragraph",
+            "text": "Por otro lado, los conductos de lámina metálica, generalmente de acero galvanizado, ofrecen rigidez, durabilidad y facilidad de limpieza, pero su superficie lisa puede generar ruido por vibración y condensación interna si no se aplica aislamiento adecuado. El técnico de nivel máster evalúa el uso de ambos materiales según la aplicación: residencias de lujo, oficinas, locales comerciales y áreas expuestas a humedad o vibraciones mecánicas."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dimensionamiento según Manual D"
+        },
+        {
+            "type": "paragraph",
+            "text": "El dimensionamiento profesional de conductos se basa en balancear caudal, velocidad y caída de presión. Cada tramo se calcula considerando la distancia desde la AHU, el número de codos, difusores, rejillas y transiciones. El técnico de nivel máster analiza cuidadosamente cómo la velocidad del aire afecta ruido, confort y eficiencia: velocidades excesivas generan turbulencia y ruido, mientras que velocidades bajas incrementan pérdidas por fricción y requieren ductos más grandes, aumentando costos y espacio requerido."
+        },
+        {
+            "type": "paragraph",
+            "text": "El Manual D proporciona tablas de caída de presión por metro, coeficientes de codo y pérdidas menores, pero la interpretación profesional requiere aplicar factores correctivos según condiciones específicas del proyecto, como altura del techo, temperatura del aire, humedad relativa y presencia de filtración de aire."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Diseño de tramos rectos y transiciones"
+        },
+        {
+            "type": "paragraph",
+            "text": "El diseño experto considera que cada tramo recto, codo, reducción o ampliación afecta la dinámica del flujo. Los codos deben diseñarse con radios adecuados para minimizar turbulencia y pérdidas de presión, y las transiciones deben suavizar el flujo entre secciones de distinto tamaño. Las uniones de conductos metálicos se sellan con cintas especializadas, selladores o gomas de estanqueidad, evitando fugas que generen desequilibrio en el sistema y pérdida de eficiencia."
+        },
+        {
+            "type": "paragraph",
+            "text": "En conductos de fibra de vidrio, las uniones requieren adhesivos y refuerzos mecánicos que mantengan la integridad estructural bajo la presión del flujo de aire. Cada empalme se verifica con inspección visual y pruebas de presión, asegurando que no existan fugas ni deformaciones que afecten la distribución de aire."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Integración con difusores y rejillas"
+        },
+        {
+            "type": "paragraph",
+            "text": "Un diseño profesional no se limita al ducto principal; considera la correcta integración con difusores, rejillas y registros de zona. El técnico avanzado calcula la caída de presión hasta cada salida de aire, ajustando dimensiones y pendientes para mantener flujo uniforme y equilibrado. Cada difusor se selecciona según caudal, dirección de aire, nivel sonoro permitido y control de velocidad, asegurando confort térmico sin generar corrientes incómodas ni zonas de estancamiento."
+        },
+        {
+            "type": "paragraph",
+            "text": "La coordinación entre ductos, diffusers y dampers permite zonificación eficiente, reducción de ruido y optimización energética, garantizando que cada espacio reciba la cantidad de aire requerida sin comprometer el rendimiento general del sistema."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Caídas de presión y eficiencia energética"
+        },
+        {
+            "type": "paragraph",
+            "text": "El control de caídas de presión es un elemento crítico en la instalación de ductos. Cada metro de ducto, cada codo y cada rejilla generan resistencia que debe sumarse para dimensionar correctamente ventiladores y AHU. La caída de presión excesiva obliga al ventilador a trabajar más, aumentando consumo energético y desgaste mecánico. Por el contrario, ductos sobredimensionados incrementan costos y ocupan espacio innecesario, además de reducir velocidad de flujo y generar condensación."
+        },
+        {
+            "type": "paragraph",
+            "text": "El técnico de nivel máster evalúa estas variables de manera integral, utilizando cálculos de fricción, tablas de pérdida menor y experiencia de campo para lograr un equilibrio óptimo entre eficiencia, confort y costo."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Control de ruido y vibración"
+        },
+        {
+            "type": "paragraph",
+            "text": "Los conductos también son elementos que pueden amplificar ruido generado por ventiladores, compresores o el flujo de aire. En instalaciones profesionales, se consideran estrategias para reducción de ruido: aislamiento acústico, conductos de fibra de vidrio, amortiguadores, pads antivibración y transiciones suaves. La ubicación de difusores y la forma de los codos se ajusta para minimizar resonancias y vibraciones que afecten el confort."
+        },
+        {
+            "type": "paragraph",
+            "text": "El técnico de nivel máster entiende que el ruido no es solo una cuestión de confort, sino también un indicador de eficiencia del sistema: turbulencia excesiva y caídas de presión inadecuadas generan ruidos y pérdidas energéticas simultáneamente."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "🛑 FOTO REQUERIDA (BUSCAR O GENERAR): Comparativa profesional de ductos de fibra de vidrio vs lámina metálica, mostrando sección, aislamiento, codos y flujo de aire, con indicación de pérdidas de presión y puntos críticos de turbulencia."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Conclusión técnica de la lección"
+        },
+        {
+            "type": "paragraph",
+            "text": "El diseño y fabricación de conductos según Manual D constituye una de las competencias más críticas para un técnico HVAC de nivel máster. La elección de material, dimensionamiento, diseño de codos y transiciones, integración con difusores y control de caídas de presión son determinantes para lograr eficiencia, confort, durabilidad y minimización de ruido. Una instalación experta de ductos no solo transporta aire; optimiza cada metro de recorrido para que el sistema completo funcione de manera equilibrada, confiable y eficiente durante toda su vida útil."
+        }
+    ]
+}
