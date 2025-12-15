@@ -1,0 +1,160 @@
+{
+    "blocks": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Lección 6.4: Mantenimiento sistemas comerciales"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Introducción: la importancia del mantenimiento mecánico avanzado"
+        },
+        {
+            "type": "paragraph",
+            "text": "En sistemas comerciales tipo RTU y unidades paquete, los componentes mecánicos —principalmente ventiladores, poleas, correas y rodamientos— representan los elementos críticos que determinan confiabilidad, eficiencia energética y durabilidad del sistema. Un fallo en cualquiera de estos componentes puede generar pérdida de flujo de aire, sobrecarga de motores, vibraciones excesivas, ruido y aumento significativo del consumo eléctrico."
+        },
+        {
+            "type": "paragraph",
+            "text": "El técnico de nivel máster no se limita a inspecciones superficiales: realiza un análisis exhaustivo de cada elemento, evaluando desgaste, alineación, tensión, lubricación, balance dinámico y condiciones de operación. Este enfoque profesional asegura que cada ventilador opere con eficiencia máxima, reduciendo paradas inesperadas y costos operativos a largo plazo."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Inspección y diagnóstico de correas"
+        },
+        {
+            "type": "paragraph",
+            "text": "Las correas transmiten potencia del motor al ventilador y su mantenimiento es crítico. El técnico profesional evalúa:"
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Tipo de correa: poli-V, plana o trapezoidal, seleccionada según velocidad, torque y carga del ventilador.",
+                "Estado físico: grietas, deshilachado, endurecimiento, pérdida de elasticidad o contaminación con aceite/polvo.",
+                "Tensión correcta: ni demasiado floja que provoque deslizamiento, ni demasiado tensa que genere desgaste prematuro en rodamientos y motor.",
+                "Alineación con poleas: desalineación provoca vibraciones, ruido y reducción de vida útil."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Se utilizan tensiómetros y reglas de alineación láser para ajustes precisos. Además, se realiza análisis predictivo verificando vibración y temperatura durante operación para anticipar fallas antes de que sean críticas."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Inspección y mantenimiento de poleas"
+        },
+        {
+            "type": "paragraph",
+            "text": "Las poleas requieren revisión periódica de:"
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Desgaste en la ranura: evitando deformaciones que provoquen deslizamiento o daño a la correa.",
+                "Alineación: utilizando reglas y niveles láser para garantizar que el eje del motor y el eje del ventilador estén correctamente alineados.",
+                "Fijación: asegurando que tornillos y chavetas estén firmes y sin juego.",
+                "Lubricación en caso de poleas con rodamientos internos: evitando fricción y sobrecalentamiento."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Un técnico de nivel máster también evalúa balance dinámico y deformaciones por cargas de torsión, realizando ajustes finos para mantener eficiencia y minimizar vibraciones."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Revisión y lubricación de rodamientos"
+        },
+        {
+            "type": "paragraph",
+            "text": "Los rodamientos son críticos para la operación confiable de ventiladores. La inspección incluye:"
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Chequeo visual y auditivo: ruido, juego axial y radial, temperatura de operación.",
+                "Lubricación adecuada: utilizando grasa o aceite específico según especificación del fabricante, evitando exceso o déficit que puedan generar sobrecalentamiento o contaminación.",
+                "Reemplazo programado: basado en horas de operación, vibración y temperatura registrada."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "El mantenimiento predictivo avanzado incluye sensores de vibración y temperatura en rodamientos, permitiendo detectar desgaste prematuro y prevenir fallas catastróficas."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Procedimientos de ajuste y alineación"
+        },
+        {
+            "type": "paragraph",
+            "text": "Alineación correas-poleas: se realiza con tensiómetro y láser, ajustando posición de motor para lograr transmisión eficiente de potencia."
+        },
+        {
+            "type": "paragraph",
+            "text": "Ajuste de tensión: siguiendo tablas del fabricante, ajustando tornillería y soportes para mantener tensión óptima durante todo el ciclo de operación."
+        },
+        {
+            "type": "paragraph",
+            "text": "Balanceo de ventiladores: en casos de vibraciones persistentes, se realiza balanceo dinámico para minimizar desgaste en rodamientos y estructura."
+        },
+        {
+            "type": "paragraph",
+            "text": "Cada ajuste se registra y documenta para mantenimiento preventivo y planificación futura de sustitución de componentes."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Integración con mantenimiento preventivo y predictivo"
+        },
+        {
+            "type": "paragraph",
+            "text": "El técnico profesional implementa un plan de mantenimiento integral:"
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Preventivo: inspecciones periódicas, limpieza de componentes, ajuste de correas y lubricación de rodamientos según horas de operación.",
+                "Predictivo: monitoreo de vibraciones, temperatura y consumo eléctrico para anticipar fallas.",
+                "Correctivo: reemplazo de correas, poleas o rodamientos desgastados siguiendo protocolos de seguridad y técnicas avanzadas de montaje."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Se utilizan registros detallados de cada acción, incluyendo horas de operación, torque aplicado, lectura de tensiones y balanceo, asegurando trazabilidad y optimización del sistema a largo plazo."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Optimización de eficiencia y confiabilidad"
+        },
+        {
+            "type": "paragraph",
+            "text": "El mantenimiento profesional no solo previene fallas, sino que optimiza eficiencia: Corrección de desalineaciones reduce consumo eléctrico y desgaste mecánico. Lubricación adecuada minimiza fricción y vibración. Balance dinámico de ventiladores garantiza flujo de aire uniforme y silencioso. Reemplazo programado de correas y rodamientos previene paradas inesperadas y prolonga vida útil de la RTU."
+        },
+        {
+            "type": "paragraph",
+            "text": "El enfoque de nivel máster combina ingeniería mecánica, análisis predictivo, monitoreo de condiciones y prácticas de mantenimiento industrial para asegurar operación confiable, silenciosa y eficiente."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "🛑 FOTO REQUERIDA (BUSCAR O GENERAR): Esquema profesional mostrando ventilador de RTU con correas, poleas y rodamientos, indicando tensiones, puntos de lubricación, alineación y ruta de transmisión de potencia."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Conclusión técnica de la lección"
+        },
+        {
+            "type": "paragraph",
+            "text": "El mantenimiento de correas, poleas y rodamientos en sistemas comerciales es una actividad crítica que requiere conocimiento avanzado, precisión y metodología profesional. El técnico de nivel máster inspecciona, ajusta, lubrica y reemplaza componentes, implementa planes preventivos y predictivos, verifica balanceo y alineación, y optimiza eficiencia operativa. Cada acción está diseñada para maximizar confiabilidad, durabilidad, eficiencia energética y confort, asegurando que la RTU opere de manera óptima durante toda su vida útil, sin interrupciones ni pérdidas de rendimiento."
+        }
+    ]
+}
