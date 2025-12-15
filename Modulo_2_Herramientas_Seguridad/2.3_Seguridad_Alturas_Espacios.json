@@ -1,0 +1,86 @@
+{
+    "blocks": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Lección 2.3: Seguridad en Alturas y Espacios Confinados (La Diferencia entre la Vida y la Muerte)"
+        },
+        {
+            "type": "paragraph",
+            "text": "El técnico HVAC trabaja donde nadie más quiere entrar: techos, entretechos (attics) hirviendo, sótanos inundados y escaleras inestables. Las caídas son la causa #1 de muerte en la construcción. En esta lección, aprenderemos a volver a casa vivos."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "1. Escaleras: Tu Herramienta Más Peligrosa"
+        },
+        {
+            "type": "paragraph",
+            "text": "No es solo 'subir y bajar'. Hay física involucrada."
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Regla 4:1 (Escaleras de Extensión): Por cada 4 metros de altura, la base de la escalera debe alejarse 1 metro de la pared. Si está muy vertical, te vas de espaldas. Si está muy acostada, la base resbala.",
+                "Tres Puntos de Contacto: SIEMPRE mantén dos manos y un pie, o dos pies y una mano en la escalera. Nunca subas herramientas en la mano; usa una cuerda para izarlas.",
+                "Extensión Superior: La escalera debe sobresalir al menos 1 metro (3 pies) por encima del techo que vas a pisar, para tener de dónde agarrarte al transbordar."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "2. Protección Contra Caídas (Arneses y Puntos de Anclaje)"
+        },
+        {
+            "type": "paragraph",
+            "text": "A partir de 1.8 metros (6 pies) de altura, la normativa OSHA exige protección contra caídas."
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Arnés de Cuerpo Completo: El cinturón de seguridad está prohibido (te parte la columna al frenar). El arnés distribuye el impacto en muslos y hombros.",
+                "Línea de Vida con Amortiguador: NUNCA uses una cuerda estática. Necesitas el paquete amortiguador (shock absorber) que se desgarra controladamente para frenar la caída suavemente.",
+                "El Anclaje: De nada sirve el arnés si te amarras a un tubo de PVC o un conducto de ventilación. El punto de anclaje debe soportar 2200 kg (5000 libras) por persona."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "🛑 FOTO REQUERIDA (BUSCAR O GENERAR): Técnico HVAC equipado con Arnés de Seguridad de cuerpo completo, enganchado a una línea de vida retráctil en un techo comercial. Mostrando posición correcta de 3 puntos en escalera."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "3. Espacios Confinados (Crawlspaces y Attics)"
+        },
+        {
+            "type": "paragraph",
+            "text": "Un espacio confinado es aquel que: 1) Es lo suficientemente grande para entrar. 2) Tiene entrada/salida limitada. 3) NO está diseñado para ocupación humana continua."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Peligros Invisibles"
+        },
+        {
+            "type": "list",
+            "style": "ordered",
+            "items": [
+                "Golpe de Calor (Heat Stroke): En un entretecho a 60°C, tu cuerpo deja de sudar en 20 minutos. Si dejas de sudar y tienes la piel seca/roja, es una emergencia médica mortal.",
+                "Asfixia (Deficiencia de Oxígeno): El Nitrógeno o el Refrigerante son más pesados que el aire. Si hubo una fuga en un sótano, el gas desplazó al oxígeno. Puedes morir en 2 respiraciones sin darte cuenta.",
+                "Electricidad y Agua: En crawlsapces húmedos, una extensión eléctrica pelada convierte todo el charco en una trampa mortal."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "4. Protocolo de Trabajo Solitario"
+        },
+        {
+            "type": "paragraph",
+            "text": "Si entras a un ático solo, avisa a alguien. 'Entro al ático, si en 30 min no bajo, búscame'. Lleva siempre tu celular cargado y una linterna potente extra."
+        }
+    ]
+}
