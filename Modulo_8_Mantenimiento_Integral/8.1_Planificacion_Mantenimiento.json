@@ -1,0 +1,117 @@
+{
+    "blocks": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Lección 8.1: Planificación de Mantenimiento Preventivo"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Introducción: la clave de la confiabilidad y eficiencia"
+        },
+        {
+            "type": "paragraph",
+            "text": "En sistemas HVAC profesionales, desde unidades VRF/VRV hasta chillers y torres de enfriamiento, el mantenimiento no puede ser reactivo. Un enfoque profesional-máster requiere integrar mantenimiento preventivo y predictivo, asegurando operación continua, eficiencia energética y durabilidad máxima de todos los componentes."
+        },
+        {
+            "type": "paragraph",
+            "text": "El mantenimiento preventivo se basa en procedimientos programados para inspección, limpieza, ajuste y reemplazo de componentes antes de que se presenten fallas, mientras que el predictivo utiliza instrumentación avanzada, análisis de tendencias y monitoreo en tiempo real para anticipar problemas y planificar intervenciones estratégicas. Ambos enfoques combinados permiten optimizar costos operativos y reducir riesgos de paradas inesperadas."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Estructura de los protocolos de mantenimiento"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Planificación y programación"
+        },
+        {
+            "type": "paragraph",
+            "text": "El técnico máster desarrolla un calendario basado en horas de operación, ciclos de carga, características de los equipos y recomendaciones de fabricantes. Los sistemas críticos, como compresores VRF/VRV, chillers y torres de enfriamiento, requieren inspecciones mensuales, trimestrales y anuales con procedimientos detallados documentados."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Procedimientos estandarizados"
+        },
+        {
+            "type": "paragraph",
+            "text": "Cada tipo de equipo tiene protocolos específicos que incluyen: Inspección visual y auditiva de unidades interiores y exteriores, Medición de parámetros eléctricos (voltaje, corriente y potencia), Verificación de presión y temperatura de refrigerante, Ajuste de tensión de correas y alineación de poleas, Lubricación de motores y rodamientos, y Limpieza de serpentines y filtros."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Instrumentación avanzada"
+        },
+        {
+            "type": "paragraph",
+            "text": "Se utilizan herramientas como: Multímetros y pinzas amperimétricas, Manómetros y vacuómetros digitales, Anemómetros y balómetros, Termómetros infrarrojos y cámaras termográficas, y Sensores de vibración y ultrasonido."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Mantenimiento preventivo: procedimientos detallados"
+        },
+        {
+            "type": "paragraph",
+            "text": "El enfoque preventivo se centra en mantener los equipos operando dentro de parámetros óptimos mediante inspección, limpieza y ajuste regular:"
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Inspección diaria/semanal: filtros, niveles de aceite, funcionamiento de ventiladores y alarmas de control.",
+                "Mantenimiento mensual: limpieza de serpentines, verificación de válvulas, ajuste de correas y alineación de poleas, lubricación de motores.",
+                "Mantenimiento trimestral/semestral: inspección de tuberías y refnets, revisión de compresores, medición de flujo de aire y temperatura de agua.",
+                "Mantenimiento anual: calibración de controles electrónicos, limpieza profunda de torres de enfriamiento, análisis de eficiencia energética y reemplazo programado de componentes críticos."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Cada acción se documenta con lecturas de instrumentos, ajustes realizados, hallazgos y recomendaciones, asegurando trazabilidad y soporte para decisiones de mantenimiento futuro."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Mantenimiento predictivo: análisis avanzado y monitoreo"
+        },
+        {
+            "type": "paragraph",
+            "text": "El mantenimiento predictivo complementa al preventivo mediante instrumentación y análisis de datos, permitiendo detectar fallas incipientes antes de que afecten la operación: Análisis de vibraciones (detecta desbalanceo y desgaste), Monitoreo de corriente y potencia eléctrica (identifica sobrecarga), Medición de temperatura y presión (anticipa fallas de válvulas o fugas), y Registro histórico de operación (tendencias)."
+        },
+        {
+            "type": "paragraph",
+            "text": "El técnico máster integra estos datos con software de gestión de mantenimiento (CMMS) o sistemas BAS para generar alertas tempranas, optimizar programación de revisiones y maximizar eficiencia."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Integración de protocolos en el plan maestro de mantenimiento"
+        },
+        {
+            "type": "paragraph",
+            "text": "Un protocolo integral combina prevención, predicción y optimización: Checklist estructurado por equipo, Programación de intervenciones basada en horas de operación, Evaluación de riesgos, Documentación y trazabilidad, y Optimización continua de setpoints y controladores."
+        },
+        {
+            "type": "paragraph",
+            "text": "Este enfoque permite reducir consumos energéticos, prolongar vida útil de equipos y mantener estándares de confort y seguridad en todas las zonas climatizadas."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "🛑 FOTO REQUERIDA (BUSCAR O GENERAR): Diagrama de flujo de mantenimiento integral: ciclos preventivos, predictivos y correctivos, señalando inspección de filtros, serpentines, compresores, bombas, torres y puntos de control crítico."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Conclusión técnica de la lección"
+        },
+        {
+            "type": "paragraph",
+            "text": "Los protocolos de mantenimiento preventivo y predictivo son el corazón de la confiabilidad y eficiencia en sistemas HVAC avanzados. Un técnico de nivel máster debe dominar procedimientos detallados, herramientas de medición, análisis de tendencias y estrategias de optimización. La planificación, ejecución y documentación rigurosa de cada intervención garantiza operación confiable, prevención de fallas críticas, eficiencia energética máxima y prolonga la vida útil de unidades VRF/VRV, chillers, torres y aire central."
+        }
+    ]
+}
