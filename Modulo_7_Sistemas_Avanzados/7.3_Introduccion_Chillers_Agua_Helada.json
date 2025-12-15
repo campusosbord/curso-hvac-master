@@ -1,0 +1,107 @@
+{
+    "blocks": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Lección 7.3: Introducción a Chillers y Agua Helada"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Introducción: la base de la climatización por agua helada"
+        },
+        {
+            "type": "paragraph",
+            "text": "Los sistemas de enfriamiento por agua helada, compuestos por chillers y torres de enfriamiento, representan la opción estándar en climatización de edificios comerciales medianos y grandes, centros de datos, hospitales, hoteles y plantas industriales. A diferencia de los sistemas VRF que utilizan refrigerante directamente, estos sistemas emplean agua como fluido transportador de frío, lo que permite mayor capacidad, distribución eficiente y flexibilidad en la instalación de unidades interiores."
+        },
+        {
+            "type": "paragraph",
+            "text": "A nivel profesional-máster, la comprensión de estos sistemas no se limita a conocer su ciclo básico de refrigeración, sino que implica análisis termodinámico, hidráulico y eléctrico, coordinación entre bombas, válvulas, torres, intercambiadores y controles electrónicos, para garantizar eficiencia, confiabilidad y mantenimiento predictivo."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Chillers: tipos y fundamentos"
+        },
+        {
+            "type": "paragraph",
+            "text": "Un chiller es una máquina que extrae calor de un circuito de agua y lo transfiere a un medio refrigerante, generando agua helada a temperatura controlada (generalmente 5-7 °C para HVAC). Existen varios tipos:"
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Chillers por compresor centrífugo: usados en grandes instalaciones, eficientes a altas capacidades, con control de velocidad de compresor, válvulas de expansión y recuperadores de aceite.",
+                "Chillers por compresor de tornillo: adecuado para capacidades medias a altas, operación confiable y mantenimiento relativamente simple.",
+                "Chillers por compresor scroll o pistón: utilizados en capacidades pequeñas a medianas, con facilidad de instalación y menor complejidad de control."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Cada tipo de chiller requiere análisis profesional para seleccionar capacidad, tipo de refrigerante, eficiencia energética, nivel de ruido y compatibilidad con el sistema de agua helada y torres de enfriamiento."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Ciclo básico de refrigeración"
+        },
+        {
+            "type": "paragraph",
+            "text": "El ciclo de refrigeración de un chiller incluye: Evaporador (intercambio calor agua-refrigerante), Compresor (aumento de presión y T), Condensador (transferencia de calor a torre o aire) y Válvula de expansión (cierre del ciclo)."
+        },
+        {
+            "type": "paragraph",
+            "text": "El técnico máster analiza cada componente para optimizar eficiencia, asegurando que evaporadores, condensadores y bombas trabajen dentro de sus rangos de diseño, evitando ciclos cortos, subenfriamiento insuficiente o sobrecarga de compresor."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Bombas y distribución hidráulica"
+        },
+        {
+            "type": "paragraph",
+            "text": "Los chillers requieren bombas de agua helada (CHW) para asegurar caudal a unidades interiores y bombas de torre (CW) para transportar agua caliente al condensador. El técnico profesional calcula presión, caudal y velocidad, seleccionando bombas con curvas hidráulicas adecuadas e integrando variadores de frecuencia (VFD) para optimizar consumo."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Torres de enfriamiento: función y tipos"
+        },
+        {
+            "type": "paragraph",
+            "text": "Las torres de enfriamiento permiten transferir el calor del condensador al aire ambiente mediante evaporación parcial del agua. Existen torres de tiro natural, tiro mecánico y de flujo cruzado/contracorriente. La ubicación, dimensionamiento, altura de caída de agua, distribución de flujo y tratamiento químico son críticos para evitar incrustaciones y corrosión."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Balance de agua y control avanzado"
+        },
+        {
+            "type": "paragraph",
+            "text": "El diseño profesional considera pérdidas de carga, temperatura diferencial (Delta T), válvulas de control modulantes e instrumentación (sensores de temperatura, presión, caudal y nivel). El técnico de nivel máster ajusta setpoints, analiza curvas de rendimiento y verifica balance hidráulico completo antes de puesta en marcha."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Mantenimiento básico y prevención de problemas"
+        },
+        {
+            "type": "paragraph",
+            "text": "Aunque esta lección introduce conceptos básicos de mantenimiento, el enfoque profesional requiere inspección de bombas, rodamientos y sellos, limpieza de torres, chequeo de nivel de agua y tratamiento químico, y verificación de controladores y sensores. Un mantenimiento preventivo y predictivo bien planificado maximiza eficiencia, prolonga vida útil de chillers y torres, y reduce consumo energético."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "🛑 FOTO REQUERIDA (BUSCAR O GENERAR): Diagrama profesional mostrando un chiller con compresor, evaporador, condensador, bombas de agua helada y de torre, y torre de enfriamiento con flujo de aire y agua."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Conclusión técnica de la lección"
+        },
+        {
+            "type": "paragraph",
+            "text": "Los chillers y torres de enfriamiento representan la columna vertebral de sistemas de climatización por agua helada. La comprensión de sus ciclos de refrigeración, componentes principales, bombas, balance hidráulico, torres y control avanzado es esencial para el técnico de nivel máster. Una instalación profesional, puesta en marcha precisa y mantenimiento preventivo garantizan eficiencia energética, confiabilidad y durabilidad del sistema, optimizando confort en cada espacio climatizado."
+        }
+    ]
+}
