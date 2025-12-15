@@ -1,0 +1,130 @@
+{
+    "blocks": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Lección 2.3: Recuperación, Reciclaje y Manejo de Refrigerantes (Normativa Ambiental)"
+        },
+        {
+            "type": "paragraph",
+            "text": "Soltar refrigerante a la atmósfera no es solo un crimen ecológico; es ilegal y técnicamente irresponsable. Un técnico Master no ventila; recupera hasta el último gramo. En esta lección, dominaremos la física detrás de mover gas de un sistema a un tanque externo sin dañar el compresor de la recuperadora."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "1. Definiciones Críticas (EPA 608)"
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Recuperar (Recover): Remover el refrigerante en cualquier condición y almacenarlo en un tanque externo. No implica limpieza.",
+                "Reciclar (Recycle): Limpiar el refrigerante mediante separación de aceite y pasos por filtros deshidratadores para volver a usarlo EN EL MISMO EQUIPO o en otro del mismo dueño.",
+                "Regenerar (Reclaim): Reprocesar el gas hasta los estándares de pureza virgen (ARI-700). Esto SOLO se puede hacer en una planta química especializada. Usted no puede regenerar en campo."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "2. El Tanque de Recuperación (Cilindro Gris/Amarillo)"
+        },
+        {
+            "type": "paragraph",
+            "text": "Nunca use un tanque desechable para recuperar. Explotará. Los tanques de recuperación tienen paredes gruesas de acero y dos válvulas: Azul (Vapor) y Roja (Líquido)."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Regla del 80% (Capacidad Máxima)"
+        },
+        {
+            "type": "paragraph",
+            "text": "El líquido se expande con el calor. Si llenas un tanque al 100% de líquido a 20°C y lo dejas en la camioneta a 40°C, la expansión hidrostática reventará el acero como si fuera papel. SIEMPRE usa una balanza y detente al 80% de la capacidad nominal del tanque (WC - Water Capacity)."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "3. Métodos de Recuperación: Física Aplicada"
+        },
+        {
+            "type": "paragraph",
+            "text": "La velocidad es dinero. Recuperar 5 kg de gas puede tomar 20 minutos o 2 horas dependiendo de su técnica."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Método A: Recuperación en Fase Vapor (Lento pero Seguro)"
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Proceso: La máquina succiona solo gas del sistema. Si hay líquido, este debe hervir dentro del sistema antes de entrar a la recuperadora.",
+                "Ventaja: Protege al compresor de la recuperadora contra golpes de líquido.",
+                "Desventaja: Extremadamente lento. Al bajar la presión, el líquido remanente se enfría y deja de hervir (el tanque del equipo se congela)."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Método B: Recuperación en Fase Líquida (Rápido)"
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Proceso: Se succiona líquido directo desde la línea de líquido o el recibidor.",
+                "Precaución: Muchas recuperadoras modernas (sin aceite) toleran líquido, pero deben tener un modo de 'estrangulamiento' (Throttling) para no romper el pistón."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Método C: Push-Pull (Empujar y Halare)"
+        },
+        {
+            "type": "paragraph",
+            "text": "La técnica maestra para sistemas grandes (>5kg). Funciona como un sifón."
+        },
+        {
+            "type": "list",
+            "style": "ordered",
+            "items": [
+                "Conexión: La recuperadora 'chupa' vapor del Tanque de Recuperación y lo 'empuja' (compuime) hacia el tope del Condensador del equipo.",
+                "Efecto: Esa presión de gas empuja al líquido por la línea de líquido directo hacia el Tanque de Recuperación.",
+                "Resultado: Mueves kilos de líquido por minuto sin que el líquido pase jamás por la máquina recuperadora."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "🛑 FOTO REQUERIDA (BUSCAR O GENERAR): Primer plano de una Máquina Recuperadora de Refrigerante de doble pistón conectada a un Tanque de Recuperación (cilindro gris con hombros amarillos) sobre una balanza digital. Mangueras rojas y azules conectadas. Fondo industrial."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "4. La Importancia del Vacío en el Cilindro"
+        },
+        {
+            "type": "paragraph",
+            "text": "Antes de meter gas usado en un tanque de recuperación, DEBE hacerle vacío al tanque. ¿Por qué?"
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Mezcla de No Condensables: Si el tanque tiene aire, la presión subirá peligrosamente.",
+                "Contaminación Cruzada: Si el tanque tenía restos de R22 y le metes R410A, esa mezcla es basura química. Nadie te la recibirá para regenerar y tendrás que pagar caro para incinerarla."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "5. Filtros Deshidratadores: Tu Seguro de Vida"
+        },
+        {
+            "type": "paragraph",
+            "text": "SIEMPRE, sin excepción, coloca un filtro deshidratador nuevo a la entrada de tu recuperadora. El gas viejo viene sucio, con ácido, virutas y lodo. Si eso entra a tu máquina de $1000 USD, la destruirá en semanas. El filtro cuesta $5 USD. Haz la matemática."
+        }
+    ]
+}
