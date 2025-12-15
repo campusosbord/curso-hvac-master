@@ -1,0 +1,152 @@
+{
+    "blocks": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Lección 8.2: Limpieza profunda (Evaporadores y Condensadores)"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Introducción: la importancia de la limpieza química avanzada"
+        },
+        {
+            "type": "paragraph",
+            "text": "Los serpentines de los sistemas HVAC, ya sean de unidades interiores, exteriores, chillers o torres de enfriamiento, son componentes críticos para la transferencia térmica. Con el tiempo, la acumulación de polvo, grasas, minerales, contaminantes biológicos y residuos de agua reduce significativamente la eficiencia del equipo, provoca aumento del consumo eléctrico, sobrecarga de compresores, pérdida de caudal de aire y genera ruido adicional."
+        },
+        {
+            "type": "paragraph",
+            "text": "En mantenimiento profesional de nivel máster, la limpieza química no es un simple lavado superficial. Se requiere diagnóstico del tipo de suciedad, selección precisa del agente químico, preparación de la superficie, aplicación controlada, neutralización y enjuague para restaurar la eficiencia del serpentín sin dañar aletas, soldaduras, revestimientos o tuberías internas."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tipos de contaminantes y diagnóstico previo"
+        },
+        {
+            "type": "paragraph",
+            "text": "Antes de iniciar la limpieza, el técnico profesional realiza un diagnóstico detallado:"
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Polvo y partículas finas: principalmente en serpentines interiores y conductos.",
+                "Depósitos minerales o sarro: comunes en serpentines de torres de enfriamiento y condensadores de agua.",
+                "Grasas y contaminantes orgánicos: presentes en unidades interiores de cocinas o entornos industriales.",
+                "Crecimiento biológico: mohos, algas o bacterias que afectan higiene y eficiencia térmica."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "El diagnóstico se realiza mediante inspección visual, medición de caída de presión, análisis químico rápido y, en algunos casos, imágenes térmicas que muestran zonas con pérdida de eficiencia."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Principios de selección química: ácidos vs alcalinos"
+        },
+        {
+            "type": "paragraph",
+            "text": "La selección del agente químico depende del tipo de contaminante y del material del serpentín:"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Agentes ácidos"
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Indicados para remover depósitos minerales, cal y sarro.",
+                "Compuestos típicos: ácido cítrico, fosfórico o fórmico en concentraciones controladas.",
+                "Riesgo: corrosión de cobre, aluminio o soldaduras si no se aplican correctamente.",
+                "Uso profesional: dilución según fabricante, monitoreo de pH, neutralización posterior con agente alcalino suave."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Agentes alcalinos"
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Indicados para grasas, aceites, contaminantes orgánicos y suciedad general.",
+                "Compuestos típicos: hidróxido de sodio, carbonatos y detergentes especializados.",
+                "Riesgo: daño a recubrimientos superficiales y evaporadores si se excede concentración.",
+                "Uso profesional: control de temperatura, tiempo de contacto y enjuague completo."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Procedimientos de limpieza química avanzada"
+        },
+        {
+            "type": "paragraph",
+            "text": "Preparación del área y seguridad: Protección de personal, protección del entorno (cubiertas), desconexión de unidades y aislamiento eléctrico."
+        },
+        {
+            "type": "paragraph",
+            "text": "Aplicación controlada del agente químico: Pulverización uniforme, monitoreo constante de temperatura y concentración, uso de medidores de pH."
+        },
+        {
+            "type": "paragraph",
+            "text": "Neutralización y enjuague: Neutralización del ácido con alcalino o agua tratada, enjuague completo con agua desmineralizada, control de caída de presión y flujo para verificar recuperación de eficiencia."
+        },
+        {
+            "type": "paragraph",
+            "text": "Verificación post-limpieza: Inspección visual, pruebas de presión y flujo, medición de eficiencia térmica (Delta T)."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Técnicas avanzadas de aplicación profesional"
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Recirculación cerrada: para limpiar condensadores de agua sin desperdiciar químicos.",
+                "Rociado de baja presión y ángulo controlado: evita daño a aletas.",
+                "Uso de cepillos químicos suaves: acción mecánica sin dañar superficie.",
+                "Sistemas de filtrado previo: eliminan sólidos mayores."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Seguridad y manejo de químicos"
+        },
+        {
+            "type": "paragraph",
+            "text": "El mantenimiento avanzado exige: Uso de EPP completo, monitoreo de ventilación y vapores, control de derrames y almacenamiento seguro. Un técnico profesional asegura que la limpieza química no represente riesgo para la instalación ni para el personal."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Optimización de eficiencia post-limpieza"
+        },
+        {
+            "type": "paragraph",
+            "text": "Tras la limpieza, se realizan ajustes para maximizar eficiencia: Recuperación de flujo según diseño, verificación de temperatura, pruebas de presión y documentación de resultados (mediciones, productos, pH, etc.) para mantenimiento predictivo."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "🛑 FOTO REQUERIDA (BUSCAR O GENERAR): Diagrama profesional mostrando un serpentín con agente químico aplicado, flujo de enjuague, puntos de inspección, neutralización y técnicas de pulverización segura."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Conclusión técnica de la lección"
+        },
+        {
+            "type": "paragraph",
+            "text": "La limpieza química de serpentines, realizada correctamente con ácidos o alcalinos según tipo de suciedad y material, es un procedimiento crítico en mantenimiento profesional-máster de HVAC. Requiere diagnóstico previo, selección química precisa, aplicación controlada, neutralización, enjuague y verificación de eficiencia. El enfoque integral asegura transferencia térmica óptima, protección del equipo, eficiencia energética máxima y prevención de fallas, formando parte esencial de cualquier plan de mantenimiento preventivo y predictivo de alto nivel."
+        }
+    ]
+}
