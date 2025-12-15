@@ -1,0 +1,101 @@
+{
+    "blocks": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Lección 5.6: Termostatos inteligentes y control"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Introducción: la importancia del control avanzado"
+        },
+        {
+            "type": "paragraph",
+            "text": "En sistemas de aire central, los termostatos inteligentes y el cableado de control central no son meros accesorios: representan el cerebro que regula la operación del sistema, optimizando confort, eficiencia energética y la vida útil de los equipos. A nivel profesional-máster, un sistema de control mal instalado o desbalanceado puede generar zonas de sobrecalentamiento o enfriamiento, ciclos de arranque y parada excesivos, ruido, desgaste prematuro de compresores y ventiladores, e incluso fallas de seguridad."
+        },
+        {
+            "type": "paragraph",
+            "text": "El técnico experto entiende que el termostato inteligente no solo mide temperatura, sino que coordina sensores, dampers, ventiladores y unidades de refrigeración para mantener condiciones óptimas en cada zona del edificio. La integración correcta del cableado y la programación avanzada del sistema garantizan que el flujo de aire, la presión estática y la temperatura se mantengan dentro de parámetros ideales, maximizando eficiencia y confort."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Selección de termostatos y controladores"
+        },
+        {
+            "type": "paragraph",
+            "text": "La selección de termostatos y controladores se realiza considerando múltiples criterios: compatibilidad con el sistema de aire central, tipo de señal de control (on/off, modulación 0-10V, PWM o comunicación digital como BACnet o Modbus), capacidad de zonificación, funciones avanzadas como programación horaria, sensores de ocupación y humedad, y conectividad con aplicaciones móviles o sistemas de gestión centralizada."
+        },
+        {
+            "type": "paragraph",
+            "text": "A nivel experto, el técnico analiza cada parámetro, asegurando que los termostatos puedan soportar la carga del sistema de control, trabajar de manera precisa en ambientes con fluctuaciones de temperatura y humedad, y comunicarse de manera fiable con la AHU, dampers y equipos paquete."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Diseño del cableado de control central"
+        },
+        {
+            "type": "paragraph",
+            "text": "El cableado de bajo voltaje es un componente crítico que conecta termostatos, sensores, dampers motorizados, relés y unidades principales. El técnico de nivel máster planifica rutas de cableado que minimicen interferencias electromagnéticas, mantengan claridad en la identificación de conductores y permitan acceso para mantenimiento y ampliaciones futuras."
+        },
+        {
+            "type": "paragraph",
+            "text": "Cada línea se dimensiona según amperaje, distancia y caída de tensión, aplicando códigos de color y etiquetado estandarizado. Se utilizan conductores blindados o apantallados en zonas con alta interferencia, y se instalan canalizaciones, bandejas o conduits que protejan el cableado de humedad, calor o daño mecánico. La correcta separación entre cables de potencia y cables de señal garantiza integridad de datos y evita malfuncionamientos."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Integración con sistemas de zonificación"
+        },
+        {
+            "type": "paragraph",
+            "text": "En instalaciones con dampers y plenums, los termostatos inteligentes se integran para controlar el caudal de aire hacia cada zona, ajustando apertura de dampers y velocidad de ventilador según demanda real. El técnico profesional configura cada zona considerando carga térmica, ocupación, exposición solar y requisitos de confort, ajustando parámetros como setpoint, diferencial, tiempo de ciclo y prioridad de zonas."
+        },
+        {
+            "type": "paragraph",
+            "text": "La programación avanzada permite que el sistema optimice energía: zonas desocupadas reducen flujo de aire, ventiladores ajustan presión y velocidad, y compresores trabajan de manera modulada para evitar ciclos cortos. Esto requiere cálculo preciso de presión estática, caudales de aire y respuesta de los actuadores, asegurando estabilidad y eficiencia en todas las condiciones."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Protocolos de comunicación y control centralizado"
+        },
+        {
+            "type": "paragraph",
+            "text": "Los sistemas modernos permiten comunicación digital entre termostatos, AHU, condensadoras, dampers y controladores de zona. Protocolos como BACnet, Modbus, LonWorks o Wi-Fi permiten supervisión remota, recolección de datos y ajustes dinámicos del sistema. El técnico de nivel máster planifica la integración asegurando compatibilidad de voltajes, señalización, topología de red y redundancia para mantener operación segura y continua."
+        },
+        {
+            "type": "paragraph",
+            "text": "Se configuran alarmas, notificaciones y registros de operación para detectar desviaciones de presión, temperatura o flujo de aire, permitiendo intervención temprana y mantenimiento predictivo. Cada sensor y controlador se calibra y prueba antes de la puesta en marcha, asegurando que el sistema funcione dentro de los parámetros de diseño."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Verificación, puesta en marcha y ajuste fino"
+        },
+        {
+            "type": "paragraph",
+            "text": "La puesta en marcha profesional incluye prueba de cada termostato, sensor, damper y actuador, verificando respuesta a cambios de temperatura, apertura/cierre de compuertas y modulación de ventiladores. Se realizan ajustes finos de setpoints, diferenciales, tiempos de ciclo y curvas de respuesta para garantizar estabilidad térmica y eficiencia energética."
+        },
+        {
+            "type": "paragraph",
+            "text": "El técnico experto también verifica comunicación entre dispositivos, integridad del cableado, funcionamiento de alarmas y protocolos de control central, asegurando que el sistema pueda operar de manera confiable bajo cualquier escenario de carga térmica y ocupación del edificio."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "🛑 FOTO REQUERIDA (BUSCAR O GENERAR): Esquema profesional mostrando termostatos inteligentes conectados a AHU, dampers motorizados y unidades de refrigeración, indicando rutas de cableado, comunicación digital y flujo de control por zonas."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Conclusión técnica de la lección"
+        },
+        {
+            "type": "paragraph",
+            "text": "Los termostatos inteligentes y el cableado de control central son el corazón de la operación de sistemas de aire central. Su correcta selección, instalación, integración con dampers y plenums, y programación avanzada garantizan eficiencia energética, confort térmico, confiabilidad y durabilidad del sistema. El técnico de nivel máster diseña, ejecuta y verifica cada detalle, desde rutas de cableado hasta parámetros de control, asegurando que el sistema funcione de manera óptima bajo todas las condiciones de operación y mantenga su rendimiento durante toda la vida útil del equipo."
+        }
+    ]
+}
