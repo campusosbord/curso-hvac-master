@@ -1,0 +1,127 @@
+{
+    "blocks": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Lección 4.4: Bombas de condensado"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Introducción: la importancia estratégica del manejo del condensado"
+        },
+        {
+            "type": "paragraph",
+            "text": "En sistemas de aire acondicionado split, el condensado no es un subproducto insignificante, sino una variable crítica que puede afectar la seguridad del edificio, la eficiencia del equipo y la integridad de la instalación. El técnico de nivel máster entiende que la correcta gestión del agua de condensación no solo previene derrames, daños estructurales y proliferación de microorganismos, sino que también asegura el correcto funcionamiento del sistema de drenaje y, en consecuencia, la confiabilidad del compresor y los intercambiadores de calor."
+        },
+        {
+            "type": "paragraph",
+            "text": "La bomba de condensado, en este contexto, no es un accesorio opcional sino un componente fundamental de la instalación profesional. Su selección, ubicación y mantenimiento deben abordarse con criterios de ingeniería avanzada, considerando la altura de elevación, la distancia del recorrido de la línea de drenaje, el caudal de condensación máximo, la frecuencia de arranque y la integración con sistemas de seguridad."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Principios de funcionamiento de la bomba de condensado"
+        },
+        {
+            "type": "paragraph",
+            "text": "La bomba de condensado actúa como un elemento activo que impulsa el agua de condensación desde la bandeja del evaporador hacia un punto de evacuación o desagüe. A nivel profesional, el técnico entiende que la bomba no solo transporta agua; regula caudal, presión y frecuencia de operación según la capacidad del sistema y las condiciones ambientales."
+        },
+        {
+            "type": "paragraph",
+            "text": "El diseño de la bomba considera factores dinámicos como la viscosidad del condensado, la presencia de partículas en suspensión y la presión contrapuesta en la línea de evacuación. Cada uno de estos factores afecta directamente la selección de bomba, la altura máxima de elevación, el diámetro de tuberías y la longitud del recorrido. Ignorar cualquiera de estas variables puede provocar fallas prematuras o reboses, incluso en equipos aparentemente correctamente instalados."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Criterios de selección profesional"
+        },
+        {
+            "type": "paragraph",
+            "text": "El técnico de nivel máster selecciona la bomba de condensado considerando parámetros precisos: el caudal máximo generado por la unidad, la altura total de elevación, la longitud y pendiente del recorrido, la temperatura del agua y las características de la línea de descarga. La bomba debe ser capaz de superar la presión estática del sistema sin generar cavitación ni sobrecalentamiento del motor."
+        },
+        {
+            "type": "paragraph",
+            "text": "Además, la selección incluye aspectos relacionados con la durabilidad y el mantenimiento: bombas con flotador interno versus externo, sistemas con interruptor de nivel regulable, protección contra funcionamiento en seco y materiales resistentes a la corrosión. Cada decisión tiene un impacto directo en la confiabilidad a largo plazo y en la reducción de intervenciones de mantenimiento correctivo."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Ubicación estratégica y montaje"
+        },
+        {
+            "type": "paragraph",
+            "text": "La ubicación de la bomba de condensado es tan importante como su selección. Debe colocarse en la bandeja del evaporador o en una posición que permita la evacuación completa del agua sin retenciones, evitando áreas donde pueda acumularse polvo, suciedad o residuos que comprometan el flotador o el motor. En instalaciones complejas, el técnico profesional evalúa la facilidad de acceso para mantenimiento, la protección eléctrica y la integración con soportes mecánicos que absorban vibraciones y ruidos."
+        },
+        {
+            "type": "paragraph",
+            "text": "El montaje considera también la correcta orientación de la línea de descarga y la instalación de válvulas de retención si el sistema lo requiere. La falta de retención puede provocar reflujo, reboses y daños en la bandeja del evaporador, afectando directamente la eficiencia y seguridad del sistema."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Integración con la instalación completa"
+        },
+        {
+            "type": "paragraph",
+            "text": "En sistemas split con recorridos largos o múltiples unidades interiores, el diseño de la bomba de condensado debe coordinarse con las tuberías de refrigerante, las pendientes de drenaje y las trampas de aceite. La sobreposición de funciones sin coordinación puede generar interferencias: rebose por falta de pendiente, retorno de aceite hacia la bandeja, ruidos en línea o mal drenaje en unidades interiores remotas."
+        },
+        {
+            "type": "paragraph",
+            "text": "El técnico de nivel máster analiza la instalación como un sistema integrado donde cada componente interactúa con los demás. La bomba de condensado se diseña y se ajusta considerando el flujo total de agua, los picos de condensación en condiciones de máxima carga y la estabilidad del sistema durante arranques y paradas frecuentes."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Altura y longitud de descarga"
+        },
+        {
+            "type": "paragraph",
+            "text": "En instalaciones con grandes elevaciones, la bomba de condensado debe superar la altura vertical de descarga más la fricción de la tubería. El técnico avanzado calcula la altura total efectiva, sumando la distancia vertical y las pérdidas por longitud horizontal, codos, uniones y válvulas. Esta consideración permite evitar bombas subdimensionadas que fallen durante periodos críticos, especialmente en climas húmedos donde la condensación es continua."
+        },
+        {
+            "type": "paragraph",
+            "text": "La correcta selección del diámetro de tubería, combinada con una pendiente adecuada y el uso de válvulas de retención, garantiza un flujo constante y previene reboses o atascos. La planificación de estos parámetros es indispensable en instalaciones de gran altura, recorridos largos o edificios con múltiples pisos."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Protección contra fallas y mantenimiento preventivo"
+        },
+        {
+            "type": "paragraph",
+            "text": "A nivel profesional, la instalación de bombas de condensado incluye medidas de protección y protocolos de mantenimiento preventivo. Interruptores de flotador regulables, protección térmica del motor y sistemas de alarma conectados a la unidad principal son fundamentales para prevenir daños y reboses. El técnico máster diseña la instalación considerando redundancia mínima, de modo que una falla puntual no genere consecuencias críticas."
+        },
+        {
+            "type": "paragraph",
+            "text": "El mantenimiento incluye limpieza de filtros, verificación del flotador y revisión periódica de la línea de descarga. Una instalación que no considera estos elementos puede funcionar correctamente los primeros meses, pero presentar fallas intermitentes que afectan la confiabilidad general del sistema."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Impacto en eficiencia y confiabilidad del sistema"
+        },
+        {
+            "type": "paragraph",
+            "text": "Una bomba de condensado bien seleccionada e instalada no solo asegura el drenaje, sino que contribuye directamente a la eficiencia del equipo. La correcta evacuación del condensado evita acumulación de humedad que afecte intercambiadores de calor, reduce riesgos de crecimiento microbiano y mantiene condiciones óptimas de transferencia térmica. Esto se traduce en ciclos de funcionamiento más estables, menor consumo energético y mayor vida útil del compresor y demás componentes."
+        },
+        {
+            "type": "paragraph",
+            "text": "El técnico de nivel máster entiende que cada rebose, cada atasco o cada vibración innecesaria es una pérdida de eficiencia que, sumada a lo largo de la vida útil del sistema, representa un impacto económico y de confort significativo."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "🛑 FOTO REQUERIDA (BUSCAR O GENERAR): Diagrama profesional de instalación de bomba de condensado en sistema split, mostrando bandeja del evaporador, tubería de descarga, válvula de retención y altura máxima de elevación."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Conclusión técnica de la lección"
+        },
+        {
+            "type": "paragraph",
+            "text": "La correcta selección, instalación y mantenimiento de la bomba de condensado es un componente esencial del dominio profesional en sistemas split. Su correcta integración garantiza seguridad, eficiencia y confiabilidad en el largo plazo, especialmente en instalaciones complejas con grandes alturas o recorridos extensos. El técnico de nivel máster planifica, dimensiona y verifica cada detalle, entendiendo que el manejo del condensado no es un accesorio secundario, sino un factor crítico que define la calidad y durabilidad de toda la instalación HVAC."
+        }
+    ]
+}
