@@ -1,0 +1,173 @@
+{
+    "blocks": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Lección 7.1: Fundamentos de VRF/VRV"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Introducción: la evolución de la climatización comercial y residencial"
+        },
+        {
+            "type": "paragraph",
+            "text": "Los sistemas VRF (Variable Refrigerant Flow) o VRV (Variable Refrigerant Volume) representan un nivel avanzado en la climatización moderna, ofreciendo control preciso de temperatura, eficiencia energética y flexibilidad de instalación tanto en edificios comerciales como residenciales de gran altura. A nivel profesional-máster, comprender estos sistemas implica no solo conocer los conceptos básicos, sino entender la interacción entre compresores inverter, unidades interiores, tuberías de refrigerante y controles electrónicos para optimizar rendimiento y confiabilidad."
+        },
+        {
+            "type": "paragraph",
+            "text": "El VRF/VRV es un sistema que utiliza un compresor central con capacidad variable para enviar refrigerante a múltiples unidades interiores, ajustando flujo y temperatura de manera independiente para cada zona. Esto permite simultáneamente enfriar unas áreas mientras se calientan otras, algo imposible en sistemas tradicionales de aire central o splits convencionales. La clave de su eficiencia radica en la regulación precisa del caudal de refrigerante y la capacidad de adaptación a la carga térmica real de cada zona."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Fundamentos de funcionamiento"
+        },
+        {
+            "type": "paragraph",
+            "text": "El principio de operación del VRF/VRV se basa en:"
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Compresor de velocidad variable (Inverter): ajusta la presión y cantidad de refrigerante según demanda, evitando ciclos on/off que consumen energía y generan desgaste.",
+                "Distribución de refrigerante: tuberías principales y secundarias transportan refrigerante líquido o gas a cada unidad interior.",
+                "Unidades interiores independientes: cada zona recibe refrigerante según su carga, controlando temperatura de forma autónoma.",
+                "Control electrónico avanzado: sensores de temperatura, presión y flujo permiten ajustar caudal, detectar fallas y optimizar eficiencia energética."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "A nivel técnico, el flujo de refrigerante se regula mediante válvulas de expansión electrónicas (EEV), que modulan la cantidad de refrigerante que entra en el evaporador de cada unidad interior. Este control preciso permite mantener temperatura constante, evitar sobreenfriamiento o sobrecalentamiento, y optimizar consumo energético en todo el edificio."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Componentes principales de un sistema VRF/VRV"
+        },
+        {
+            "type": "paragraph",
+            "text": "Unidad exterior (condensadora): contiene compresor(es) inverter, condensador, ventilador y control central. Puede ser modular para ampliar capacidad según demanda."
+        },
+        {
+            "type": "paragraph",
+            "text": "Unidades interiores: splits tipo pared, cassette, conducto o piso-techo. Cada una incluye evaporador, ventilador, válvula de expansión electrónica y sensores de temperatura y humedad."
+        },
+        {
+            "type": "paragraph",
+            "text": "Tuberías de refrigerante (Refnets): conectan unidades interiores con exteriores. Se diseñan considerando caída de presión, longitud máxima, diferencias de altura y capacidad de carga térmica."
+        },
+        {
+            "type": "paragraph",
+            "text": "Controladores y paneles de supervisión: gestionan operación, alarmas, modos de funcionamiento y comunicación entre unidades. Algunos sistemas permiten integración con BAS (Building Automation System)."
+        },
+        {
+            "type": "paragraph",
+            "text": "Accesorios: filtros, válvulas de servicio, acumuladores de aceite, sensores de flujo y presión, bandejas de condensado y dispositivos de seguridad."
+        },
+        {
+            "type": "paragraph",
+            "text": "Cada componente interactúa de manera sincronizada para garantizar eficiencia, confort y confiabilidad, lo que requiere del técnico máster conocimiento profundo de refrigeración, hidráulica, electricidad y control electrónico."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Ventajas del VRF/VRV"
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Eficiencia energética superior: ajuste de caudal de refrigerante según demanda real de cada zona.",
+                "Flexibilidad de instalación: permite conectar múltiples unidades interiores a una sola unidad exterior, con longitudes de tubería considerables y diferencias de altura importantes.",
+                "Control de zonas independiente: cada área puede tener temperatura diferente, ideal para edificios comerciales, oficinas y hoteles.",
+                "Operación simultánea calor-frío: algunas zonas pueden calentarse mientras otras se enfrían, optimizando energía.",
+                "Reducción de espacio y ductos: elimina la necesidad de grandes sistemas de aire central, plenums y ductos complejos."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Estas ventajas lo convierten en la opción preferida para proyectos de alta eficiencia y edificios con múltiples requerimientos de confort simultáneo."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Limitaciones y consideraciones profesionales"
+        },
+        {
+            "type": "paragraph",
+            "text": "A pesar de sus ventajas, los sistemas VRF/VRV presentan desafíos:"
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Diseño y cálculo complejo: requiere ingeniería avanzada para dimensionar compresores, tuberías y unidades interiores. Errores pueden generar caídas de presión, carga insuficiente o sobrecarga de compresor.",
+                "Costo inicial elevado: la inversión es mayor que un sistema split o central convencional, aunque se compensa con ahorro energético a mediano plazo.",
+                "Mantenimiento especializado: requiere técnicos capacitados en refrigeración, controles electrónicos y diagnóstico de fallas de alta tecnología.",
+                "Longitudes máximas de tuberías: se deben respetar límites de longitud total y diferencias de altura entre unidades para evitar problemas de circulación de refrigerante y retorno de aceite."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "El técnico de nivel máster planea cada proyecto considerando estos factores, realizando cálculos detallados de carga térmica, caída de presión, balance de refrigerante y ubicación estratégica de unidades interiores y exteriores."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Diferencias entre VRF y VRV"
+        },
+        {
+            "type": "paragraph",
+            "text": "Aunque se usan de manera intercambiable, existen sutiles diferencias:"
+        },
+        {
+            "type": "paragraph",
+            "text": "VRF (Variable Refrigerant Flow): término genérico que describe sistemas que varían flujo de refrigerante según demanda."
+        },
+        {
+            "type": "paragraph",
+            "text": "VRV (Variable Refrigerant Volume): denominación registrada por Daikin para su línea de sistemas VRF; conceptualmente similar, con particularidades en control, integración y software de supervisión."
+        },
+        {
+            "type": "paragraph",
+            "text": "En la práctica, ambos sistemas funcionan bajo los mismos principios de flujo variable, control de zonas, compresores inverter y eficiencia energética, siendo la diferencia principal la marca, software de control y compatibilidad con accesorios específicos."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Consideraciones para instalación profesional"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ubicación de unidades exteriores: evaluar exposición solar, viento, facilidad de mantenimiento, drenaje de condensado y acceso para tuberías de refrigerante."
+        },
+        {
+            "type": "paragraph",
+            "text": "Dimensionamiento de tuberías: calcular diámetros adecuados, longitudes máximas, pendientes para retorno de aceite y reducción de caída de presión."
+        },
+        {
+            "type": "paragraph",
+            "text": "Integración con control y sensores: asegurar comunicación confiable entre unidades interiores y exteriores, incluyendo alarmas, supervisión remota y control de economizadores o ventilación."
+        },
+        {
+            "type": "paragraph",
+            "text": "Puesta en marcha profesional: llenar correctamente refrigerante, purgar aire, verificar retorno de aceite, calibrar EEV y comprobar operación simultánea calor-frío."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "🛑 FOTO REQUERIDA (BUSCAR O GENERAR): Diagrama técnico de un sistema VRF/VRV mostrando unidad exterior con compresor inverter, múltiples unidades interiores conectadas por tuberías de refrigerante, flujo de refrigerante y retorno de aceite, y panel de control central."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Conclusión técnica de la lección"
+        },
+        {
+            "type": "paragraph",
+            "text": "Los sistemas VRF/VRV representan un nivel avanzado de climatización, combinando eficiencia energética, control preciso de zonas, operación simultánea calor-frío y flexibilidad de instalación. El técnico de nivel máster debe dominar refrigeración avanzada, hidráulica de tuberías de refrigerante, control electrónico, dimensionamiento de componentes y puesta en marcha precisa. Una instalación profesional garantiza confort, confiabilidad y eficiencia a largo plazo, transformando el edificio en un sistema de climatización inteligente y optimizado."
+        }
+    ]
+}
