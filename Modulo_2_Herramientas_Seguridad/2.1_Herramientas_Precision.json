@@ -28,9 +28,9 @@
             ]
         },
         {
-            "type": "image_placeholder",
-            "description": "FOTO REQUERIDA (BUSCAR O GENERAR): Primer plano de un 'Manómetro Digital de 4 Vías' (ej. Testo 557 o Fieldpiece) encendido, junto a una 'Pinza Amperimétrica' y un 'Vacuómetro Digital' mostrando lectura de micrones. Fondo de taller limpio.",
-            "alt": "Imagen de herramientas digitales profesionales necesarias para esta lección."
+            "type": "heading",
+            "level": 3,
+            "text": "🛑 FOTO REQUERIDA (BUSCAR O GENERAR): Primer plano de un 'Manómetro Digital de 4 Vías' (ej. Testo 557) encendido, junto a una Pinza Amperimétrica y un Vacuómetro. Fondo de taller limpio."
         },
         {
             "type": "heading",
