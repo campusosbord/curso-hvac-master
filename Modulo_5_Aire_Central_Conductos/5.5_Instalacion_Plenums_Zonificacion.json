@@ -1,0 +1,101 @@
+{
+    "blocks": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Lección 5.5: Instalación de Plenums y Zonificación"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Introducción: la función crítica de plenums y dampers"
+        },
+        {
+            "type": "paragraph",
+            "text": "En sistemas de aire central, los plenums y dampers no son elementos accesorios, sino componentes estratégicos que determinan la eficiencia, el confort y la flexibilidad del sistema. A nivel profesional-máster, la correcta instalación de plenums y la zonificación con dampers permite controlar el caudal de aire hacia distintas áreas, equilibrar presiones, optimizar consumo energético y garantizar que cada espacio reciba la cantidad exacta de aire necesario."
+        },
+        {
+            "type": "paragraph",
+            "text": "El técnico experto entiende que un sistema sin zonificación adecuada es incapaz de adaptarse a cambios de carga térmica, provoca desequilibrio en la presión de ductos, pérdida de confort y desgaste prematuro de ventiladores y compresores. La planificación, ubicación y calibración de plenums y dampers forman la base de cualquier instalación profesional de aire central."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Diseño y función de los plenums"
+        },
+        {
+            "type": "paragraph",
+            "text": "Los plenums son cámaras de distribución que conectan la salida de la AHU o equipo paquete con los ductos principales. Su función es transformar el flujo concentrado de aire en un caudal uniforme y distribuido, minimizando turbulencias y caídas de presión. A nivel avanzado, el técnico de nivel máster calcula dimensiones, longitud y forma de plenums considerando el caudal de aire, la velocidad de salida del ventilador, la sección de ductos conectados y la ubicación de dampers."
+        },
+        {
+            "type": "paragraph",
+            "text": "El material del plenum también se selecciona según criterios profesionales: lámina metálica galvanizada para rigidez y durabilidad, o paneles de fibra de vidrio para reducción de ruido y aislamiento térmico. La orientación de entradas y salidas, así como el uso de deflectores internos, se optimiza para garantizar distribución uniforme y minimizar zonas de recirculación o presión negativa que afecten la eficiencia del sistema."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Ubicación y calibración de dampers"
+        },
+        {
+            "type": "paragraph",
+            "text": "Los dampers, o compuertas, son dispositivos de control que permiten regular el caudal de aire hacia cada rama de ductos. En instalaciones de nivel profesional, no se instalan de manera aleatoria: su ubicación se determina mediante cálculos de balance de presión, caída de presión en cada tramo y necesidades de cada zona."
+        },
+        {
+            "type": "paragraph",
+            "text": "Cada damper se calibra para mantener el flujo de aire previsto, utilizando herramientas como manómetros estáticos y anemómetros para medir caudales reales. En sistemas complejos con múltiples zonas, el técnico de nivel máster implementa dampers motorizados conectados a controles centrales o termostatos inteligentes, permitiendo ajustes automáticos según demanda térmica, ocupación del espacio o condiciones ambientales."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Zonificación: balance de presión y eficiencia energética"
+        },
+        {
+            "type": "paragraph",
+            "text": "La zonificación es la estrategia de dividir el sistema de aire central en áreas independientes que reciben aire de manera controlada. Esto permite reducir el consumo energético, mejorar el confort y prolongar la vida útil de los equipos. A nivel avanzado, el técnico analiza la carga térmica de cada zona, la longitud de ductos, el número de codos, la ubicación de rejillas y difusores, y calcula la apertura óptima de dampers para lograr balance de presión uniforme en todo el sistema."
+        },
+        {
+            "type": "paragraph",
+            "text": "El balance adecuado evita sobrepresión en ciertas ramas y subpresión en otras, que podrían generar ruidos, turbulencia, flujo insuficiente y fatiga prematura del ventilador. En instalaciones profesionales, cada damper se ajusta finamente durante la puesta en marcha, verificando caudales y presiones en cada zona mediante medición directa y registro de datos para ajustes posteriores."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Integración con controles automáticos"
+        },
+        {
+            "type": "paragraph",
+            "text": "En sistemas de alta eficiencia, los dampers se integran con controles automáticos y termostatos inteligentes. Esto permite una regulación dinámica del caudal de aire según temperatura, ocupación y demanda energética. El técnico de nivel máster planifica esta integración desde el diseño, asegurando compatibilidad con sensores de temperatura, controladores de zona y sistemas de gestión centralizada."
+        },
+        {
+            "type": "paragraph",
+            "text": "Los sistemas con control de velocidad variable del ventilador (VAV) requieren coordinación precisa entre dampers y ventilador principal, ajustando presión estática y caudales de manera continua para mantener eficiencia y confort. Cada ajuste se realiza siguiendo protocolos de balance profesional, garantizando que el sistema funcione de manera óptima bajo todas las condiciones operativas."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Prevención de problemas y optimización"
+        },
+        {
+            "type": "paragraph",
+            "text": "El correcto diseño e instalación de plenums y dampers evita problemas comunes: ruido excesivo, caídas de presión desbalanceadas, zonas calientes o frías, y sobreesfuerzo del ventilador. El técnico experto utiliza diagramas de flujo, curvas de presión y cálculos de pérdida menor para anticipar puntos críticos y aplicar soluciones antes de que ocurran fallas."
+        },
+        {
+            "type": "paragraph",
+            "text": "Además, la implementación profesional considera facilidad de mantenimiento, acceso a dampers y plenums, y posibilidad de ajustes posteriores sin interrumpir la operación del sistema. Esto asegura un rendimiento estable y confiable a largo plazo."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "🛑 FOTO REQUERIDA (BUSCAR O GENERAR): Diagrama profesional mostrando un plenum central conectado a ductos con dampers motorizados y manuales, indicando flujo de aire, zonas de presión y ajustes de balance de caudal."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Conclusión técnica de la lección"
+        },
+        {
+            "type": "paragraph",
+            "text": "La instalación de plenums, dampers y zonificación constituye un nivel avanzado de ingeniería en sistemas de aire central. Su correcta planificación, ubicación, calibración y control determinan la eficiencia energética, el confort, la confiabilidad y la durabilidad del sistema. El técnico de nivel máster diseña cada componente considerando interacción con ductos, balance de presión, caudales por zona y control automático, asegurando que el sistema funcione de manera óptima bajo cualquier condición operativa, integrando precisión, eficiencia y seguridad en la instalación profesional."
+        }
+    ]
+}
