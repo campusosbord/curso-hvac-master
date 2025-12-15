@@ -1,0 +1,136 @@
+{
+    "blocks": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Lección 6.3: Instalación sobre base (Curb)"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Introducción: la base del soporte en instalaciones comerciales"
+        },
+        {
+            "type": "paragraph",
+            "text": "La instalación de unidades tipo paquete (RTU) sobre techo no se limita a colocar el equipo sobre una superficie plana. La base o “curb” constituye un elemento crítico que soporta el peso de la unidad, aísla vibraciones, asegura nivelación, permite integración de ductos y previene filtraciones de aire o agua. A nivel profesional-máster, un curb mal instalado puede generar vibraciones excesivas, desalineación de ductos, fugas de aire, infiltración de agua y sobrecarga de la estructura del techo, comprometiendo eficiencia, confort y durabilidad del sistema."
+        },
+        {
+            "type": "paragraph",
+            "text": "El técnico experto entiende que cada curb es una estructura diseñada específicamente para el modelo y capacidad de la RTU, considerando peso, dimensiones, vibraciones, expansión térmica y carga del viento. La instalación requiere análisis estructural del techo, selección de materiales adecuados, sellado hermético, integración con ductos y sistema eléctrico, y nivelación precisa."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tipos de bases o curbs"
+        },
+        {
+            "type": "paragraph",
+            "text": "Existen diferentes tipos de bases según la aplicación y tipo de RTU:"
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Bases metálicas prefabricadas: fabricadas en acero galvanizado o aluminio, con refuerzos internos para soportar peso y vibraciones.",
+                "Bases de concreto o bloques estructurales: utilizadas en techos donde se requiere mayor rigidez y estabilidad, aunque requieren aislamiento antivibración adicional.",
+                "Bases ajustables o modulares: permiten ajustar altura y nivelación, facilitando alineación con ductos y rejillas de retorno/suministro."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "El técnico profesional selecciona la base considerando capacidad de carga del techo, peso de la unidad, altura de ductos de conexión, accesibilidad para mantenimiento y protección contra filtraciones."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Preparación del techo y verificación estructural"
+        },
+        {
+            "type": "paragraph",
+            "text": "Antes de instalar la base, el técnico realiza inspección estructural del techo, evaluando capacidad de carga, nivelación, inclinación, pendientes para drenaje de agua y presencia de obstáculos como bajantes o accesos de mantenimiento. En edificios comerciales, es crítico garantizar que la carga concentrada del RTU y curb no exceda la capacidad estructural ni genere deformaciones que puedan afectar ductos o vibraciones."
+        },
+        {
+            "type": "paragraph",
+            "text": "Se verifica también que el techo tenga impermeabilización adecuada y que no existan filtraciones previas. En techos metálicos, se inspecciona resistencia de la cubierta y puntos de fijación; en techos de concreto, se evalúa integridad del material y posibilidad de anclaje mediante pernos o tornillería especializada."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Montaje y nivelación de la base"
+        },
+        {
+            "type": "paragraph",
+            "text": "La instalación profesional comienza con colocar la base en la ubicación exacta, asegurando que quede perfectamente alineada con ductos, entradas y salidas de aire, y acceso a mantenimiento. El técnico utiliza niveles de precisión, reglas láser y herramientas de medición para garantizar nivelación en los tres ejes."
+        },
+        {
+            "type": "paragraph",
+            "text": "Se instalan pads o soportes antivibración debajo de la base para aislar vibraciones del ventilador y compresor, evitando transmisión de ruido y fatiga estructural. Cada anclaje se realiza mediante tornillería de alta resistencia, adhesivos o soldaduras según diseño de base y techo, garantizando estabilidad ante cargas dinámicas y viento."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Integración con ductos y plenums"
+        },
+        {
+            "type": "paragraph",
+            "text": "Una vez nivelada la base, el técnico procede a conectar ductos de suministro y retorno. El curb debe permitir alineación perfecta con plenums y difusores, minimizando pérdidas de presión y turbulencias. Se utilizan transiciones y codos diseñados para suavizar el flujo de aire, y cada unión se sella herméticamente con cinta de estanqueidad, selladores o juntas especiales."
+        },
+        {
+            "type": "paragraph",
+            "text": "El diseño profesional asegura que el aire fluya de manera uniforme desde la RTU hacia los ductos principales, evitando zonas de recirculación, sobrepresión o flujo insuficiente en puntos críticos."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Sellado y protección contra filtraciones"
+        },
+        {
+            "type": "paragraph",
+            "text": "El curb debe sellarse para evitar infiltración de agua, aire no deseado y humedad hacia la unidad o ductos. Se aplican selladores impermeables, cintas de alta durabilidad y gomas de estanqueidad en todo el perímetro y puntos de unión con el techo."
+        },
+        {
+            "type": "paragraph",
+            "text": "El técnico experto considera expansiones térmicas y movimientos estructurales, asegurando que los sellos mantengan integridad ante cambios de temperatura, viento y vibraciones de la unidad. Además, se instalan bandejas de drenaje y pendientes internas para dirigir agua de lluvia o condensado hacia desagües, protegiendo el techo y la unidad."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Conexiones eléctricas y mecánicas"
+        },
+        {
+            "type": "paragraph",
+            "text": "El curb también facilita acceso para conexiones eléctricas y de refrigerante. El técnico profesional planifica rutas de cableado y tuberías de refrigerante para evitar tensiones, codos excesivos y interferencias. Se respetan códigos de color, separación entre líneas de potencia y señal, y protección contra humedad y daños mecánicos."
+        },
+        {
+            "type": "paragraph",
+            "text": "Los actuadores, sensores y controles conectados a la RTU deben ser accesibles para mantenimiento y verificación, evitando desmontajes complejos y riesgos durante operación."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Verificación final y puesta en marcha"
+        },
+        {
+            "type": "paragraph",
+            "text": "Tras la instalación del curb y la RTU, el técnico realiza verificación completa: nivelación, anclajes, sellado, integración con ductos, conexiones eléctricas y mecánicas, y estabilidad estructural. Se realizan pruebas de vibración, presión de ductos, flujo de aire, fugas de refrigerante y operación de economizadores y controles."
+        },
+        {
+            "type": "paragraph",
+            "text": "El objetivo es garantizar que la unidad funcione dentro de los parámetros diseñados, sin transmisión de vibraciones, ruido excesivo, pérdidas de eficiencia o riesgo de filtración."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "🛑 FOTO REQUERIDA (BUSCAR O GENERAR): Diagrama profesional mostrando una RTU instalada sobre curb metálico en techo: nivelación, pads antivibración, ductos de entrada y salida, sellado perimetral y rutas de cableado y refrigerante."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Conclusión técnica de la lección"
+        },
+        {
+            "type": "paragraph",
+            "text": "La instalación de una RTU sobre base (curb) en techos es un proceso crítico que combina ingeniería estructural, mecánica, eléctrica y de control. La correcta selección, nivelación, antivibración, sellado, integración con ductos y conexiones garantiza eficiencia energética, confort, durabilidad y operación confiable del sistema. El técnico de nivel máster planifica, ejecuta y verifica cada detalle, asegurando que la unidad funcione óptimamente durante toda su vida útil, evitando problemas estructurales, vibraciones, fugas y pérdida de eficiencia."
+        }
+    ]
+}
