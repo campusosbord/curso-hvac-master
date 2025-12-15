@@ -1,0 +1,131 @@
+{
+    "blocks": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Lección 5.2: Instalación de Manejadora y Condensadora"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Introducción: La importancia de una instalación experta"
+        },
+        {
+            "type": "paragraph",
+            "text": "La instalación de la Manejadora de Aire (AHU) y la unidad condensadora en sistemas de aire central no puede abordarse de manera improvisada. A nivel máster, esta instalación representa un punto crítico donde convergen mecánica, refrigeración, electricidad, control y diseño de ductos. Un montaje incorrecto o una alineación deficiente afecta directamente la eficiencia del sistema, la durabilidad del compresor y ventiladores, el confort térmico y la seguridad del edificio."
+        },
+        {
+            "type": "paragraph",
+            "text": "El técnico avanzado entiende que cada decisión, desde la selección de ubicación hasta la conexión final de tuberías y cables, debe estar sustentada en principios de ingeniería aplicada, considerando factores como vibración, ruido, resistencia estructural, pendientes para drenaje y retornos de aceite, caída de presión en ductos y seguridad operativa."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Planificación y ubicación de la AHU"
+        },
+        {
+            "type": "paragraph",
+            "text": "La ubicación de la AHU es crítica y debe evaluarse con criterios profesionales: accesibilidad para mantenimiento, proximidad a ductos de suministro y retorno, minimización de vibraciones y ruido, y facilidad de conexión a las líneas de refrigerante y drenaje de condensado. El técnico de nivel máster realiza un análisis previo que incluye medición de espacio disponible, alineación con soportes estructurales, evaluación de carga del piso y rutas de acceso para transporte de componentes pesados."
+        },
+        {
+            "type": "paragraph",
+            "text": "En aplicaciones comerciales ligeras, el posicionamiento de la AHU debe permitir la integración de filtros, serpentines de calentamiento o enfriamiento, bandejas de condensado y ventiladores, asegurando que la trayectoria del aire sea lo más lineal posible para reducir pérdidas de carga. Cualquier desalineación o restricción genera turbulencia, ruido excesivo y reducción de la eficiencia energética, factores que afectan el rendimiento global del sistema y la satisfacción del usuario final."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Montaje y anclaje estructural"
+        },
+        {
+            "type": "paragraph",
+            "text": "Una vez seleccionada la ubicación, el montaje requiere precisión absoluta. Los soportes de la AHU deben ser resistentes a la vibración y a las cargas dinámicas del ventilador y el motor, con anclajes nivelados para evitar torsión o desbalance. El técnico profesional utiliza niveles de alta precisión, herramientas de alineación láser y dispositivos antivibratorios certificados."
+        },
+        {
+            "type": "paragraph",
+            "text": "En instalaciones complejas, puede ser necesario el uso de bases aislantes, resortes o pads antivibración, diseñados según la masa del equipo y las frecuencias naturales de la estructura. La correcta implementación de estos elementos previene ruido, fatiga estructural y transmisión de vibraciones hacia ductos, paredes o techos."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Conexión de refrigerante: rutas, aislamiento y optimización de flujo"
+        },
+        {
+            "type": "paragraph",
+            "text": "El trazado de tuberías de refrigerante entre la AHU y la condensadora requiere un cálculo riguroso de longitud, diámetro, pendiente y ubicación de codos y trampas de aceite. El técnico de nivel máster comprende la dinámica del refrigerante y el aceite dentro del sistema, anticipando posibles puntos de acumulación, pérdida de presión y sobrecalentamiento del compresor."
+        },
+        {
+            "type": "paragraph",
+            "text": "Se seleccionan tuberías de cobre de alta calidad, correctamente aisladas con material resistente a la compresión y la humedad, evitando puentes térmicos que afecten la eficiencia. Cada unión y soldadura se realiza bajo condiciones controladas, aplicando técnicas de brazing con nitrógeno para evitar oxidación interna y garantizar la hermeticidad del sistema. La carga de refrigerante se ajusta de manera precisa, considerando la longitud total de la línea, la altura relativa entre AHU y condensadora, y las condiciones ambientales extremas que podrían presentarse durante la operación."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Conexiones eléctricas y control"
+        },
+        {
+            "type": "paragraph",
+            "text": "La alimentación eléctrica de la AHU y la condensadora debe planificarse con criterios de ingeniería: se calculan las secciones de cable necesarias para evitar caída de tensión, se instalan protecciones contra sobrecorriente y cortocircuito, y se implementan conexiones de control de bajo voltaje según especificaciones del fabricante."
+        },
+        {
+            "type": "paragraph",
+            "text": "El técnico avanzado coordina los contactos de arranque, termostatos, sensores de presión y temperatura, relés y controladores para asegurar la sincronización perfecta entre la AHU y la condensadora. La correcta implementación del cableado asegura que las funciones de seguridad, como apagado por presión alta o baja, interrupción por falta de agua de condensado y protección del compresor, operen de manera confiable."
+        },
+        {
+            "type": "paragraph",
+            "text": "Cada cable, canalización y conexión se documenta, etiquetando fases, neutro, tierra y señales de control, de modo que el sistema pueda ser mantenido, diagnosticado y ampliado sin riesgo de errores humanos."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Optimización del flujo de aire"
+        },
+        {
+            "type": "paragraph",
+            "text": "El rendimiento de la AHU no depende únicamente de la potencia del ventilador, sino de cómo se integra con el sistema de ductos. El técnico profesional evalúa el tamaño de la bandeja de aire, la sección de entrada y salida, la orientación de serpentines y filtros, y la alineación con dampers y plenums para garantizar un flujo uniforme y eficiente."
+        },
+        {
+            "type": "paragraph",
+            "text": "Se realizan cálculos de caída de presión, velocidad del aire y distribución de caudales por zona, asegurando que cada área del edificio reciba la cantidad exacta de aire requerida. En instalaciones complejas, el ajuste de dampers, rejillas y difusores es clave para mantener confort y eficiencia, evitando zonas de sobrepresión, recirculación o estratificación térmica."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Instalación de la condensadora"
+        },
+        {
+            "type": "paragraph",
+            "text": "La unidad condensadora requiere criterios igualmente rigurosos. Su ubicación debe permitir ventilación libre, acceso para mantenimiento y protección frente a elementos climáticos. En instalaciones sobre techo o plataformas, se calcula la carga estructural y se implementan anclajes antivibración y pads de aislamiento."
+        },
+        {
+            "type": "paragraph",
+            "text": "La condensadora se conecta a la AHU mediante las tuberías de refrigerante y el sistema eléctrico, asegurando que la longitud, pendiente y aislamiento sean adecuados. La protección de los contactos eléctricos y la prevención de interferencias electromagnéticas son aspectos que el técnico máster evalúa en la etapa de diseño y ejecución."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Verificación y puesta en marcha"
+        },
+        {
+            "type": "paragraph",
+            "text": "Una vez instalada, el sistema se somete a pruebas de vacío, detección de fugas, carga de refrigerante, arranque eléctrico y verificación de flujo de aire. El técnico avanzado realiza mediciones de presión, temperatura y caudal, asegurando que cada componente opere dentro de los parámetros especificados por el fabricante."
+        },
+        {
+            "type": "paragraph",
+            "text": "La verificación incluye monitoreo del retorno de aceite, rendimiento del ventilador, correcto drenaje de condensado y respuesta de los controles automáticos. Cualquier desviación se corrige inmediatamente, aplicando criterios de ajuste fino que aseguran eficiencia, confiabilidad y durabilidad."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "🛑 FOTO REQUERIDA (BUSCAR O GENERAR): Diagrama profesional de instalación mostrando AHU interior, condensadora exterior, tuberías de refrigerante con trampas de aceite, conexiones eléctricas y rutas de ductos, indicando pendientes y flujo de aire."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Conclusión técnica de la lección"
+        },
+        {
+            "type": "paragraph",
+            "text": "La instalación experta de la AHU y la condensadora es un proceso que integra mecánica, refrigeración, electricidad, control y diseño de ductos. Cada detalle, desde el montaje estructural hasta la verificación del flujo de aire, impacta directamente en eficiencia, confort y durabilidad del sistema. El técnico de nivel máster planifica, ejecuta y verifica cada paso con criterios de ingeniería aplicada, garantizando que el sistema funcione de manera óptima desde el arranque y mantenga su rendimiento a largo plazo, incluso en condiciones complejas de operación y mantenimiento."
+        }
+    ]
+}
