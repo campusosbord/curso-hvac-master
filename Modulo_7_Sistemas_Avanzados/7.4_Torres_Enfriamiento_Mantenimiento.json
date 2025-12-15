@@ -1,0 +1,162 @@
+{
+    "blocks": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Lección 7.4: Torres de enfriamiento y mantenimiento"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Introducción: la importancia del mantenimiento avanzado"
+        },
+        {
+            "type": "paragraph",
+            "text": "Los sistemas VRF/VRV y los chillers representan la climatización de alta eficiencia y complejidad, utilizados en edificios comerciales, hoteles, hospitales y residencias de lujo. Su operación confiable depende de un mantenimiento profesional que combine inspección, limpieza, diagnóstico y ajuste de parámetros críticos."
+        },
+        {
+            "type": "paragraph",
+            "text": "A nivel máster, el técnico no realiza solo limpiezas superficiales o cambios de filtros: analiza la condición de compresores, unidades interiores, válvulas de expansión, tuberías, sensores, bombas, rodamientos y torres de enfriamiento, asegurando eficiencia energética máxima y prevención de fallas costosas. El enfoque integra mantenimiento preventivo, predictivo y correctivo, utilizando instrumentos avanzados de medición y protocolos de verificación."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Mantenimiento de sistemas VRF/VRV"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "1. Unidades interiores"
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Filtros de aire: inspección, limpieza o reemplazo. Se verifica acumulación de polvo y partículas finas que reduzcan flujo de aire y eficiencia.",
+                "Evaporadores y serpentines: limpieza con aire comprimido o productos específicos para remover polvo, grasa y contaminación biológica.",
+                "Válvulas de expansión electrónicas (EEV): verificación de apertura/cierre, calibración de señal, y prueba de respuesta según demanda térmica.",
+                "Ventiladores y motores: inspección de rodamientos, correas (si aplica), balanceo y lubricación según fabricante."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "2. Unidades exteriores"
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Compresores inverter: revisión de conexiones eléctricas, medición de corriente y voltaje, análisis de vibración y temperatura.",
+                "Condensadores: limpieza de aletas y serpentines, evitando acumulación de suciedad que reduzca transferencia de calor.",
+                "Sensores y controles: verificación de sensores de presión, temperatura, flujo y comunicación con unidades interiores y paneles de control.",
+                "Tubos de refrigerante: inspección visual de fugas, soporte mecánico y aislamiento térmico."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "3. Pruebas y verificación"
+        },
+        {
+            "type": "paragraph",
+            "text": "El técnico realiza pruebas de operación completa:"
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Demanda simultánea de múltiples zonas para verificar flujo de refrigerante.",
+                "Prueba de modos calor/frío simultáneos si el sistema lo permite.",
+                "Medición de caudales de aire, presión de refrigerante y retorno de aceite.",
+                "Ajustes finos de controladores y sensores según datos reales de operación."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Mantenimiento de Chillers y Torres de Enfriamiento"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "1. Chillers"
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Evaporadores y condensadores: limpieza química o mecánica de serpentines, control de incrustaciones, suciedad y corrosión.",
+                "Compresores: inspección de rodamientos, válvulas internas, niveles de aceite y vibraciones.",
+                "Válvulas de expansión y filtros: verificación de presión, limpieza de filtros y calibración de válvulas.",
+                "Bombas de agua helada (CHW): revisión de funcionamiento, alineación, lubricación y curva de operación."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "2. Torres de enfriamiento"
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Limpieza de bandejas y relleno: eliminación de sedimentos, algas, incrustaciones y suciedad que reduzcan eficiencia.",
+                "Ventiladores y rodamientos: lubricación, balanceo, inspección de correas y tensiones.",
+                "Nivel de agua y tratamiento químico: prevención de corrosión, biopelículas y depósitos minerales.",
+                "Verificación de flujo y temperatura: asegurando que la torre entregue agua fría según diseño del sistema."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Diagnóstico avanzado de fallas"
+        },
+        {
+            "type": "paragraph",
+            "text": "El técnico máster utiliza herramientas y metodologías avanzadas para identificar problemas antes de que se conviertan en fallas graves: Medición de presión y temperatura de refrigerante (detectando fugas, sobrecarga o subcarga), Análisis de consumo eléctrico (identificando motores o compresores con sobrecarga), Monitoreo de vibraciones y ruidos, y Verificación de flujo de agua y aire."
+        },
+        {
+            "type": "paragraph",
+            "text": "El enfoque predictivo permite planificar mantenimiento preventivo, evitando paradas inesperadas y prolongando vida útil de todos los componentes."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Procedimientos de mantenimiento preventivo"
+        },
+        {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+                "Inspección semanal: filtros, niveles de aceite, presión de refrigerante y limpieza ligera de serpentines.",
+                "Mantenimiento mensual: revisión de sensores, conexiones eléctricas, limpieza profunda de serpentines y chequeo de rodamientos.",
+                "Mantenimiento trimestral/semestral: balanceo de ventiladores, ajuste de válvulas, verificación de caudales de agua y refrigerante, inspección de torres de enfriamiento.",
+                "Revisión anual: calibración completa de controles, pruebas de eficiencia energética, reemplazo de componentes críticos y limpieza química de chillers y torres."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Optimización de eficiencia energética"
+        },
+        {
+            "type": "paragraph",
+            "text": "El mantenimiento básico profesional también incluye optimización: Ajuste de setpoints y curvas de operación según demanda real, Limpieza y calibración de intercambiadores para máxima transferencia térmica, Verificación de flujo de agua y aire para reducir pérdidas de presión, e Integración de controladores con BAS para monitoreo remoto y alertas tempranas."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "🛑 FOTO REQUERIDA (BUSCAR O GENERAR): Diagrama de mantenimiento profesional de VRF y chiller: unidades interiores, unidad exterior, tuberías, compresores, bombas, torres de enfriamiento y puntos de inspección críticos señalados."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Conclusión técnica de la lección"
+        },
+        {
+            "type": "paragraph",
+            "text": "El mantenimiento básico de sistemas avanzados VRF/VRV y chillers requiere un enfoque profesional, meticuloso y predictivo, combinando inspección, limpieza, ajustes, diagnóstico y optimización de eficiencia. El técnico máster implementa procedimientos preventivos, mide y calibra cada componente, verifica controladores y sensores, optimiza flujo de aire y agua, y asegura que el sistema opere confiable, eficiente y silenciosamente durante toda su vida útil, minimizando costos operativos y evitando fallas críticas."
+        }
+    ]
+}
