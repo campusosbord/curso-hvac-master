@@ -1,0 +1,136 @@
+{
+    "blocks": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Lección 4.1: Cálculo de Carga Térmica Profesional (Manual J Simplificado)"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Introducción: la carga térmica como fundamento de toda instalación experta"
+        },
+        {
+            "type": "paragraph",
+            "text": "En la instalación profesional de equipos tipo split, el cálculo de carga térmica constituye el punto de partida técnico sobre el cual se construyen todas las decisiones posteriores. A nivel máster, este cálculo no se considera una formalidad comercial ni una aproximación rápida basada en metros cuadrados, sino una herramienta analítica que define la viabilidad, eficiencia y durabilidad del sistema HVAC. Una selección incorrecta de capacidad no solo compromete el confort, sino que impacta directamente en el consumo energético, el desgaste del compresor y la estabilidad del sistema a largo plazo."
+        },
+        {
+            "type": "paragraph",
+            "text": "El Manual J, desarrollado como metodología estandarizada para el cálculo de cargas térmicas, ofrece un marco técnico riguroso. En la práctica profesional, especialmente en instalaciones split residenciales y comerciales ligeras, se emplea una versión simplificada que conserva los principios fundamentales sin requerir herramientas de ingeniería complejas. El técnico de nivel máster domina esta simplificación sin perder la esencia del método original."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Principios físicos que gobiernan la carga térmica"
+        },
+        {
+            "type": "paragraph",
+            "text": "La carga térmica representa la cantidad total de energía que debe extraerse o suministrarse a un espacio para mantener condiciones interiores deseadas. Desde un enfoque técnico avanzado, esta carga se compone de múltiples fuentes simultáneas de ganancia y pérdida de calor. El técnico máster entiende que el espacio no es un volumen aislado, sino un sistema dinámico que intercambia energía continuamente con su entorno."
+        },
+        {
+            "type": "paragraph",
+            "text": "Las ganancias térmicas pueden provenir de la radiación solar, la conducción a través de cerramientos, la infiltración de aire exterior y la generación interna de calor por ocupantes y equipos. Cada una de estas fuentes tiene una naturaleza distinta y varía según la orientación, el clima, los materiales y el uso del espacio. Ignorar cualquiera de ellas equivale a introducir un error sistemático en el cálculo."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Envolvente del edificio y transmisión térmica"
+        },
+        {
+            "type": "paragraph",
+            "text": "En el cálculo profesional de carga térmica, la envolvente del edificio adquiere un rol central. Muros, techos, pisos, ventanas y puertas actúan como interfaces térmicas entre el interior y el exterior. A nivel máster, el técnico no se limita a medir dimensiones, sino que evalúa la calidad térmica de los materiales, su exposición y su comportamiento ante variaciones climáticas."
+        },
+        {
+            "type": "paragraph",
+            "text": "La transmisión de calor por conducción depende del coeficiente térmico de cada elemento constructivo. Un muro expuesto al sol directo durante gran parte del día no aporta la misma carga que un muro sombreado, incluso si sus dimensiones son idénticas. Esta comprensión permite al técnico ajustar el cálculo y evitar sobredimensionamientos basados en promedios genéricos."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Radiación solar y orientación del espacio"
+        },
+        {
+            "type": "paragraph",
+            "text": "La radiación solar es una de las variables más críticas y, al mismo tiempo, más subestimadas en cálculos no profesionales. En instalaciones expertas, la orientación del espacio determina la magnitud de la carga térmica solar, especialmente a través de superficies vidriadas. El técnico de nivel máster analiza cómo el sol incide sobre el edificio a lo largo del día y del año, identificando picos de carga que condicionan la selección del equipo."
+        },
+        {
+            "type": "paragraph",
+            "text": "El uso del Manual J simplificado permite incorporar esta variable mediante factores de corrección que reflejan la realidad climática del sitio. Esta práctica distingue a una instalación profesional de una instalación basada en reglas empíricas."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Infiltración y renovación de aire"
+        },
+        {
+            "type": "paragraph",
+            "text": "La infiltración de aire exterior constituye una fuente significativa de carga térmica, particularmente en climas cálidos y húmedos. Desde una perspectiva máster, el técnico comprende que cada renovación de aire introduce una masa térmica que debe ser acondicionada. Este fenómeno no depende únicamente del diseño del edificio, sino también de la calidad de sellado, el uso de puertas y la presión interior."
+        },
+        {
+            "type": "paragraph",
+            "text": "El cálculo profesional no ignora esta variable, incluso en instalaciones residenciales. Subestimar la infiltración conduce a sistemas que operan de forma continua sin alcanzar el confort esperado, mientras que sobreestimarla genera equipos sobredimensionados y ciclos cortos."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Cargas internas: ocupantes y equipos"
+        },
+        {
+            "type": "paragraph",
+            "text": "En el análisis de carga térmica, las cargas internas representan una fuente constante y predecible de calor. A nivel máster, el técnico evalúa el uso real del espacio, considerando la densidad de ocupación y la presencia de equipos eléctricos que generan calor sensible y latente. Un dormitorio, una oficina y un local comercial presentan perfiles de carga completamente distintos, incluso con dimensiones similares."
+        },
+        {
+            "type": "paragraph",
+            "text": "La correcta evaluación de estas cargas permite ajustar la capacidad del equipo split a la realidad operativa del espacio, evitando decisiones basadas únicamente en el tamaño físico del área."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Aplicación práctica del Manual J simplificado"
+        },
+        {
+            "type": "paragraph",
+            "text": "El Manual J simplificado se apoya en la suma ponderada de todas las cargas térmicas identificadas. A nivel profesional, el técnico no utiliza este método como una fórmula rígida, sino como una guía estructurada que permite evaluar cada componente de la carga con criterio técnico. El resultado final no es un número aislado, sino una referencia que debe interpretarse en el contexto de la instalación."
+        },
+        {
+            "type": "paragraph",
+            "text": "El técnico máster valida el resultado comparándolo con su experiencia de campo y con condiciones extremas previsibles. Esta validación es lo que transforma un cálculo teórico en una decisión profesional confiable."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "🛑 FOTO REQUERIDA (BUSCAR O GENERAR): Esquema de cálculo de carga térmica mostrando envolvente, radiación solar, infiltración y cargas internas."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Impacto del sobredimensionamiento y subdimensionamiento"
+        },
+        {
+            "type": "paragraph",
+            "text": "Uno de los errores más comunes en instalaciones no profesionales es el sobredimensionamiento del equipo. A nivel máster, se comprende que un equipo demasiado grande no mejora el confort, sino que lo degrada. Ciclos cortos, mala deshumidificación y desgaste prematuro del compresor son consecuencias directas de una selección incorrecta."
+        },
+        {
+            "type": "paragraph",
+            "text": "Por otro lado, el subdimensionamiento obliga al equipo a operar de forma continua, reduciendo su vida útil y aumentando el consumo energético. El cálculo profesional de carga térmica es la única herramienta que permite evitar ambos extremos con criterio técnico."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Selección final del equipo split"
+        },
+        {
+            "type": "paragraph",
+            "text": "Una vez determinada la carga térmica, el técnico de nivel máster selecciona el equipo split considerando no solo la capacidad nominal, sino también las condiciones reales de operación. Altura de instalación, recorridos de tubería y variaciones de carga influyen en la decisión final. El cálculo de carga térmica se convierte así en la base sobre la cual se integran los demás factores de la instalación experta."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Conclusión técnica de la lección"
+        },
+        {
+            "type": "paragraph",
+            "text": "El cálculo de carga térmica profesional representa el fundamento técnico de toda instalación HVAC de alto nivel. Dominar el Manual J simplificado permite al técnico de nivel máster tomar decisiones informadas, optimizar la eficiencia del sistema y garantizar el confort a largo plazo. En este nivel de formación, el cálculo deja de ser una aproximación empírica y se convierte en una herramienta estratégica que define la calidad de la instalación."
+        }
+    ]
+}
