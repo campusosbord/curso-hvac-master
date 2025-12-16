@@ -1,0 +1,17 @@
+- [x] Definir y Aprobar Temario (Syllabus) <!-- id: 0 -->
+- [x] Módulo 1: Termodinámica Avanzada y Psicrometría (Reescritura Nivel Experto) <!-- id: 1 -->
+- [/] Módulo 2: Herramientas Profesionales y Seguridad Industrial <!-- id: 2 -->
+    - [x] 2.1 Herramientas de Precisión (JSON Text Only)
+    - [x] 2.2 Soldadura Fuerte (JSON Text Only)
+    - [ ] 2.3 Recuperación y Reciclaje
+- [ ] Módulo 3: Electricidad y Electrónica de Control <!-- id: 3 -->
+- [ ] Módulo 4: Instalación Experta de Equipos Split <!-- id: 4 -->
+- [ ] Módulo 5: Aire Central: Instalación y Conductos (Nivel Pro) <!-- id: 10 -->
+- [ ] Módulo 6: Sistemas Comerciales: Rooftops y Paquetes <!-- id: 11 -->
+- [ ] Módulo 7: Introducción a Sistemas Avanzados (VRF y Chillers) <!-- id: 12 -->
+- [ ] Módulo 8: Mantenimiento Integral (Residencial y Comercial) <!-- id: 5 -->
+- [ ] Módulo 9: Diagnóstico Avanzado de Averías <!-- id: 6 -->
+- [ ] Módulo 10: Gases Refrigerantes, Recuperación y Normativa <!-- id: 7 -->
+- [ ] Módulo 11: Gestión del Negocio, Costos y Atención al Cliente <!-- id: 13 -->
+- [x] Generar JSON Estructurado del Curso <!-- id: 14 -->
+- [ ] Recopilación Final y Entrega <!-- id: 9 -->
